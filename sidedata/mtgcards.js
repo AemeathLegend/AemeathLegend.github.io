@@ -251,12 +251,12 @@ async function getasfile()
 
 function openpacksimulator()
 {
-    window.location.href = './packsimulator.html';
+    window.location.href = './sidedata/packsimulator.html';
 }
 
 function backtomainmenu()
 {
-    window.location.href = './htmlforcollectedcards.html';
+    window.location.href = '../index.html';
 }
 
 async function openpack()
@@ -431,7 +431,7 @@ async function loginuser() {
         });
         const data = await response;
         if (data.ok) {
-            window.location.href = './htmlforcollectedcards.html';
+            window.location.href = './index.html';
         } else if (data.message === 'Falsches Passwort') {
             alert('Wrong password, please try again.');
         } else {
@@ -458,7 +458,7 @@ async function registeruser() {
         if (!data.ok && data.message === 'Doppelter Name') {
             alert('This username is already chosen, please pick a different one.');
         } else if (data.ok) {
-            window.location.href = './htmlforcollectedcards.html';
+            window.location.href = './index.html';
         } else {
             alert('Fehler: ' + data.message);
         }
