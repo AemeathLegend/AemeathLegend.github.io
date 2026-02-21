@@ -87,7 +87,9 @@ function getdata()
                 name:tabledatainhalt[1].textContent,
                 anzahl:parseInt(tabledatainhalt[2].textContent),
                 setcode:tabledatainhalt[3].textContent,
-                bildlink: tabledatainhalt[6].children[0].getAttribute("src")
+                bildlink: tabledatainhalt[6].children[0].getAttribute("src"),
+                game:tabledatainhalt[7].textContent,
+                rarityname:tabledatainhalt[8].textContent
             });
         });
         return jsonStr;
