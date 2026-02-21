@@ -328,7 +328,7 @@ function packimagechange()
 {
     const img = document.getElementById("packimage");
     let textvalue = document.getElementById("packselection").value
-    img.src = "./cardimages/assetssim/packs/"+textvalue.substring(0,((textvalue.length)-5))+".png"
+    img.src = "./sidedata/cardimages/assetssim/packs/"+textvalue.substring(0,((textvalue.length)-5))+".png"
 }
 
 function openpackfill()
