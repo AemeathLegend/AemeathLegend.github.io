@@ -135,7 +135,7 @@ function saveasfile()
         const url = URL.createObjectURL(blob);
         const output = document.createElement("a");
         output.href = url;
-        output.download = document.getElementById('setsselection').value.substring(0,document.getElementById('setsselection').value.length-5) +"fromCardGamesCollectedCards.json";
+        output.download = "./sidedata/"+document.getElementById('setsselection').value.substring(10,document.getElementById('setsselection').value.length-5) +"fromCardGamesCollectedCards.json";
         document.body.appendChild(output);
         output.click();
         document.body.removeChild(output);
