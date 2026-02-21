@@ -328,7 +328,7 @@ function packimagechange()
 {
     const img = document.getElementById("packimage");
     let textvalue = document.getElementById("packselection").value
-    img.src = "./sidedata/cardimages/assetssim/packs/"+textvalue.substring(0,((textvalue.length)-5))+".png"
+    img.src = "./sidedata/cardimages/assetssim/packs/"+textvalue.substring(11,((textvalue.length)-5))+".png"
 }
 
 function openpackfill()
@@ -338,7 +338,7 @@ function openpackfill()
     let packtype;
     let chancelist = [];
     let endrewards = [];
-    if(setforpack=="Final_Fantasy.json")
+    if(setforpack=="./sidedata/Final_Fantasy.json")
     {
         packtype="MTG";
         chancelist=setchancelist([10000,3675,700],[3,4,5]);
