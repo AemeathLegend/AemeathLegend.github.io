@@ -251,7 +251,7 @@ async function getasfile()
 
 function openpacksimulator()
 {
-    window.location.href = './sidedata/packsimulator.html';
+    window.location.href = '../packsimulator.html';
 }
 
 function backtomainmenu()
