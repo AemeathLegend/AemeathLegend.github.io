@@ -151,7 +151,7 @@ async function getasfile()
 {
     try
     {
-        if(document.getElementById('getbutton').value.includes(document.getElementById('setsselection').value.substring(10,document.getElementById('setsselection').value.length-5)+"fromCardGamesCollectedCards") && document.getElementById('setsselection').value!=='') {
+        if(document.getElementById('getbutton').value.includes(document.getElementById('setsselection').value.substring(11,document.getElementById('setsselection').value.length-5)+"fromCardGamesCollectedCards") && document.getElementById('setsselection').value!=='') {
             const elementtemp = document.getElementById("getbutton");
             let fileglobal = elementtemp.files[0];
             let numinfile =[];
