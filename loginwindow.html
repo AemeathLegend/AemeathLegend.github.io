@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>CardGamesCollectedCards-Login</title>
+</head>
+<body style="background-color: black">
+<h1 style="color: white">Trading Card Game Collection Tracker Login</h1>
+
+<form id="login" method="post" onsubmit="event.preventDefault(); loginuser();">
+    <label>Username:
+        <input type="text" name="username" placeholder="Username" required>
+    </label><br><br>
+    <label>Password:
+        <input type="password" name="password" placeholder="Password" required>
+    </label><br><br>
+    <button type="submit">&#127800;</button>
+</form>
+
+
+<script src="./mtgcards.js"></script>
+
+</body>
+<style>
+    #loginbutton
+    {
+        right: 300px;
+        font-size: 30px;
+        background-color: transparent;
+        border: 2px solid black;
+    }
+</style>
+</html>
+

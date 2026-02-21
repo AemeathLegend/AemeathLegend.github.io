@@ -1,0 +1,272 @@
+[
+  {
+    "nummer": "0302",
+    "name": "Boromir, Warden of the Tower",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink": "./cardimages/ltrmtg/Showcase_Ring/card1ltrShowN.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0303",
+    "name": "Faramir, Field Commander",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink": "./cardimages/ltrmtg/Showcase_Ring/card2ltrShowN.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0304",
+    "name": "Frodo, Sauron´s Bane",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink": "./cardimages/ltrmtg/Showcase_Ring/card3ltrShowN.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0305",
+    "name": "Dandalf the White",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink": "./cardimages/ltrmtg/Showcase_Ring/card4ltrShowN.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0306",
+    "name": "Samwise the Southearted",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink": "./cardimages/ltrmtg/Showcase_Ring/card5ltrShowN.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0307",
+    "name": "Elrond, Lord of Rivendell",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink": "./cardimages/ltrmtg/Showcase_Ring/card6ltrShowN.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0308",
+    "name": "Gandalf, Friend of the Shire",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink": "./cardimages/ltrmtg/Showcase_Ring/card7ltrShowN.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0309",
+    "name": "Gollum, Patient Plotter",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink": "./cardimages/ltrmtg/Showcase_Ring/card8ltrShowN.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0310",
+    "name": "Sauron, the Necromancer",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink": "./cardimages/ltrmtg/Showcase_Ring/card9ltrShowN.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0311",
+    "name": "Witch-king of Angmar",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink": "./cardimages/ltrmtg/Showcase_Ring/card10ltrShowN.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0312",
+    "name": "Gimli, Counter of Kills",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink": "./cardimages/ltrmtg/Showcase_Ring/card11ltrShowN.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0313",
+    "name": "Legolas, Master Archer",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink": "./cardimages/ltrmtg/Showcase_Ring/card12ltrShowN.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0314",
+    "name": "Meriadoc Brandybuck",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink": "./cardimages/ltrmtg/Showcase_Ring/card13ltrShowN.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0315",
+    "name": "Peregrin Took",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink": "./cardimages/ltrmtg/Showcase_Ring/card14ltrShowN.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0316",
+    "name": "Aragorn, Company Leader",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink": "./cardimages/ltrmtg/Showcase_Ring/card15ltrShowN.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0317",
+    "name": "Aragorn, the Uniter",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink": "./cardimages/ltrmtg/Showcase_Ring/card16ltrShowN.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0318",
+    "name": "Elrond Master of Healing",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink": "./cardimages/ltrmtg/Showcase_Ring/card17ltrShowN.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0319",
+    "name": "Faramir, Prince of Ithilien",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink": "./cardimages/ltrmtg/Showcase_Ring/card18ltrShowN.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0320",
+    "name": "Frodo Baggins",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink": "./cardimages/ltrmtg/Showcase_Ring/card19ltrShowN.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0321",
+    "name": "Galadriel of Lothlorien",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink": "./cardimages/ltrmtg/Showcase_Ring/card20ltrShowN.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0322",
+    "name": "Gandalf the Grey",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink": "./cardimages/ltrmtg/Showcase_Ring/card21ltrShowN.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0323",
+    "name": "Gimli, Mournful Avenger",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink": "./cardimages/ltrmtg/Showcase_Ring/card22ltrShowN.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0324",
+    "name": "Legolas, Counter of Kills",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink": "./cardimages/ltrmtg/Showcase_Ring/card23ltrShowN.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0325",
+    "name": "Merry, Esquire of Rohan",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink": "./cardimages/ltrmtg/Showcase_Ring/card24ltrShowN.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0326",
+    "name": "Pippin, Guard of the Citadel",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink": "./cardimages/ltrmtg/Showcase_Ring/card25ltrShowN.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0327",
+    "name": "Samwise Gamgee",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink": "./cardimages/ltrmtg/Showcase_Ring/card26ltrShowN.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0328",
+    "name": "Saruman of Many Colors",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink": "./cardimages/ltrmtg/Showcase_Ring/card27ltrShowN.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0329",
+    "name": "Sauron, the Dark Lord",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink": "./cardimages/ltrmtg/Showcase_Ring/card28ltrShowN.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0330",
+    "name": "Smeagol, Helpful Guide",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink": "./cardimages/ltrmtg/Showcase_Ring/card29ltrShowN.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0331",
+    "name": "Tom Bombadil",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink": "./cardimages/ltrmtg/Showcase_Ring/card30ltrShowN.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  }
+]

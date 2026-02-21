@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>CardGamesCollectedCards</title>
+    <source src="./cardimages/"/>
+    <link rel="stylesheet" href="cardcollection.css">
+</head>
+<body class="pack-bg">
+    <div class="pack-app">
+        <h1 class="pack-title">Pack Opener</h1>
+
+        <div class="pack-controls">
+            <select name="packselection" id="packselection" onchange="packimagechange()">
+                <option value="m20pack.json">--Please choose a Pack--</option>
+                <optgroup label="MTG">
+                    <option value="Final_Fantasy.json">Final Fantasy Play Booster</option>
+                </optgroup>
+                <optgroup label="Serie 1">
+                    <option value="derbeginzcg.json">The beginning</option>
+                </optgroup>
+            </select>
+            <button id="ZCGPackSimulatorback" onclick="backtomainmenu()">🌸 Back</button>
+        </div>
+
+        <button id="openpackbutton" onclick="openpack()">
+            <img id="packimage" src="./cardimages/assetssim/packs/m20pack.png" alt="Open Pack">
+            <span class="open-label">May you have the best of Luck! To an explosive pack...</span>
+        </button>
+    </div>
+
+    <script src="./mtgcards.js"></script>
+</body>
+<style>
+    .text
+    {
+        color: black;
+        font-size: 15px;
+        background-color: rgba(255, 255, 255, 0.40);
+    }
+</style>
+</html>
+

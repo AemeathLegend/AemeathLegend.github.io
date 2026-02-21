@@ -1,0 +1,2531 @@
+[
+  {
+    "nummer": "0001",
+    "name": "Banish from Edodas",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink": "./cardimages/ltrmtg/card1ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0002",
+    "name": "The Battle oof Bywater",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card2ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0003",
+    "name": "Bill the Pony",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card3ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0004",
+    "name": "Boromir, Warden of the Tower",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card4ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0005",
+    "name": "Dawn of a New Age",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card5ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0006",
+    "name": "Dunedain Blade",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card6ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0007",
+    "name": "Eagles of the North",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card7ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0008",
+    "name": "Eastfarthing Farmer",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card8ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0009",
+    "name": "East-Mark Cavalier",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card9ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0010",
+    "name": "Eowyn, Lady of Rohan",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card10ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0011",
+    "name": "Errand-Rider of Gondor",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card11ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0012",
+    "name": "Escape from Orthanc",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card12ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0013",
+    "name": "Esquire of the King",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card13ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0014",
+    "name": "Faramir, Field Commander",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card14ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0015",
+    "name": "Flowering of the white Tree",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card15ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0016",
+    "name": "Fog on the Barrow-Downs",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card16ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0017",
+    "name": "Forge Anew",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card17ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0018",
+    "name": "Frodo, Sauro´s Bane",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card18ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0019",
+    "name": "Gandalf the White",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card19ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0020",
+    "name": "Hobbit´s Sting",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card20ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0021",
+    "name": "Landroval, Horizon Witness",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink": "./cardimages/ltrmtg/card21ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0022",
+    "name": "Lost to Legend",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card22ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0023",
+    "name": "Nimble Hobbit",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card23ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0024",
+    "name": "Now for Wrath, Now for Ruin!",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card24ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0025",
+    "name": "Protector of Gondor",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card25ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0026",
+    "name": "Reprieve",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card26ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0027",
+    "name": "Rosie Cotton of South Lane",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card27ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0028",
+    "name": "Samwise the Stouthearted",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card28ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0029",
+    "name": "Second Breakfast",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card29ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0030",
+    "name": "Shire Shirff",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card30ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0031",
+    "name": "Slip On the Ring",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card31ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0032",
+    "name": "Soldier of the Grey Host",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card32ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0033",
+    "name": "Stalwarts of Osgiliath",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card33ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0034",
+    "name": "Tale of Tinuviel",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card34ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0035",
+    "name": "Took Reaper",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card35ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0036",
+    "name": "War of the Last Allieance",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card36ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0037",
+    "name": "Westfold Rider",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card37ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0038",
+    "name": "You Cannot Pass!",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card38ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0039",
+    "name": "Arwen´s Gift",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card39ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0040",
+    "name": "The Bath Song",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card40ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0041",
+    "name": "Bewitching Leechcraft",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink": "./cardimages/ltrmtg/card41ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0042",
+    "name": "Bill Ferny, Bree Swindler",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card42ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0043",
+    "name": "Birthday Escape",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card43ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0044",
+    "name": "Borne Upon a Wind",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card44ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0045",
+    "name": "Captain of Umbar",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card45ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0046",
+    "name": "Council´s Deliberation",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card46ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0047",
+    "name": "Deceive the Messenger",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card47ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0048",
+    "name": "Dreadful as the Strom",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card48ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0049",
+    "name": "Elrond, Lord of Rivendell",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card49ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0050",
+    "name": "Gandalf, Friend of the Shire",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card50ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0051",
+    "name": "Glorious Gale",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card51ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0052",
+    "name": "Goldberry, River-Daughter",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card52ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0053",
+    "name": "Grey Havens Navigator",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card53ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0054",
+    "name": "Hithlain Knots",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card54ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0055",
+    "name": "Horses of the Bruinen",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card55ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0056",
+    "name": "Ioreth of the Healing House",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card56ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0057",
+    "name": "Isolation at Orthanc",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card57ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0058",
+    "name": "Ithilien Kingfisher",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card58ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0059",
+    "name": "Knights of Dol Amroth",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card59ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0060",
+    "name": "Lorien Revealed",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card60ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0061",
+    "name": "Lost Isle Calling",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink": "./cardimages/ltrmtg/card61ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0062",
+    "name": "Meneldor, Swift Savior",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card62ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0063",
+    "name": "Nimrodel Watcher",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card63ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0064",
+    "name": "Pelargir Survivor",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card64ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0065",
+    "name": "Press the Enemy",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card65ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0066",
+    "name": "Rangers of Ithilien",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card66ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0067",
+    "name": "Saruman the White",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card67ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0068",
+    "name": "Saruman´s Trickery",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card68ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0069",
+    "name": "Scroll of Isildur",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card69ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0070",
+    "name": "Soothing of Smeagol",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card70ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0071",
+    "name": "Stern Scolding",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card71ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0072",
+    "name": "Storm of Saruman",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card72ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0073",
+    "name": "Surrounding by Orcs",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card73ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0074",
+    "name": "Treason of Isengard",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card74ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0075",
+    "name": "The Watcher in the Water",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card75ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0076",
+    "name": "Willow-Wind",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card76ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0077",
+    "name": "Bitter Sownfall",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card77ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0078",
+    "name": "The Black Breath",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card78ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0079",
+    "name": "Call of the Ring",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card79ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0080",
+    "name": "Cirith Ungol Patrol",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card80ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0081",
+    "name": "Claim the Precious",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink": "./cardimages/ltrmtg/card81ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0082",
+    "name": "Dunland Crebain",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card82ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0083",
+    "name": "Easterling Vanguard",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card83ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0084",
+    "name": "Gollum, Patient Plotter",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card84ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0085",
+    "name": "Gollum´s Bite",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card85ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0086",
+    "name": "Gorbag of Minas Morgul",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card86ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0087",
+    "name": "Gothmog, Morgul Lieutenant",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card87ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0088",
+    "name": "Grima Wormtongue",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card88ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0089",
+    "name": "Grond, the Gatebreaker",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card89ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0090",
+    "name": "Haunt of the Dead marshes",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card90ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0091",
+    "name": "Isildur´s Fateful Strike",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card91ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0092",
+    "name": "Lash of the Balrog",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card92ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0093",
+    "name": "Lobelia Sackville-Baggins",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card93ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0094",
+    "name": "March from the Black Gate",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card94ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0095",
+    "name": "Mirkwood Bats",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card95ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0096",
+    "name": "Mordor Muster",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card96ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0097",
+    "name": "Mordur Trebuchet",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card97ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0098",
+    "name": "Morgul-Knife Wound",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card98ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0099",
+    "name": "Nasty End",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card99ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0100",
+    "name": "Nazgul",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card100ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0101",
+    "name": "Oath of the Grey Host",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink": "./cardimages/ltrmtg/card101ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0102",
+    "name": "One Ring to Rule Them All",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card102ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0103",
+    "name": "Orcish Bowmasters",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card103ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0104",
+    "name": "Orcish Medicine",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card104ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0105",
+    "name": "Sam´s Desperate Rescue",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card105ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0106",
+    "name": "Sauron, the Necromancer",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card106ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0107",
+    "name": "Shadow of the Enemy",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card107ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0108",
+    "name": "Shelob´s Ambush",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card108ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0109",
+    "name": "Snarling Warg",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card109ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0110",
+    "name": "The Torment of Gollum",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card110ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0111",
+    "name": "Troll of Khazad-dum",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card111ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0112",
+    "name": "Uruk-hai Berserker",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card112ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0113",
+    "name": "Voracious Fell Beast",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card113ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0114",
+    "name": "Witch-king of Angmar",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card114ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0115",
+    "name": "Battle-Scarred Goblin",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card115ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0116",
+    "name": "Book of Mazarbul",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card116ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0117",
+    "name": "Breaking of the Fellowship",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card117ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0118",
+    "name": "Cast into the Fire",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card118ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0119",
+    "name": "Display of Power",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card119ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0120",
+    "name": "Eomer, Marshal of Rohan",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card120ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0121",
+    "name": "Eomer of the Riddermark",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink": "./cardimages/ltrmtg/card121ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0122",
+    "name": "Erebor Flamesmith",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card122ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0123",
+    "name": "Erkenrand, Lord of Westfold",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card123ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0124",
+    "name": "Fall of Cair Andros",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card124ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0125",
+    "name": "Fear, Fire, Foes!",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card125ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0126",
+    "name": "Fiery Inscription",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card126ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0127",
+    "name": "Fire of Orthanc",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card127ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0128",
+    "name": "Foray of Orcs",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card128ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0129",
+    "name": "Gimli, Counter of Kills",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card129ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0130",
+    "name": "Gimli´s Axe",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card130ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0131",
+    "name": "Gimli´s Fury",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card131ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0132",
+    "name": "Gloin, Dwarf Emissary",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card132ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0133",
+    "name": "Goblin Fireleaper",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card133ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0134",
+    "name": "Grishnakh, Brash Instigator",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card134ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0135",
+    "name": "Haradrim Spearmaster",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card135ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0136",
+    "name": "Hew the Entwood",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card136ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0137",
+    "name": "Improvised Club",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card137ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0138",
+    "name": "Moria Marauder",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card138ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0139",
+    "name": "Oliphaunt",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card139ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0140",
+    "name": "Olog-hai Crusher",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card140ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0141",
+    "name": "Quarrel´s End",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink": "./cardimages/ltrmtg/card141ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0142",
+    "name": "Rally at the Hornburg",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card142ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0143",
+    "name": "Ranger´s Firebrand",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card143ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0144",
+    "name": "Relentless Rohirrim",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card144ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0145",
+    "name": "Rising of the Day",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card145ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0146",
+    "name": "Rohirrim Lancer",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card146ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0147",
+    "name": "Rush the Room",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card147ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0148",
+    "name": "Smite the Deathless",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card148ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0149",
+    "name": "Spiteful Banditry",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card149ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0150",
+    "name": "Swarming of Moria",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card150ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0151",
+    "name": "There and Back Again",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card151ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0152",
+    "name": "Warbeast of Gorgoroth",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card152ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0153",
+    "name": "Bag End Porter",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card153ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0154",
+    "name": "Bombadil´s Song",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card154ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0155",
+    "name": "Brandywine Farmer",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card155ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0156",
+    "name": "Celeborn the Wise",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card156ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0157",
+    "name": "Chance-Met Elves",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card157ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0158",
+    "name": "Delighted Halfling",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card158ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0159",
+    "name": "Dunedain Rangers",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card159ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0160",
+    "name": "Elven Chorus",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card160ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0161",
+    "name": "Elven Farsight",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink": "./cardimages/ltrmtg/card161ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0162",
+    "name": "Enraged Huorn",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card162ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0163",
+    "name": "Entish Restoration",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card163ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0164",
+    "name": "Ent´s Fury",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card164ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0165",
+    "name": "Fall of Gil-galad",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card165ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0166",
+    "name": "Fangorn, Tree Shepherd",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card166ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0167",
+    "name": "Galadhrim Bow",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card167ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0168",
+    "name": "Galadhrim Guide",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card168ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0169",
+    "name": "Generous Ent",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card169ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0170",
+    "name": "Gift of Strands",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card170ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0171",
+    "name": "Glorfindel, Dauntless Rescuer",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card171ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0172",
+    "name": "Last March of the Ents",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card172ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0173",
+    "name": "Legolas, Master Archer",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card173ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0174",
+    "name": "Long List of the Ents",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card174ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0175",
+    "name": "Lothlorien Lookout",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card175ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0176",
+    "name": "Many Partings",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card176ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0177",
+    "name": "Meriadoc Brandybuck",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card177ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0178",
+    "name": "Mirkwood Spider",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card178ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0179",
+    "name": "Mirrormere Guardian",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card179ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0180",
+    "name": "Mushroom Watchdogs",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card180ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0181",
+    "name": "Peregrin Took",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink": "./cardimages/ltrmtg/card181ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0182",
+    "name": "Pippin´s Bravery",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card182ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0183",
+    "name": "Quickbeam, Upstart Ent",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card183ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0184",
+    "name": "Radagast the Brown",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card184ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0185",
+    "name": "Revive the Shire",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card185ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0186",
+    "name": "The Ring Goes South",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card186ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0187",
+    "name": "Shortcut to Mushrooms",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card187ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0188",
+    "name": "Shower of Arrows",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card188ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0189",
+    "name": "Stew the Coneys",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card189ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0190",
+    "name": "Wose Pathfinder",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card190ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0191",
+    "name": "Aragorn, Company Leader",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card191ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0192",
+    "name": "Aragorn, the Uniter",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card192ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0193",
+    "name": "Arwen, Mortal Queen",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card193ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0194",
+    "name": "Arwen Undomiel",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card194ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0195",
+    "name": "The Balrog, Durin´s Bane",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card195ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0196",
+    "name": "Bilbo, Retired Burglar",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card196ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0197",
+    "name": "Butterbur, Bree Innkeeper",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card197ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0198",
+    "name": "Denethor, Ruling Steward",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card198ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0199",
+    "name": "Doors to Durin",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card199ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0200",
+    "name": "Elrond, Master of Healing",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card200ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0201",
+    "name": "Eowyn, Fearless Knight",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink": "./cardimages/ltrmtg/card201ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0202",
+    "name": "Faramir, Prince of Ithilien",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card202ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0203",
+    "name": "Flame of Anor",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card203ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0204",
+    "name": "Friendly Rivalry",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card204ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0205",
+    "name": "Frodo Baggins",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card205ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0206",
+    "name": "Galadriel of Lothlorien",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card206ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0207",
+    "name": "Gandalf the Grey",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card207ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0208",
+    "name": "Gandalf's Sanction",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card208ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0209",
+    "name": "Gimli, Mournful Avenger",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card209ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0210",
+    "name": "Gwaihir, the Windlord",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card210ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0211",
+    "name": "King of the Oathbreakers",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card211ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0212",
+    "name": "Legolas, Counter of Kills",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card212ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0213",
+    "name": "Lotho, Corrupt Shirriff",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card213ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0214",
+    "name": "Mauhur, Uruk-hai Captain",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card214ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0215",
+    "name": "Merry, Esquire of Rohan",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card215ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0216",
+    "name": "The Mouth of Sauron",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card216ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0217",
+    "name": "Old Man Willow",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card217ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0218",
+    "name": "Pippin, Guard of the Citadel",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card218ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0219",
+    "name": "Prince Imrahil the Fair",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card219ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0220",
+    "name": "Ringsight",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card220ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0221",
+    "name": "Rise of the Witch-king",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink": "./cardimages/ltrmtg/card221ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0222",
+    "name": "Samwise Gamgee",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card222ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0223",
+    "name": "Saruman of Many Colors",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card223ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0224",
+    "name": "Sauron, the Dark Lord",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card224ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0225",
+    "name": "Sauron´s Ransom",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card225ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0226",
+    "name": "Shadow Summoning",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card226ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0227",
+    "name": "Shadowfax, Lord of Horses",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card227ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0228",
+    "name": "Shagrat, Loot Bearer",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card228ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0229",
+    "name": "Sharkey, Tyrant of the Shire",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card229ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0230",
+    "name": "Shelob, Child of Ungoliant",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card230ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0231",
+    "name": "Smeagol, Helpful Guide",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card231ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0232",
+    "name": "Strider, Ranger of the North",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card232ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0233",
+    "name": "Theoden, King of Rohan",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card233ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0234",
+    "name": "Tom Bambadil",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card234ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0235",
+    "name": "Ugluk of the White hand",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card235ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0236",
+    "name": "Anduril, Flame of the West",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card236ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0237",
+    "name": "Barrow-Blade",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card237ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0238",
+    "name": "Ent-Draught Basin",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card238ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0239",
+    "name": "Glamdring",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card239ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0240",
+    "name": "Horn of Gondor",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card240ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0241",
+    "name": "Horn of the Mark",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink": "./cardimages/ltrmtg/card241ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0242",
+    "name": "Inherited Envelope",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card242ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0243",
+    "name": "Lembas",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card243ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0244",
+    "name": "Mirror of Galadriel",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card244ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0245",
+    "name": "Mithril Coat",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card245ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0246",
+    "name": "The One Ring",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card246ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0247",
+    "name": "Palantir of Orthanc",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card247ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0248",
+    "name": "Phial of Galadriel",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card248ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0249",
+    "name": "Shire Scarecrow",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card249ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0250",
+    "name": "Sting, the Glinting Dagger",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card250ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0251",
+    "name": "Stone of Erech",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card251ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0252",
+    "name": "Wizard´s Rockets",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card252ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0253",
+    "name": "Barad-dur",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card253ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0254",
+    "name": "Great Hall of the Citadel",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card254ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0255",
+    "name": "The Grey Havens",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card255ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0256",
+    "name": "Minas Tirith",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card256ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0257",
+    "name": "Mines of Moria",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card257ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0258",
+    "name": "Mount Doom",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card258ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0259",
+    "name": "Rivendell",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card259ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0260",
+    "name": "The Shire",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card260ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0261",
+    "name": "Shire Terrace",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink": "./cardimages/ltrmtg/card261ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0262",
+    "name": "Plains(V.1)",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card262ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0263",
+    "name": "Plains(V.2)",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card263ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0264",
+    "name": "Island(V.1)",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card264ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0265",
+    "name": "Island(V.2)",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card265ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0266",
+    "name": "Swamp(V.1)",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card266ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0267",
+    "name": "Swamp(V.2)",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card267ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0268",
+    "name": "Mountain(V.1)",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card268ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0269",
+    "name": "Mountain(V.2)",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card269ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0270",
+    "name": "Forest(V.1)",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card270ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0271",
+    "name": "Forest(V.2)",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card271ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0272",
+    "name": "Plains(V.3)",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card272ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0273",
+    "name": "Plains(V.4)",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card273ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0274",
+    "name": "Island(V.3)",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card274ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0275",
+    "name": "Island(V.4)",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card275ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0276",
+    "name": "Swamp(V.3)",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card276ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0277",
+    "name": "Swamp(V.4)",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card277ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0278",
+    "name": "Mountain(V.3)",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card278ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0279",
+    "name": "Mountain(V.4)",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card279ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0280",
+    "name": "Forest(V.3)",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card280ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0281",
+    "name": "Forest(V.4)",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./cardimages/ltrmtg/card281ltr.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  }
+]

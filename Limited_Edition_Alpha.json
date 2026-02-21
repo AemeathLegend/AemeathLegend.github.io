@@ -1,0 +1,902 @@
+[
+  {
+    "nummer": "0001",
+    "name": "Animate Wall",
+    "anzahl": "0",
+    "setcode": "LEA",
+    "bildlink": "./cardimages/lea/card1LEA.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+   {
+    "nummer": "0002",
+    "name": "Armageddon",
+    "anzahl": "0",
+    "setcode": "LEA",
+    "bildlink": "./cardimages/lea/card2LEA.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+   {
+    "nummer": "0003",
+    "name": "Balance",
+    "anzahl": "0",
+    "setcode": "LEA",
+    "bildlink": "./cardimages/lea/card3LEA.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+   {
+    "nummer": "0004",
+    "name": "Benalish Hero",
+    "anzahl": "0",
+    "setcode": "LEA",
+    "bildlink": "./cardimages/lea/card4LEA.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+   {
+    "nummer": "0005",
+    "name": "Black Ward",
+    "anzahl": "0",
+    "setcode": "LEA",
+    "bildlink": "./cardimages/lea/card5LEA.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+   {
+    "nummer": "0006",
+    "name": "Blaze of Glory",
+    "anzahl": "0",
+    "setcode": "LEA",
+    "bildlink": "./cardimages/lea/card6LEA.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+   {
+    "nummer": "0007",
+    "name": "Blessing",
+    "anzahl": "0",
+    "setcode": "LEA",
+    "bildlink": "./cardimages/lea/card7LEA.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+   {
+    "nummer": "0008",
+    "name": "Blue Ward",
+    "anzahl": "0",
+    "setcode": "LEA",
+    "bildlink": "./cardimages/lea/card8LEA.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+   {
+    "nummer": "0009",
+    "name": "Castle",
+    "anzahl": "0",
+    "setcode": "LEA",
+    "bildlink": "./cardimages/lea/card9LEA.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+   {
+    "nummer": "0010",
+    "name": "Circle of Protection: Blue",
+    "anzahl": "0",
+    "setcode": "LEA",
+    "bildlink": "./cardimages/lea/card10LEA.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0011",
+    "name": "Circle of Protection: Green",
+    "anzahl": "0",
+    "setcode": "LEA",
+    "bildlink": "./cardimages/lea/card11LEA.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+   {
+    "nummer": "0012",
+    "name": "Circle of Protection: Red",
+    "anzahl": "0",
+    "setcode": "LEA",
+    "bildlink": "./cardimages/lea/card12LEA.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+   {
+    "nummer": "0013",
+    "name": "Circle of Protection: White",
+    "anzahl": "0",
+    "setcode": "LEA",
+    "bildlink": "./cardimages/lea/card13LEA.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+   {
+    "nummer": "0014",
+    "name": "Consecrate Land",
+    "anzahl": "0",
+    "setcode": "LEA",
+    "bildlink": "./cardimages/lea/card14LEA.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+   {
+    "nummer": "0015",
+    "name": "Conversion",
+    "anzahl": "0",
+    "setcode": "LEA",
+    "bildlink": "./cardimages/lea/card15LEA.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+   {
+    "nummer": "0016",
+    "name": "Crusade(not in Community standarts)",
+    "anzahl": "0",
+    "setcode": "LEA",
+    "bildlink": "./cardimages/lea/card16LEA.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+   {
+    "nummer": "0017",
+    "name": "Death Ward",
+    "anzahl": "0",
+    "setcode": "LEA",
+    "bildlink": "./cardimages/lea/card17LEA.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+   {
+    "nummer": "0018",
+    "name": "Disenchant",
+    "anzahl": "0",
+    "setcode": "LEA",
+    "bildlink": "./cardimages/lea/card18LEA.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+   {
+    "nummer": "0019",
+    "name": "Farmstead",
+    "anzahl": "0",
+    "setcode": "LEA",
+    "bildlink": "./cardimages/lea/card19LEA.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0020",
+    "name": "Green Ward",
+    "anzahl": "0",
+    "setcode": "LEA",
+    "bildlink": "./cardimages/lea/card20LEA.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0021",
+    "name": "Guardian Angel",
+    "anzahl": "0",
+    "setcode": "LEA",
+    "bildlink": "./cardimages/lea/card21LEA.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0022",
+    "name": "healing Salve",
+    "anzahl": "0",
+    "setcode": "LEA",
+    "bildlink": "./cardimages/lea/card22LEA.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0023",
+    "name": "holy Armor",
+    "anzahl": "0",
+    "setcode": "LEA",
+    "bildlink": "./cardimages/lea/card23LEA.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0024",
+    "name": "holy Strenght",
+    "anzahl": "0",
+    "setcode": "LEA",
+    "bildlink": "./cardimages/lea/card24LEA.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0025",
+    "name": "Island Sanctuary",
+    "anzahl": "0",
+    "setcode": "LEA",
+    "bildlink": "./cardimages/lea/card25LEA.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0026",
+    "name": "Karma",
+    "anzahl": "0",
+    "setcode": "LEA",
+    "bildlink": "./cardimages/lea/card26LEA.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0027",
+    "name": "Lance",
+    "anzahl": "0",
+    "setcode": "LEA",
+    "bildlink": "./cardimages/lea/card27LEA.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0028",
+    "name": "Mesa Pegasus",
+    "anzahl": "0",
+    "setcode": "LEA",
+    "bildlink": "./cardimages/lea/card28LEA.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0029",
+    "name": "Norchern Paladin",
+    "anzahl": "0",
+    "setcode": "LEA",
+    "bildlink": "./cardimages/lea/card29LEA.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0030",
+    "name": "Pearled Unicorn",
+    "anzahl": "0",
+    "setcode": "LEA",
+    "bildlink": "./cardimages/lea/card30LEA.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0031",
+    "name": "Personal Incarnation",
+    "anzahl": "0",
+    "setcode": "LEA",
+    "bildlink": "./cardimages/lea/card31LEA.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0032",
+    "name": "Purelace",
+    "anzahl": "0",
+    "setcode": "LEA",
+    "bildlink": "./cardimages/lea/card32LEA.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0033",
+    "name": "Red Ward",
+    "anzahl": "0",
+    "setcode": "LEA",
+    "bildlink": "./cardimages/lea/card33LEA.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0034",
+    "name": "Resurrection",
+    "anzahl": "0",
+    "setcode": "LEA",
+    "bildlink": "./cardimages/lea/card34LEA.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0035",
+    "name": "Reverse Damage",
+    "anzahl": "0",
+    "setcode": "LEA",
+    "bildlink": "./cardimages/lea/card35LEA.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0036",
+    "name": "Righteousness",
+    "anzahl": "0",
+    "setcode": "LEA",
+    "bildlink": "./cardimages/lea/card36LEA.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0037",
+    "name": "Sarnite healer",
+    "anzahl": "0",
+    "setcode": "LEA",
+    "bildlink": "./cardimages/lea/card37LEA.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0038",
+    "name": "Savannah Lions",
+    "anzahl": "0",
+    "setcode": "LEA",
+    "bildlink": "./cardimages/lea/card38LEA.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0039",
+    "name": "Serra Angel",
+    "anzahl": "0",
+    "setcode": "LEA",
+    "bildlink": "./cardimages/lea/card39LEA.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0040",
+    "name": "Swords to Plowshares",
+    "anzahl": "0",
+    "setcode": "LEA",
+    "bildlink": "./cardimages/lea/card40LEA.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0041",
+    "name": "Veteran Bodyguard",
+    "anzahl": "0",
+    "setcode": "LEA",
+    "bildlink": "./cardimages/lea/card41LEA.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0042",
+    "name": "Wall of Swords",
+    "anzahl": "0",
+    "setcode": "LEA",
+    "bildlink": "./cardimages/lea/card42LEA.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0043",
+    "name": "White Knight",
+    "anzahl": "0",
+    "setcode": "LEA",
+    "bildlink": "./cardimages/lea/card43LEA.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0044",
+    "name": "White Ward",
+    "anzahl": "0",
+    "setcode": "LEA",
+    "bildlink": "./cardimages/lea/card44LEA.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0045",
+    "name": "Wrath of God",
+    "anzahl": "0",
+    "setcode": "LEA",
+    "bildlink": "./cardimages/lea/card45LEA.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0046",
+    "name": "Air Elemental",
+    "anzahl": "0",
+    "setcode": "LEA",
+    "bildlink": "./cardimages/lea/card46LEA.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0047",
+    "name": "Ancestral Recall",
+    "anzahl": "0",
+    "setcode": "LEA",
+    "bildlink": "./cardimages/lea/card47LEA.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0048",
+    "name": "Animate Artifact",
+    "anzahl": "0",
+    "setcode": "LEA",
+    "bildlink": "./cardimages/lea/card48LEA.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0049",
+    "name": "Blue Elemental Blast",
+    "anzahl": "0",
+    "setcode": "LEA",
+    "bildlink": "./cardimages/lea/card49LEA.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0050",
+    "name": "Braingeyser",
+    "anzahl": "0",
+    "setcode": "LEA",
+    "bildlink": "./cardimages/lea/card50LEA.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0051",
+    "name": "Clone",
+    "anzahl": "0",
+    "setcode": "LEA",
+    "bildlink": "./cardimages/lea/card51LEA.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0052",
+    "name": "Control Magic",
+    "anzahl": "0",
+    "setcode": "LEA",
+    "bildlink": "./cardimages/lea/card52LEA.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0053",
+    "name": "Copy Artifact",
+    "anzahl": "0",
+    "setcode": "LEA",
+    "bildlink": "./cardimages/lea/card53LEA.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0054",
+    "name": "Counterspell",
+    "anzahl": "0",
+    "setcode": "LEA",
+    "bildlink": "./cardimages/lea/card54LEA.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0055",
+    "name": "Creature Bond",
+    "anzahl": "0",
+    "setcode": "LEA",
+    "bildlink": "./cardimages/lea/card55LEA.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0056",
+    "name": "Drain Power",
+    "anzahl": "0",
+    "setcode": "LEA",
+    "bildlink": "./cardimages/lea/card56LEA.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0057",
+    "name": "Feedback",
+    "anzahl": "0",
+    "setcode": "LEA",
+    "bildlink": "./cardimages/lea/card57LEA.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0058",
+    "name": "Flight",
+    "anzahl": "0",
+    "setcode": "LEA",
+    "bildlink": "./cardimages/lea/card58LEA.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0059",
+    "name": "Invisibility",
+    "anzahl": "0",
+    "setcode": "LEA",
+    "bildlink": "./cardimages/lea/card59LEA.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0060",
+    "name": "Jump",
+    "anzahl": "0",
+    "setcode": "LEA",
+    "bildlink": "./cardimages/lea/card60LEA.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0061",
+    "name": "Lifetap",
+    "anzahl": "0",
+    "setcode": "LEA",
+    "bildlink": "./cardimages/lea/card61LEA.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0062",
+    "name": "Lord of Atlantis",
+    "anzahl": "0",
+    "setcode": "LEA",
+    "bildlink": "./cardimages/lea/card62LEA.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0063",
+    "name": "Magical hack",
+    "anzahl": "0",
+    "setcode": "LEA",
+    "bildlink": "./cardimages/lea/card63LEA.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0064",
+    "name": "Mahamoti Djinn",
+    "anzahl": "0",
+    "setcode": "LEA",
+    "bildlink": "./cardimages/lea/card64LEA.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0065",
+    "name": "Mana Short",
+    "anzahl": "0",
+    "setcode": "LEA",
+    "bildlink": "./cardimages/lea/card65LEA.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0066",
+    "name": "Merfolk of the Pearl Trident",
+    "anzahl": "0",
+    "setcode": "LEA",
+    "bildlink": "./cardimages/lea/card66LEA.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0067",
+    "name": "Phantasmal Forces",
+    "anzahl": "0",
+    "setcode": "LEA",
+    "bildlink": "./cardimages/lea/card67LEA.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0068",
+    "name": "Phantasmal Terrain",
+    "anzahl": "0",
+    "setcode": "LEA",
+    "bildlink": "./cardimages/lea/card68LEA.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0069",
+    "name": "Phantom Monster",
+    "anzahl": "0",
+    "setcode": "LEA",
+    "bildlink": "./cardimages/lea/card69LEA.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0070",
+    "name": "Pirate Ship",
+    "anzahl": "0",
+    "setcode": "LEA",
+    "bildlink": "./cardimages/lea/card70LEA.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0071",
+    "name": "Power Leak",
+    "anzahl": "0",
+    "setcode": "LEA",
+    "bildlink": "./cardimages/lea/card71LEA.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0072",
+    "name": "Power Sink",
+    "anzahl": "0",
+    "setcode": "LEA",
+    "bildlink": "./cardimages/lea/card72LEA.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0073",
+    "name": "Prodigal Sorcerer",
+    "anzahl": "0",
+    "setcode": "LEA",
+    "bildlink": "./cardimages/lea/card73LEA.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0074",
+    "name": "Psionic Blast",
+    "anzahl": "0",
+    "setcode": "LEA",
+    "bildlink": "./cardimages/lea/card74LEA.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0075",
+    "name": "Psychic Venom",
+    "anzahl": "0",
+    "setcode": "LEA",
+    "bildlink": "./cardimages/lea/card75LEA.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0076",
+    "name": "Sea Serpent",
+    "anzahl": "0",
+    "setcode": "LEA",
+    "bildlink": "./cardimages/lea/card76LEA.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0077",
+    "name": "Siren's Call",
+    "anzahl": "0",
+    "setcode": "LEA",
+    "bildlink": "./cardimages/lea/card77LEA.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0078",
+    "name": "Sleight of Mind",
+    "anzahl": "0",
+    "setcode": "LEA",
+    "bildlink": "./cardimages/lea/card78LEA.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0079",
+    "name": "Spell Blast",
+    "anzahl": "0",
+    "setcode": "LEA",
+    "bildlink": "./cardimages/lea/card79LEA.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0080",
+    "name": "Stasis",
+    "anzahl": "0",
+    "setcode": "LEA",
+    "bildlink": "./cardimages/lea/card80LEA.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0081",
+    "name": "Steal Artifact",
+    "anzahl": "0",
+    "setcode": "LEA",
+    "bildlink": "./cardimages/lea/card81LEA.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0082",
+    "name": "Thoughtlace",
+    "anzahl": "0",
+    "setcode": "LEA",
+    "bildlink": "./cardimages/lea/card82LEA.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0083",
+    "name": "Time Walk",
+    "anzahl": "0",
+    "setcode": "LEA",
+    "bildlink": "./cardimages/lea/card83LEA.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0084",
+    "name": "Timetwister",
+    "anzahl": "0",
+    "setcode": "LEA",
+    "bildlink": "./cardimages/lea/card84LEA.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0085",
+    "name": "Twiddle",
+    "anzahl": "0",
+    "setcode": "LEA",
+    "bildlink": "./cardimages/lea/card85LEA.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0086",
+    "name": "Unsummon",
+    "anzahl": "0",
+    "setcode": "LEA",
+    "bildlink": "./cardimages/lea/card86LEA.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0087",
+    "name": "Vesuvan Doppelganger",
+    "anzahl": "0",
+    "setcode": "LEA",
+    "bildlink": "./cardimages/lea/card87LEA.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0088",
+    "name": "Volcanic Eruption",
+    "anzahl": "0",
+    "setcode": "LEA",
+    "bildlink": "./cardimages/lea/card88LEA.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0089",
+    "name": "Wall of Air",
+    "anzahl": "0",
+    "setcode": "LEA",
+    "bildlink": "./cardimages/lea/card89LEA.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0090",
+    "name": "Wall of Water",
+    "anzahl": "0",
+    "setcode": "LEA",
+    "bildlink": "./cardimages/lea/card90LEA.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0091",
+    "name": "Water Elemental",
+    "anzahl": "0",
+    "setcode": "LEA",
+    "bildlink": "./cardimages/lea/card91LEA.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0092",
+    "name": "Animate Dead",
+    "anzahl": "0",
+    "setcode": "LEA",
+    "bildlink": "./cardimages/lea/card92LEA.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0093",
+    "name": "Bad Moon",
+    "anzahl": "0",
+    "setcode": "LEA",
+    "bildlink": "./cardimages/lea/card93LEA.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0094",
+    "name": "Black Knight",
+    "anzahl": "0",
+    "setcode": "LEA",
+    "bildlink": "./cardimages/lea/card94LEA.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0095",
+    "name": "Bog Wraith",
+    "anzahl": "0",
+    "setcode": "LEA",
+    "bildlink": "./cardimages/lea/card95LEA.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0096",
+    "name": "Contract from Below",
+    "anzahl": "0",
+    "setcode": "LEA",
+    "bildlink": "./cardimages/lea/card96LEA.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0097",
+    "name": "Cursed Land",
+    "anzahl": "0",
+    "setcode": "LEA",
+    "bildlink": "./cardimages/lea/card97LEA.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0098",
+    "name": "Dark Ritual",
+    "anzahl": "0",
+    "setcode": "LEA",
+    "bildlink": "./cardimages/lea/card98LEA.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0099",
+    "name": "Darkpact",
+    "anzahl": "0",
+    "setcode": "LEA",
+    "bildlink": "./cardimages/lea/card99LEA.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0100",
+    "name": "Deathgrip",
+    "anzahl": "0",
+    "setcode": "LEA",
+    "bildlink": "./cardimages/lea/card100LEA.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  }
+]

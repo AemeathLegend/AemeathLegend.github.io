@@ -1,0 +1,2784 @@
+[
+  {
+    "nummer": "0001",
+    "name": "Summon: Bahamut",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink": "./cardimages/finmtg/card1fin.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0002",
+    "name": "Ultima, Origin of Oblivian",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card2fin.jpg",
+    "game":"MTG",
+    "rarityname": "Rare"
+  },
+  {
+    "nummer": "0003",
+    "name": "Adelbert Steiner",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card3fin.jpg",
+    "game":"MTG",
+    "rarityname": "Uncommon"
+  },
+  {
+    "nummer": "0004",
+    "name": "Aerith Gainsborough",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card4fin.jpg",
+    "game":"MTG",
+    "rarityname": "Rare"
+  },
+  {
+    "nummer": "0005",
+    "name": "Aerith Rescue Mission",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card5fin.jpg",
+    "game":"MTG",
+    "rarityname": "Common"
+  },
+  {
+    "nummer": "0006",
+    "name": "Ambrosia Whiteheart",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card6fin.jpg",
+    "game":"MTG",
+    "rarityname": "Uncommon"
+  },
+  {
+    "nummer": "0007",
+    "name": "Ashe, Princess of Dalmasca",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card7fin.jpg",
+    "game":"MTG",
+    "rarityname": "Uncommon"
+  },
+  {
+    "nummer": "0008",
+    "name": "Auron´s Inspiration",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card8fin.jpg",
+    "game":"MTG",
+    "rarityname": "Uncommon"
+  },
+  {
+    "nummer": "0009",
+    "name": "Battle Menu",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card9fin.jpg",
+    "game":"MTG",
+    "rarityname": "Uncommon"
+  },
+  {
+    "nummer": "0010",
+    "name": "Cloud, Midgar Mercenary",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card10fin.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0011",
+    "name": "Cloudbound Moogle",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card11fin.jpg",
+    "game":"MTG",
+    "rarityname": "Common"
+  },
+  {
+    "nummer": "0012",
+    "name": "Coeurl",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card12fin.jpg",
+    "game":"MTG",
+    "rarityname": "Common"
+  },
+  {
+    "nummer": "0013",
+    "name": "Crystal Fragments/ Summon: Alexander",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card13fin.jpg",
+    "game":"MTG",
+    "rarityname": "Uncommon"
+  },
+  {
+    "nummer": "0014",
+    "name": "The Crystal´s Chosen",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card14fin.jpg",
+    "game":"MTG",
+    "rarityname": "Uncommon"
+  },
+  {
+    "nummer": "0015",
+    "name": "Delivery Moogle",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card15fin.jpg",
+    "game":"MTG",
+    "rarityname": "Uncommon"
+  },
+  {
+    "nummer": "0016",
+    "name": "Dion, Bahamut´s Dominant/ Bahamut, Warden of Light",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card16fin.jpg",
+    "game":"MTG",
+    "rarityname": "Rare"
+  },
+  {
+    "nummer": "0017",
+    "name": "Dragoon´s Lance",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card17fin.jpg",
+    "game":"MTG",
+    "rarityname": "Uncommon"
+  },
+  {
+    "nummer": "0018",
+    "name": "Dwarven Castle Guard",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card18fin.jpg",
+    "game":"MTG",
+    "rarityname": "Common"
+  },
+  {
+    "nummer": "0019",
+    "name": "Fate of the Sun-Cryst",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card19fin.jpg",
+    "game":"MTG",
+    "rarityname": "Common"
+  },
+  {
+    "nummer": "0020",
+    "name": "From Father to Son",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card20fin.jpg",
+    "game":"MTG",
+    "rarityname": "Rare"
+  },
+  {
+    "nummer": "0021",
+    "name": "G´raha Tia",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink": "./cardimages/finmtg/card21fin.jpg",
+    "game":"MTG",
+    "rarityname": "Uncommon"
+  },
+  {
+    "nummer": "0022",
+    "name": "Gaelicat",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card22fin.jpg",
+    "game":"MTG",
+    "rarityname": "Common"
+  },
+  {
+    "nummer": "0023",
+    "name": "Machinist´s Arsenal",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card23fin.jpg",
+    "game":"MTG",
+    "rarityname": "Rare"
+  },
+  {
+    "nummer": "0024",
+    "name": "Magitek Armor",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card24fin.jpg",
+    "game":"MTG",
+    "rarityname": "Uncommon"
+  },
+  {
+    "nummer": "0025",
+    "name": "Magitek Infantry",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card25fin.jpg",
+    "game":"MTG",
+    "rarityname": "Common"
+  },
+  {
+    "nummer": "0026",
+    "name": "Minwu, White Mage",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card26fin.jpg",
+    "game":"MTG",
+    "rarityname": "Rare"
+  },
+  {
+    "nummer": "0027",
+    "name": "Moogle´s Valor",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card27fin.jpg",
+    "game":"MTG",
+    "rarityname": "Rare"
+  },
+  {
+    "nummer": "0028",
+    "name": "Paladin´s Arms",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card28fin.jpg",
+    "game":"MTG",
+    "rarityname": "Common"
+  },
+  {
+    "nummer": "0029",
+    "name": "Phoenix Down",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card29fin.jpg",
+    "game":"MTG",
+    "rarityname": "Uncommon"
+  },
+  {
+    "nummer": "0030",
+    "name": "Restoration Magic",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card30fin.jpg",
+    "game":"MTG",
+    "rarityname": "Uncommon"
+  },
+  {
+    "nummer": "0031",
+    "name": "Sidequest: Catch a Fish/ Cooking Campsite",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card31fin.jpg",
+    "game":"MTG",
+    "rarityname": "Uncommon"
+  },
+  {
+    "nummer": "0032",
+    "name": "Slash of Light",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card32fin.jpg",
+    "game":"MTG",
+    "rarityname": "Common"
+  },
+  {
+    "nummer": "0033",
+    "name": "Snow Villiers",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card33fin.jpg",
+    "game":"MTG",
+    "rarityname": "Uncommon"
+  },
+  {
+    "nummer": "0034",
+    "name": "Stiltzkin, Moohle Merchant",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card34fin.jpg",
+    "game":"MTG",
+    "rarityname": "Rare"
+  },
+  {
+    "nummer": "0035",
+    "name": "Summon: Choco/Mog",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card35fin.jpg",
+    "game":"MTG",
+    "rarityname": "Common"
+  },
+  {
+    "nummer": "0036",
+    "name": "Summon: Knights of Round",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card36fin.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0037",
+    "name": "Summon: Primal Garuda",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card37fin.jpg",
+    "game":"MTG",
+    "rarityname": "Uncommon"
+  },
+  {
+    "nummer": "0038",
+    "name": "Ultima",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card38fin.jpg",
+    "game":"MTG",
+    "rarityname": "Rare"
+  },
+  {
+    "nummer": "0039",
+    "name": "Venat, Heart of Hydaelyn/ Hydaelyn, the Mothercrystal",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card39fin.jpg",
+    "game":"MTG",
+    "rarityname": "Rare"
+  },
+  {
+    "nummer": "0040",
+    "name": "Weapons Vendor",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card40fin.jpg",
+    "game":"MTG",
+    "rarityname": "Common"
+  },
+  {
+    "nummer": "0041",
+    "name": "White Auracite",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card41fin.jpg",
+    "game":"MTG",
+    "rarityname": "Common"
+  },
+  {
+    "nummer": "0042",
+    "name": "White Mage´s Staff",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink": "./cardimages/finmtg/card42fin.jpg",
+    "game":"MTG",
+    "rarityname": "Common"
+  },
+  {
+    "nummer": "0043",
+    "name": "The Wind Crystal",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card43fin.jpg",
+    "game":"MTG",
+    "rarityname": "Rare"
+  },
+  {
+    "nummer": "0044",
+    "name": "Your´s Not Alone",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card44fin.jpg",
+    "game":"MTG",
+    "rarityname": "Common"
+  },
+  {
+    "nummer": "0045",
+    "name": "Zack Fair",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card45fin.jpg",
+    "game":"MTG",
+    "rarityname": "Uncommon"
+  },
+  {
+    "nummer": "0046",
+    "name": "Astrologian´s Planisphere",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card46fin.jpg",
+    "game":"MTG",
+    "rarityname": "Rare"
+  },
+  {
+    "nummer": "0047",
+    "name": "Cargo Ship",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card47fin.jpg",
+    "game":"MTG",
+    "rarityname": "Uncommon"
+  },
+  {
+    "nummer": "0048",
+    "name": "Combat Tutorial",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card48fin.jpg",
+    "game":"MTG",
+    "rarityname": "Common"
+  },
+  {
+    "nummer": "0049",
+    "name": "Dragoon´s Wyvern",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card49fin.jpg",
+    "game":"MTG",
+    "rarityname": "Common"
+  },
+  {
+    "nummer": "0050",
+    "name": "Dreams of Laguna",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card50fin.jpg",
+    "game":"MTG",
+    "rarityname": "Common"
+  },
+  {
+    "nummer": "0051",
+    "name": "Edgar, King of Figaro",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card51fin.jpg",
+    "game":"MTG",
+    "rarityname": "Rare"
+  },
+  {
+    "nummer": "0052",
+    "name": "Eject",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card52fin.jpg",
+    "game":"MTG",
+    "rarityname": "Uncommon"
+  },
+  {
+    "nummer": "0053",
+    "name": "Ether",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card53fin.jpg",
+    "game":"MTG",
+    "rarityname": "Uncommon"
+  },
+  {
+    "nummer": "0054",
+    "name": "Gogo, Master of Mimicry",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card54fin.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0055",
+    "name": "Ice Flan",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card55fin.jpg",
+    "game":"MTG",
+    "rarityname": "Common"
+  },
+  {
+    "nummer": "0056",
+    "name": "Ice Magic",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card56fin.jpg",
+    "game":"MTG",
+    "rarityname": "Common"
+  },
+  {
+    "nummer": "0057",
+    "name": "II Mheg Pixie",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card57fin.jpg",
+    "game":"MTG",
+    "rarityname": "Uncommon"
+  },
+  {
+    "nummer": "0058",
+    "name": "Jill, Shiva´s Dominant/ Shiva, Warden of Ice",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card58fin.jpg",
+    "game":"MTG",
+    "rarityname": "Rare"
+  },
+  {
+    "nummer": "0059",
+    "name": "Louisoix´s Sacrifice",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card59fin.jpg",
+    "game":"MTG",
+    "rarityname": "Rare"
+  },
+  {
+    "nummer": "0060",
+    "name": "The Lunar Whale",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card60fin.jpg",
+    "game":"MTG",
+    "rarityname": "Rare"
+  },
+  {
+    "nummer": "0061",
+    "name": "Magic Damper",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card61fin.jpg",
+    "game":"MTG",
+    "rarityname": "Common"
+  },
+  {
+    "nummer": "0062",
+    "name": "Matoya, Archon Elder",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink": "./cardimages/finmtg/card62fin.jpg",
+    "game":"MTG",
+    "rarityname": "Rare"
+  },
+  {
+    "nummer": "0063",
+    "name": "Memories Returning",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card63fin.jpg",
+    "game":"MTG",
+    "rarityname": "Rare"
+  },
+  {
+    "nummer": "0064",
+    "name": "The Prisma Vista",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card64fin.jpg",
+    "game":"MTG",
+    "rarityname": "Uncommon"
+  },
+  {
+    "nummer": "0065",
+    "name": "Qiqirn Merchant",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card65fin.jpg",
+    "game":"MTG",
+    "rarityname": "Common"
+  },
+  {
+    "nummer": "0066",
+    "name": "Quistis Trepe",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card66fin.jpg",
+    "game":"MTG",
+    "rarityname": "Uncommon"
+  },
+  {
+    "nummer": "0067",
+    "name": "Relm´s Sketching",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card67fin.jpg",
+    "game":"MTG",
+    "rarityname": "Uncommon"
+  },
+  {
+    "nummer": "0068",
+    "name": "Retrieve the Esper",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card68fin.jpg",
+    "game":"MTG",
+    "rarityname": "Common"
+  },
+  {
+    "nummer": "0069",
+    "name": "Rook Turret",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card69fin.jpg",
+    "game":"MTG",
+    "rarityname": "Common"
+  },
+  {
+    "nummer": "0070",
+    "name": "Sage´s Nouliths",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card70fin.jpg",
+    "game":"MTG",
+    "rarityname": "Common"
+  },
+  {
+    "nummer": "0071",
+    "name": "Sahagin",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card71fin.jpg",
+    "game":"MTG",
+    "rarityname": "Common"
+  },
+  {
+    "nummer": "0072",
+    "name": "Scorpion Sentinel",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card72fin.jpg",
+    "game":"MTG",
+    "rarityname": "Common"
+  },
+  {
+    "nummer": "0073",
+    "name": "Sidequest: Card Collection/ Magicked Card",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card73fin.jpg",
+    "game":"MTG",
+    "rarityname": "Uncommon"
+  },
+  {
+    "nummer": "0074",
+    "name": "Sleep Magic",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card74fin.jpg",
+    "game":"MTG",
+    "rarityname": "Uncommon"
+  },
+  {
+    "nummer": "0075",
+    "name": "Stolen Uniform",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card75fin.jpg",
+    "game":"MTG",
+    "rarityname": "Uncommon"
+  },
+  {
+    "nummer": "0076",
+    "name": "Stuck in Summoner´s Sanctum",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card76fin.jpg",
+    "game":"MTG",
+    "rarityname": "Common"
+  },
+  {
+    "nummer": "0077",
+    "name": "Summon: Leviathin",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card77fin.jpg",
+    "game":"MTG",
+    "rarityname": "Rare"
+  },
+  {
+    "nummer": "0078",
+    "name": "Summon: Shiva",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card78fin.jpg",
+    "game":"MTG",
+    "rarityname": "Uncommon"
+  },
+  {
+    "nummer": "0079",
+    "name": "Swallowed by Leviathan",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card79fin.jpg",
+    "game":"MTG",
+    "rarityname": "Uncommon"
+  },
+  {
+    "nummer": "0080",
+    "name": "Syncopate",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card80fin.jpg",
+    "game":"MTG",
+    "rarityname": "Common"
+  },
+  {
+    "nummer": "0081",
+    "name": "Thief´s Knife",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card81fin.jpg",
+    "game":"MTG",
+    "rarityname": "Uncommon"
+  },
+  {
+    "nummer": "0082",
+    "name": "Travel the Overworld",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink": "./cardimages/finmtg/card82fin.jpg",
+    "game":"MTG",
+    "rarityname": "Uncommon"
+  },
+  {
+    "nummer": "0083",
+    "name": "Ultros, Obnoxious Octopus",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card83fin.jpg",
+    "game":"MTG",
+    "rarityname": "Uncommon"
+  },
+  {
+    "nummer": "0084",
+    "name": "Valkyrie Aerial Unit",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card84fin.jpg",
+    "game":"MTG",
+    "rarityname": "Uncommon"
+  },
+  {
+    "nummer": "0085",
+    "name": "The Water Crystal",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card85fin.jpg",
+    "game":"MTG",
+    "rarityname": "Rare"
+  },
+  {
+    "nummer": "0086",
+    "name": "Y´shtola Rhul",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card86fin.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0087",
+    "name": "Ahriman",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card87fin.jpg",
+    "game":"MTG",
+    "rarityname": "Common"
+  },
+  {
+    "nummer": "0088",
+    "name": "Al Bhed Salvagers",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card88fin.jpg",
+    "game":"MTG",
+    "rarityname": "Uncommon"
+  },
+  {
+    "nummer": "0089",
+    "name": "Ardyn, the Usurper",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card89fin.jpg",
+    "game":"MTG",
+    "rarityname": "Rare"
+  },
+  {
+    "nummer": "0090",
+    "name": "Black Mage´s Rod",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card90fin.jpg",
+    "game":"MTG",
+    "rarityname": "Common"
+  },
+  {
+    "nummer": "0091",
+    "name": "Cecil, Dark Knight/ Cecil, Redeemed Paladin",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card91fin.jpg",
+    "game":"MTG",
+    "rarityname": "Rare"
+  },
+  {
+    "nummer": "0092",
+    "name": "Circle of Power",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card92fin.jpg",
+    "game":"MTG",
+    "rarityname": "Uncommon"
+  },
+  {
+    "nummer": "0093",
+    "name": "Cornered by Black Mages",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card93fin.jpg",
+    "game":"MTG",
+    "rarityname": "Common"
+  },
+  {
+    "nummer": "0094",
+    "name": "Dark Confidant",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card94fin.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0095",
+    "name": "Dark Knight´s Greatsword",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card95fin.jpg",
+    "game":"MTG",
+    "rarityname": "Uncommon"
+  },
+  {
+    "nummer": "0096",
+    "name": "The Darkness Crystal",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card96fin.jpg",
+    "game":"MTG",
+    "rarityname": "Rare"
+  },
+  {
+    "nummer": "0097",
+    "name": "Demon Wall",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card97fin.jpg",
+    "game":"MTG",
+    "rarityname": "Uncommon"
+  },
+  {
+    "nummer": "0098",
+    "name": "Evil Reawakened",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card98fin.jpg",
+    "game":"MTG",
+    "rarityname": "Uncommon"
+  },
+  {
+    "nummer": "0099",
+    "name": "Fang, Fearless I´Cie/ Ragnarok, Divine Deliverance",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card99fin.jpg",
+    "game":"MTG",
+    "rarityname": "Uncommon"
+  },
+  {
+    "nummer": "0100",
+    "name": "Fight On!",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card100fin.jpg",
+    "game":"MTG",
+    "rarityname": "Common"
+  },
+  {
+    "nummer": "0101",
+    "name": "The Final Days",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card101fin.jpg",
+    "game":"MTG",
+    "rarityname": "Uncommon"
+  },
+  {
+    "nummer": "0102",
+    "name": "Gaius van Baelsar",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink": "./cardimages/finmtg/card102fin.jpg",
+    "game":"MTG",
+    "rarityname": "Uncommon"
+  },
+  {
+    "nummer": "0103",
+    "name": "Hecteyes",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card103fin.jpg",
+    "game":"MTG",
+    "rarityname": "Common"
+  },
+  {
+    "nummer": "0104",
+    "name": "Jecht, Reluctant Guardian/ Braska´s Final Aeon",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card104fin.jpg",
+    "game":"MTG",
+    "rarityname": "Rare"
+  },
+  {
+    "nummer": "0105",
+    "name": "Kain, Traitorous Dragoon",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card105fin.jpg",
+    "game":"MTG",
+    "rarityname": "Rare"
+  },
+  {
+    "nummer": "0106",
+    "name": "Malboro",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card106fin.jpg",
+    "game":"MTG",
+    "rarityname": "Common"
+  },
+  {
+    "nummer": "0107",
+    "name": "Namazu Trader",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card107fin.jpg",
+    "game":"MTG",
+    "rarityname": "Common"
+  },
+  {
+    "nummer": "0108",
+    "name": "Ninja´s Blades",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card108fin.jpg",
+    "game":"MTG",
+    "rarityname": "Rare"
+  },
+  {
+    "nummer": "0109",
+    "name": "Overkill",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card109fin.jpg",
+    "game":"MTG",
+    "rarityname": "Uncommon"
+  },
+  {
+    "nummer": "0110",
+    "name": "Phantom Train",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card110fin.jpg",
+    "game":"MTG",
+    "rarityname": "Uncommon"
+  },
+  {
+    "nummer": "0111",
+    "name": "Poison the Waters",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card111fin.jpg",
+    "game":"MTG",
+    "rarityname": "Uncommon"
+  },
+  {
+    "nummer": "0112",
+    "name": "Qutrub Forayer",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card112fin.jpg",
+    "game":"MTG",
+    "rarityname": "Common"
+  },
+  {
+    "nummer": "0113",
+    "name": "Reno and Rude",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card113fin.jpg",
+    "game":"MTG",
+    "rarityname": "Uncommon"
+  },
+  {
+    "nummer": "0114",
+    "name": "Resentful Revelation",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card114fin.jpg",
+    "game":"MTG",
+    "rarityname": "Common"
+  },
+  {
+    "nummer": "0115",
+    "name": "Sephiroth, Fabled SOLDIER",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card115fin.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0116",
+    "name": "Sephiroth´s Intervention",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card116fin.jpg",
+    "game":"MTG",
+    "rarityname": "Common"
+  },
+  {
+    "nummer": "0117",
+    "name": "Shambling Cie´th",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card117fin.jpg",
+    "game":"MTG",
+    "rarityname": "Uncommon"
+  },
+  {
+    "nummer": "0118",
+    "name": "Shinra Reinforcements",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card118fin.jpg",
+    "game":"MTG",
+    "rarityname": "Common"
+  },
+  {
+    "nummer": "0119",
+    "name": "Sidequest: Hunt the Mark/ Yiazmat, Ultimate Mark",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card119fin.jpg",
+    "game":"MTG",
+    "rarityname": "Uncommon"
+  },
+  {
+    "nummer": "0120",
+    "name": "Summon Anima",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card120fin.jpg",
+    "game":"MTG",
+    "rarityname": "Uncommon"
+  },
+  {
+    "nummer": "0121",
+    "name": "Summon: Primal Odin",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card121fin.jpg",
+    "game":"MTG",
+    "rarityname": "Rare"
+  },
+  {
+    "nummer": "0122",
+    "name": "Tonberry",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink": "./cardimages/finmtg/card122fin.jpg",
+    "game":"MTG",
+    "rarityname": "Uncommon"
+  },
+  {
+    "nummer": "0123",
+    "name": "Undercity Dire Rat",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card123fin.jpg",
+    "game":"MTG",
+    "rarityname": "Common"
+  },
+  {
+    "nummer": "0124",
+    "name": "Vayne´s Treachery",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card124fin.jpg",
+    "game":"MTG",
+    "rarityname": "Common"
+  },
+  {
+    "nummer": "0125",
+    "name": "Vincent Valentine/ Galian Beast",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card125fin.jpg",
+    "game":"MTG",
+    "rarityname": "Rare"
+  },
+  {
+    "nummer": "0126",
+    "name": "Vincent´s Limit Break",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card126fin.jpg",
+    "game":"MTG",
+    "rarityname": "Common"
+  },
+  {
+    "nummer": "0127",
+    "name": "Zenos yea Galvus/ Shinryu, Transcendent Rival",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card127fin.jpg",
+    "game":"MTG",
+    "rarityname": "Rare"
+  },
+  {
+    "nummer": "0128",
+    "name": "Zodiark, Umbral God",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card128fin.jpg",
+    "game":"MTG",
+    "rarityname": "Rare"
+  },
+  {
+    "nummer": "0129",
+    "name": "Barret Wallace",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card129fin.jpg",
+    "game":"MTG",
+    "rarityname": "Uncommon"
+  },
+  {
+    "nummer": "0130",
+    "name": "Blazing Bomb",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card130fin.jpg",
+    "game":"MTG",
+    "rarityname": "Common"
+  },
+  {
+    "nummer": "0131",
+    "name": "Call the Mountain Chocobo",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card131fin.jpg",
+    "game":"MTG",
+    "rarityname": "Common"
+  },
+  {
+    "nummer": "0132",
+    "name": "Choco-Comet",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card132fin.jpg",
+    "game":"MTG",
+    "rarityname": "Uncommon"
+  },
+  {
+    "nummer": "0133",
+    "name": "Clive, Ifrit´s Dominant/ Ifrit, Warden of Inferno",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card133fin.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0134",
+    "name": "Coral Sword",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card134fin.jpg",
+    "game":"MTG",
+    "rarityname": "Uncommon"
+  },
+  {
+    "nummer": "0135",
+    "name": "The Fire Crystal",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card135fin.jpg",
+    "game":"MTG",
+    "rarityname": "Rare"
+  },
+  {
+    "nummer": "0136",
+    "name": "Fire Magic",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card136fin.jpg",
+    "game":"MTG",
+    "rarityname": "Uncommon"
+  },
+  {
+    "nummer": "0137",
+    "name": "Firion, Wild Rose Warrior",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card137fin.jpg",
+    "game":"MTG",
+    "rarityname": "Rare"
+  },
+  {
+    "nummer": "0138",
+    "name": "Freya Crescent",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card138fin.jpg",
+    "game":"MTG",
+    "rarityname": "Uncommon"
+  },
+  {
+    "nummer": "0139",
+    "name": "Gilgamesh, Master-at-Arms",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card139fin.jpg",
+    "game":"MTG",
+    "rarityname": "Rare"
+  },
+  {
+    "nummer": "0140",
+    "name": "Haste Magic",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card140fin.jpg",
+    "game":"MTG",
+    "rarityname": "Common"
+  },
+  {
+    "nummer": "0141",
+    "name": "Hill Gigas",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card141fin.jpg",
+    "game":"MTG",
+    "rarityname": "Common"
+  },
+  {
+    "nummer": "0142",
+    "name": "Item Shopkeep",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink": "./cardimages/finmtg/card142fin.jpg",
+    "game":"MTG",
+    "rarityname": "Common"
+  },
+  {
+    "nummer": "0143",
+    "name": "Laughing Mad",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card143fin.jpg",
+    "game":"MTG",
+    "rarityname": "Common"
+  },
+  {
+    "nummer": "0144",
+    "name": "Light of Judgment",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card144fin.jpg",
+    "game":"MTG",
+    "rarityname": "Common"
+  },
+  {
+    "nummer": "0145",
+    "name": "Mysidian Elder",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card145fin.jpg",
+    "game":"MTG",
+    "rarityname": "Common"
+  },
+  {
+    "nummer": "0146",
+    "name": "Nibelheim Aflame",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card146fin.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0147",
+    "name": "Opera Love Song",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card147fin.jpg",
+    "game":"MTG",
+    "rarityname": "Uncommon"
+  },
+  {
+    "nummer": "0148",
+    "name": "Prompto Argentum",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card148fin.jpg",
+    "game":"MTG",
+    "rarityname": "Uncommon"
+  },
+  {
+    "nummer": "0149",
+    "name": "Queen Brahne",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card149fin.jpg",
+    "game":"MTG",
+    "rarityname": "Uncommon"
+  },
+  {
+    "nummer": "0150",
+    "name": "Random Encounter",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card150fin.jpg",
+    "game":"MTG",
+    "rarityname": "Uncommon"
+  },
+  {
+    "nummer": "0151",
+    "name": "Raubahn, Bull of Ala Mhigo",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card151fin.jpg",
+    "game":"MTG",
+    "rarityname": "Rare"
+  },
+  {
+    "nummer": "0152",
+    "name": "Red Mage´s Rapier",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card152fin.jpg",
+    "game":"MTG",
+    "rarityname": "Common"
+  },
+  {
+    "nummer": "0153",
+    "name": "Sabotender",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card153fin.jpg",
+    "game":"MTG",
+    "rarityname": "Common"
+  },
+  {
+    "nummer": "0154",
+    "name": "Samurai´s Katana",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card154fin.jpg",
+    "game":"MTG",
+    "rarityname": "Uncommon"
+  },
+  {
+    "nummer": "0155",
+    "name": "Sandworm",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card155fin.jpg",
+    "game":"MTG",
+    "rarityname": "Uncommon"
+  },
+  {
+    "nummer": "0156",
+    "name": "Seifer Almasy",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card156fin.jpg",
+    "game":"MTG",
+    "rarityname": "Rare"
+  },
+  {
+    "nummer": "0157",
+    "name": "Self-Desruct",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card157fin.jpg",
+    "game":"MTG",
+    "rarityname": "Uncommon"
+  },
+  {
+    "nummer": "0158",
+    "name": "Sidequest:Play Blitzball/ World Champion, Celestial Weapon",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card158fin.jpg",
+    "game":"MTG",
+    "rarityname": "Uncommon"
+  },
+  {
+    "nummer": "0159",
+    "name": "Sorceress´s Schemes",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card159fin.jpg",
+    "game":"MTG",
+    "rarityname": "Uncommon"
+  },
+  {
+    "nummer": "0160",
+    "name": "Summon: Brynhildr",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card160fin.jpg",
+    "game":"MTG",
+    "rarityname": "Rare"
+  },
+  {
+    "nummer": "0161",
+    "name": "Summon: Esper Ramuh",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card161fin.jpg",
+    "game":"MTG",
+    "rarityname": "Uncommon"
+  },
+  {
+    "nummer": "0162",
+    "name": "Summon: G.F. Cerberus",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink": "./cardimages/finmtg/card162fin.jpg",
+    "game":"MTG",
+    "rarityname": "Rare"
+  },
+  {
+    "nummer": "0163",
+    "name": "Summon: G.F. Ifrit",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card163fin.jpg",
+    "game":"MTG",
+    "rarityname": "Common"
+  },
+  {
+    "nummer": "0164",
+    "name": "Suplex",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card164fin.jpg",
+    "game":"MTG",
+    "rarityname": "Common"
+  },
+  {
+    "nummer": "0165",
+    "name": "Thunder Magic",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card165fin.jpg",
+    "game":"MTG",
+    "rarityname": "Common"
+  },
+  {
+    "nummer": "0166",
+    "name": "Triple Triad",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card166fin.jpg",
+    "game":"MTG",
+    "rarityname": "Rare"
+  },
+  {
+    "nummer": "0167",
+    "name": "Unexpected Request",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card167fin.jpg",
+    "game":"MTG",
+    "rarityname": "Uncommon"
+  },
+  {
+    "nummer": "0168",
+    "name": "Vaan, Street Thief",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card168fin.jpg",
+    "game":"MTG",
+    "rarityname": "Rare"
+  },
+  {
+    "nummer": "0169",
+    "name": "Warrior´s Sword",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card169fin.jpg",
+    "game":"MTG",
+    "rarityname": "Common"
+  },
+  {
+    "nummer": "0170",
+    "name": "Zell Dincht",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card170fin.jpg",
+    "game":"MTG",
+    "rarityname": "Rare"
+  },
+  {
+    "nummer": "0171",
+    "name": "Airship Crash",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card171fin.jpg",
+    "game":"MTG",
+    "rarityname": "Common"
+  },
+  {
+    "nummer": "0172",
+    "name": "Ancient Adamantoise",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card172fin.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0173",
+    "name": "Balamb T-Rexaur",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card173fin.jpg",
+    "game":"MTG",
+    "rarityname": "Common"
+  },
+  {
+    "nummer": "0174",
+    "name": "Bard´s Bow",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card174fin.jpg",
+    "game":"MTG",
+    "rarityname": "Common"
+  },
+  {
+    "nummer": "0175",
+    "name": "Bartz and Boko",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card175fin.jpg",
+    "game":"MTG",
+    "rarityname": "Rare"
+  },
+  {
+    "nummer": "0176",
+    "name": "Blitzball Shot",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card176fin.jpg",
+    "game":"MTG",
+    "rarityname": "Common"
+  },
+  {
+    "nummer": "0177",
+    "name": "Cactuar",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card177fin.jpg",
+    "game":"MTG",
+    "rarityname": "Uncommon"
+  },
+  {
+    "nummer": "0178",
+    "name": "Chocobo Kick",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card178fin.jpg",
+    "game":"MTG",
+    "rarityname": "Common"
+  },
+  {
+    "nummer": "0179",
+    "name": "Chocobo Racetrack",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card179fin.jpg",
+    "game":"MTG",
+    "rarityname": "Uncommon"
+  },
+  {
+    "nummer": "0180",
+    "name": "Clash of the Eikons",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card180fin.jpg",
+    "game":"MTG",
+    "rarityname": "Uncommon"
+  },
+  {
+    "nummer": "0181",
+    "name": "Coliseum Behemoth",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card181fin.jpg",
+    "game":"MTG",
+    "rarityname": "Uncommon"
+  },
+  {
+    "nummer": "0182",
+    "name": "Commune with Beavers",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink": "./cardimages/finmtg/card182fin.jpg",
+    "game":"MTG",
+    "rarityname": "Common"
+  },
+  {
+    "nummer": "0183",
+    "name": "Diamond Weapon",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card183fin.jpg",
+    "game":"MTG",
+    "rarityname": "Uncommon"
+  },
+  {
+    "nummer": "0184",
+    "name": "The Earth Crystal",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card184fin.jpg",
+    "game":"MTG",
+    "rarityname": "Rare"
+  },
+  {
+    "nummer": "0185",
+    "name": "Esper Origins/ Summon: Esper Maduin",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card185fin.jpg",
+    "game":"MTG",
+    "rarityname": "Rare"
+  },
+  {
+    "nummer": "0186",
+    "name": "Galuf´s Final Act",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card186fin.jpg",
+    "game":"MTG",
+    "rarityname": "Uncommon"
+  },
+  {
+    "nummer": "0187",
+    "name": "Gigantoad",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card187fin.jpg",
+    "game":"MTG",
+    "rarityname": "Common"
+  },
+  {
+    "nummer": "0188",
+    "name": "Goobbue Gardener",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card188fin.jpg",
+    "game":"MTG",
+    "rarityname": "Common"
+  },
+  {
+    "nummer": "0189",
+    "name": "Gran Pulse Ochu",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card189fin.jpg",
+    "game":"MTG",
+    "rarityname": "Common"
+  },
+  {
+    "nummer": "0190",
+    "name": "Gysahl Greens",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card190fin.jpg",
+    "game":"MTG",
+    "rarityname": "Common"
+  },
+  {
+    "nummer": "0191",
+    "name": "Jumbo Cactuar",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card191fin.jpg",
+    "game":"MTG",
+    "rarityname": "Rare"
+  },
+  {
+    "nummer": "0192",
+    "name": "Loporrit Scout",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card192fin.jpg",
+    "game":"MTG",
+    "rarityname": "Common"
+  },
+  {
+    "nummer": "0193",
+    "name": "Prishe´s Wanderings",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card193fin.jpg",
+    "game":"MTG",
+    "rarityname": "Common"
+  },
+  {
+    "nummer": "0194",
+    "name": "Quina, Qu Gourmet",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card194fin.jpg",
+    "game":"MTG",
+    "rarityname": "Uncommon"
+  },
+  {
+    "nummer": "0195",
+    "name": "Reach the Horizon",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card195fin.jpg",
+    "game":"MTG",
+    "rarityname": "Uncommon"
+  },
+  {
+    "nummer": "0196",
+    "name": "A Realm Reborn",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card196fin.jpg",
+    "game":"MTG",
+    "rarityname": "Rare"
+  },
+  {
+    "nummer": "0197",
+    "name": "Ride the Shoopuf",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card197fin.jpg",
+    "game":"MTG",
+    "rarityname": "Uncommon"
+  },
+  {
+    "nummer": "0198",
+    "name": "Rydia´s Return",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card198fin.jpg",
+    "game":"MTG",
+    "rarityname": "Uncommon"
+  },
+  {
+    "nummer": "0199",
+    "name": "Sazh Katzroy",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card199fin.jpg",
+    "game":"MTG",
+    "rarityname": "Rare"
+  },
+  {
+    "nummer": "0200",
+    "name": "Sazh´s Chocobo",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card200fin.jpg",
+    "game":"MTG",
+    "rarityname": "Uncommon"
+  },
+  {
+    "nummer": "0201",
+    "name": "Sidequest: Raise a Chocobo/ Black Chocobo",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card201fin.jpg",
+    "game":"MTG",
+    "rarityname": "Uncommon"
+  },
+  {
+    "nummer": "0202",
+    "name": "Summon: Fat Chocobo",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink": "./cardimages/finmtg/card202fin.jpg",
+    "game":"MTG",
+    "rarityname": "Common"
+  },
+  {
+    "nummer": "0203",
+    "name": "Summon: Fenrir",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card203fin.jpg",
+    "game":"MTG",
+    "rarityname": "Uncommon"
+  },
+  {
+    "nummer": "0204",
+    "name": "Summon: Titan",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card204fin.jpg",
+    "game":"MTG",
+    "rarityname": "Rare"
+  },
+  {
+    "nummer": "0205",
+    "name": "Summoner´s Grimoire",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card205fin.jpg",
+    "game":"MTG",
+    "rarityname": "Rare"
+  },
+  {
+    "nummer": "0206",
+    "name": "Tifa Lockhart",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card206fin.jpg",
+    "game":"MTG",
+    "rarityname": "Rare"
+  },
+  {
+    "nummer": "0207",
+    "name": "Tifa´s Limit Break",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card207fin.jpg",
+    "game":"MTG",
+    "rarityname": "Uncommon"
+  },
+  {
+    "nummer": "0208",
+    "name": "Torgal, A Fine Hound",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card208fin.jpg",
+    "game":"MTG",
+    "rarityname": "Uncommon"
+  },
+  {
+    "nummer": "0209",
+    "name": "Town Greeter",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card209fin.jpg",
+    "game":"MTG",
+    "rarityname": "Common"
+  },
+  {
+    "nummer": "0210",
+    "name": "Traveling Chocobo",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card210fin.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0211",
+    "name": "Vanille, Cheerful I´Cie",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card211fin.jpg",
+    "game":"MTG",
+    "rarityname": "Uncommon"
+  },
+  {
+    "nummer": "0212",
+    "name": "Absolute Virtue",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card212fin.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0213",
+    "name": "Balthier and Fran",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card213fin.jpg",
+    "game":"MTG",
+    "rarityname": "Rare"
+  },
+  {
+    "nummer": "0214",
+    "name": "Black Waltz No.3",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card214fin.jpg",
+    "game":"MTG",
+    "rarityname": "Uncommon"
+  },
+  {
+    "nummer": "0215",
+    "name": "Choco, Seeker of Paradise",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card215fin.jpg",
+    "game":"MTG",
+    "rarityname": "Rare"
+  },
+  {
+    "nummer": "0216",
+    "name": "Cid, Timeless Artificer",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card216fin.jpg",
+    "game":"MTG",
+    "rarityname": "Uncommon"
+  },
+  {
+    "nummer": "0217",
+    "name": "Cloud of Darkness",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card217fin.jpg",
+    "game":"MTG",
+    "rarityname": "Uncommon"
+  },
+  {
+    "nummer": "0218",
+    "name": "Emet-Selch, Unsundered/ Hades, Sorcerer of Eld",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card218fin.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0219",
+    "name": "The Emperor of Palamecia/ The Lord Master of Hell",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card219fin.jpg",
+    "game":"MTG",
+    "rarityname": "Uncommon"
+  },
+  {
+    "nummer": "0220",
+    "name": "Exdeath, Void Warlock/ Neo Exdeath, Dimension´s End",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card220fin.jpg",
+    "game":"MTG",
+    "rarityname": "Uncommon"
+  },
+  {
+    "nummer": "0221",
+    "name": "Garland, Knight of Cornelia/ Chaos, the Endless",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card221fin.jpg",
+    "game":"MTG",
+    "rarityname": "Uncommon"
+  },
+  {
+    "nummer": "0222",
+    "name": "Garnet, Princess of Alexandria",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink": "./cardimages/finmtg/card222fin.jpg",
+    "game":"MTG",
+    "rarityname": "Uncommon"
+  },
+  {
+    "nummer": "0223",
+    "name": "Giott, King of the Dwarves",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card223fin.jpg",
+    "game":"MTG",
+    "rarityname": "Uncommon"
+  },
+  {
+    "nummer": "0224",
+    "name": "Gladiolus Amicitia",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card224fin.jpg",
+    "game":"MTG",
+    "rarityname": "Uncommon"
+  },
+  {
+    "nummer": "0225",
+    "name": "Golbez, Crystal Collector",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card225fin.jpg",
+    "game":"MTG",
+    "rarityname": "Rare"
+  },
+  {
+    "nummer": "0226",
+    "name": "Hope Estheim",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card226fin.jpg",
+    "game":"MTG",
+    "rarityname": "Rare"
+  },
+  {
+    "nummer": "0227",
+    "name": "Ignis Scientia",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card227fin.jpg",
+    "game":"MTG",
+    "rarityname": "Uncommon"
+  },
+  {
+    "nummer": "0228",
+    "name": "Jenova, Ancient Calamity",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card228fin.jpg",
+    "game":"MTG",
+    "rarityname": "Rare"
+  },
+  {
+    "nummer": "0229",
+    "name": "Joshua, Phoenix´s Dominant/ Phoenix, Warden of Fire",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card229fin.jpg",
+    "game":"MTG",
+    "rarityname": "Rare"
+  },
+  {
+    "nummer": "0230",
+    "name": "Judge Magister Gabranth",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card230fin.jpg",
+    "game":"MTG",
+    "rarityname": "Uncommon"
+  },
+  {
+    "nummer": "0231",
+    "name": "Kefka, Court Mage/ Kefka, Ruler of Ruin",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card231fin.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0232",
+    "name": "Kuja, Genome Sorcerer/ Trance Kuja, Fate Defied",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card232fin.jpg",
+    "game":"MTG",
+    "rarityname": "Rare"
+  },
+  {
+    "nummer": "0233",
+    "name": "Lightning, Army of One",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card233fin.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0234",
+    "name": "Locke Cole",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card234fin.jpg",
+    "game":"MTG",
+    "rarityname": "Uncommon"
+  },
+  {
+    "nummer": "0235",
+    "name": "Noctis, Prince of Lucis",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card235fin.jpg",
+    "game":"MTG",
+    "rarityname": "Rare"
+  },
+  {
+    "nummer": "0236",
+    "name": "Omega, Hearthless Evolution",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card236fin.jpg",
+    "game":"MTG",
+    "rarityname": "Uncommon"
+  },
+  {
+    "nummer": "0237",
+    "name": "Rinoa Heartilly",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card237fin.jpg",
+    "game":"MTG",
+    "rarityname": "Uncommon"
+  },
+  {
+    "nummer": "0238",
+    "name": "Rufus Shinra",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card238fin.jpg",
+    "game":"MTG",
+    "rarityname": "Uncommon"
+  },
+  {
+    "nummer": "0239",
+    "name": "Rydia, Summoner of Mist",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card239fin.jpg",
+    "game":"MTG",
+    "rarityname": "Uncommon"
+  },
+  {
+    "nummer": "0240",
+    "name": "Serah Farron/ Crystallized Serah",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card240fin.jpg",
+    "game":"MTG",
+    "rarityname": "Rare"
+  },
+  {
+    "nummer": "0241",
+    "name": "Shantotto, Tactician Magician",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card241fin.jpg",
+    "game":"MTG",
+    "rarityname": "Uncommon"
+  },
+  {
+    "nummer": "0242",
+    "name": "Sin, Spira´s Punishment",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink": "./cardimages/finmtg/card242fin.jpg",
+    "game":"MTG",
+    "rarityname": "Rare"
+  },
+  {
+    "nummer": "0243",
+    "name": "Squall, SeeD Mercenary",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card243fin.jpg",
+    "game":"MTG",
+    "rarityname": "Rare"
+  },
+  {
+    "nummer": "0244",
+    "name": "Tellah, Great Sage",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card244fin.jpg",
+    "game":"MTG",
+    "rarityname": "Rare"
+  },
+  {
+    "nummer": "0245",
+    "name": "Terra, Magical Adept/ Esper Terra",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card245fin.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0246",
+    "name": "Tidus, Blitzball Star",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card246fin.jpg",
+    "game":"MTG",
+    "rarityname": "Uncommon"
+  },
+  {
+    "nummer": "0247",
+    "name": "Ultimecia, Time Sorceress/ Ultimecia, Omnipotent",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card247fin.jpg",
+    "game":"MTG",
+    "rarityname": "Uncommon"
+  },
+  {
+    "nummer": "0248",
+    "name": "Vivi Ornitier",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card248fin.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0249",
+    "name": "The Wandering Minstrel",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card249fin.jpg",
+    "game":"MTG",
+    "rarityname": "Rare"
+  },
+  {
+    "nummer": "0250",
+    "name": "Yuna, Hope of Spira",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card250fin.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0251",
+    "name": "Zidane, Tantalus Thief",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card251fin.jpg",
+    "game":"MTG",
+    "rarityname": "Uncommon"
+  },
+  {
+    "nummer": "0252",
+    "name": "Adventurer´s Airship",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card252fin.jpg",
+    "game":"MTG",
+    "rarityname": "Common"
+  },
+  {
+    "nummer": "0253",
+    "name": "Aettir and Priwen",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card253fin.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0254",
+    "name": "Blitzball",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card254fin.jpg",
+    "game":"MTG",
+    "rarityname": "Common"
+  },
+  {
+    "nummer": "0255",
+    "name": "Buster Sword",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card255fin.jpg",
+    "game":"MTG",
+    "rarityname": "Mythic Rare"
+  },
+  {
+    "nummer": "0256",
+    "name": "Elixir",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card256fin.jpg",
+    "game":"MTG",
+    "rarityname": "Uncommon"
+  },
+  {
+    "nummer": "0257",
+    "name": "Excalibur II",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card257fin.jpg",
+    "game":"MTG",
+    "rarityname": "Rare"
+  },
+  {
+    "nummer": "0258",
+    "name": "Genji Glove",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card258fin.jpg",
+    "game":"MTG",
+    "rarityname": "Rare"
+  },
+  {
+    "nummer": "0259",
+    "name": "Instand Ramen",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card259fin.jpg",
+    "game":"MTG",
+    "rarityname": "Common"
+  },
+  {
+    "nummer": "0260",
+    "name": "Iron Giant",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card260fin.jpg",
+    "game":"MTG",
+    "rarityname": "Common"
+  },
+  {
+    "nummer": "0261",
+    "name": "Lion Heart",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card261fin.jpg",
+    "game":"MTG",
+    "rarityname": "Uncommon"
+  },
+  {
+    "nummer": "0262",
+    "name": "Lunatic Pandora",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink": "./cardimages/finmtg/card262fin.jpg",
+    "game":"MTG",
+    "rarityname": "Common"
+  },
+  {
+    "nummer": "0263",
+    "name": "Magic Pot",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card263fin.jpg",
+    "game":"MTG",
+    "rarityname": "Common"
+  },
+  {
+    "nummer": "0264",
+    "name": "The Masamune",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card264fin.jpg",
+    "game":"MTG",
+    "rarityname": "Rare"
+  },
+  {
+    "nummer": "0265",
+    "name": "Monk´s Fist",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card265fin.jpg",
+    "game":"MTG",
+    "rarityname": "Common"
+  },
+  {
+    "nummer": "0266",
+    "name": "PuPu UFO",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card266fin.jpg",
+    "game":"MTG",
+    "rarityname": "Uncommon"
+  },
+  {
+    "nummer": "0267",
+    "name": "The Regalia",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card267fin.jpg",
+    "game":"MTG",
+    "rarityname": "Rare"
+  },
+  {
+    "nummer": "0268",
+    "name": "Relentless X-ATM092",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card268fin.jpg",
+    "game":"MTG",
+    "rarityname": "Uncommon"
+  },
+  {
+    "nummer": "0269",
+    "name": "Ring of the Lucii",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card269fin.jpg",
+    "game":"MTG",
+    "rarityname": "Uncommon"
+  },
+  {
+    "nummer": "0270",
+    "name": "World Map",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card270fin.jpg",
+    "game":"MTG",
+    "rarityname": "Common"
+  },
+  {
+    "nummer": "0271",
+    "name": "Adventurer´s Inn",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card271fin.jpg",
+    "game":"MTG",
+    "rarityname": "Common"
+  },
+  {
+    "nummer": "0272",
+    "name": "Balamb Garden, SeeD Academy/ Balamb Garden, Airbone",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card272fin.jpg",
+    "game":"MTG",
+    "rarityname": "Rare"
+  },
+  {
+    "nummer": "0273",
+    "name": "Baron, Airship Kingdom",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card273fin.jpg",
+    "game":"MTG",
+    "rarityname": "TwoColorLand"
+  },
+  {
+    "nummer": "0274",
+    "name": "Capital City",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card274fin.jpg",
+    "game":"MTG",
+    "rarityname": "Uncommon"
+  },
+  {
+    "nummer": "0275",
+    "name": "Clive´s Hideaway",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card275fin.jpg",
+    "game":"MTG",
+    "rarityname": "Rare"
+  },
+  {
+    "nummer": "0276",
+    "name": "Crossroads Village",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card276fin.jpg",
+    "game":"MTG",
+    "rarityname": "Common"
+  },
+  {
+    "nummer": "0277",
+    "name": "Eden, Seat of the Sanctum",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card277fin.jpg",
+    "game":"MTG",
+    "rarityname": "Uncommon"
+  },
+  {
+    "nummer": "0278",
+    "name": "Gohn, Town of Ruin",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card278fin.jpg",
+    "game":"MTG",
+    "rarityname": "TwoColorLand"
+  },
+  {
+    "nummer": "0279",
+    "name": "The Gold Saucer",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card279fin.jpg",
+    "game":"MTG",
+    "rarityname": "Uncommon"
+  },
+  {
+    "nummer": "0280",
+    "name": "Gongaga, Reactor Town",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card280fin.jpg",
+    "game":"MTG",
+    "rarityname": "TwoColorLand"
+  },
+  {
+    "nummer": "0281",
+    "name": "Guadosalam, Farplane Gateway",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card281fin.jpg",
+    "game":"MTG",
+    "rarityname": "TwoColorLand"
+  },
+  {
+    "nummer": "0282",
+    "name": "Insomnia, Crown City",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink": "./cardimages/finmtg/card282fin.jpg",
+    "game":"MTG",
+    "rarityname": "TwoColorLand"
+  },
+  {
+    "nummer": "0283",
+    "name": "Ishgard, the Holy See",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card283fin.jpg",
+    "game":"MTG",
+    "rarityname": "Rare"
+  },
+  {
+    "nummer": "0284",
+    "name": "Jidoor, Aristocratic Capital",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card284fin.jpg",
+    "game":"MTG",
+    "rarityname": "Rare"
+  },
+  {
+    "nummer": "0285",
+    "name": "Lindblum, Industrial Regency",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card285fin.jpg",
+    "game":"MTG",
+    "rarityname": "Rare"
+  },
+  {
+    "nummer": "0286",
+    "name": "Midgar, City of Mako",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card286fin.jpg",
+    "game":"MTG",
+    "rarityname": "Rare"
+  },
+  {
+    "nummer": "0287",
+    "name": "Rabanastre, Royal City",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card287fin.jpg",
+    "game":"MTG",
+    "rarityname": "TwoColorLand"
+  },
+  {
+    "nummer": "0288",
+    "name": "Sharlayan, Nation of Scholars",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card288fin.jpg",
+    "game":"MTG",
+    "rarityname": "TwoColorLand"
+  },
+  {
+    "nummer": "0289",
+    "name": "Starting Town",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card289fin.jpg",
+    "game":"MTG",
+    "rarityname": "Rare"
+  },
+  {
+    "nummer": "0290",
+    "name": "Treno, Cark City",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card290fin.jpg",
+    "game":"MTG",
+    "rarityname": "TwoColorLand"
+  },
+  {
+    "nummer": "0291",
+    "name": "Vector, Imperial Capital",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card291fin.jpg",
+    "game":"MTG",
+    "rarityname": "TwoColorLand"
+  },
+  {
+    "nummer": "0292",
+    "name": "Windburst, Federation Center",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card292fin.jpg",
+    "game":"MTG",
+    "rarityname": "TwoColorLand"
+  },
+  {
+    "nummer": "0293",
+    "name": "Zanarkand, Ancient Metropolis",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card293fin.jpg",
+    "game":"MTG",
+    "rarityname": "Rare"
+  },
+  {
+    "nummer": "0294",
+    "name": "Plains (V.1)",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card294fin.jpg",
+    "game":"MTG",
+    "rarityname": "BasicLand"
+  },
+  {
+    "nummer": "0295",
+    "name": "Plains (V.2)",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card295fin.jpg",
+    "game":"MTG",
+    "rarityname": "BasicLand"
+  },
+  {
+    "nummer": "0296",
+    "name": "Plains (V.3)",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card296fin.jpg",
+    "game":"MTG",
+    "rarityname": "BasicLand"
+  },
+  {
+    "nummer": "0297",
+    "name": "Island(V.1)",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card297fin.jpg",
+    "game":"MTG",
+    "rarityname": "BasicLand"
+  },
+  {
+    "nummer": "0298",
+    "name": "Island(V.2)",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card298fin.jpg",
+    "game":"MTG",
+    "rarityname": "BasicLand"
+  },
+  {
+    "nummer": "0299",
+    "name": "Island(V.3)",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card299fin.jpg",
+    "game":"MTG",
+    "rarityname": "BasicLand"
+  },
+  {
+    "nummer": "0300",
+    "name": "Swamp(V.1)",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card300fin.jpg",
+    "game":"MTG",
+    "rarityname": "BasicLand"
+  },
+  {
+    "nummer": "0301",
+    "name": "Swamp(V.2)",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card301fin.jpg",
+    "game":"MTG",
+    "rarityname": "BasicLand"
+  },
+  {
+    "nummer": "0302",
+    "name": "Swamp(V.3)",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card302fin.jpg",
+    "game":"MTG",
+    "rarityname": "BasicLand"
+  },
+  {
+    "nummer": "0303",
+    "name": "Mountain(V.1)",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card303fin.jpg",
+    "game":"MTG",
+    "rarityname": "BasicLand"
+  },
+  {
+    "nummer": "0304",
+    "name": "Mountain(V.2)",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card304fin.jpg",
+    "game":"MTG",
+    "rarityname": "BasicLand"
+  },
+  {
+    "nummer": "0305",
+    "name": "Mountain(V.3)",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card305fin.jpg",
+    "game":"MTG",
+    "rarityname": "BasicLand"
+  },
+  {
+    "nummer": "0306",
+    "name": "Forest(V.1)",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card306fin.jpg",
+    "game":"MTG",
+    "rarityname": "BasicLand"
+  },
+  {
+    "nummer": "0307",
+    "name": "Forest(V.2)",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card307fin.jpg",
+    "game":"MTG",
+    "rarityname": "BasicLand"
+  },
+  {
+    "nummer": "0308",
+    "name": "Forest(V.3)",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card308fin.jpg",
+    "game":"MTG",
+    "rarityname": "BasicLand"
+  },
+  {
+    "nummer": "0309",
+    "name": "Wastes",
+    "anzahl": "0",
+    "setcode": "FIN",
+    "bildlink":"./cardimages/finmtg/card309fin.jpg",
+    "game":"MTG",
+    "rarityname": "BasicLand"
+  }
+]
+
