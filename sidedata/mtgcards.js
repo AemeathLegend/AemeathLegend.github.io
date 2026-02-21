@@ -135,7 +135,7 @@ function saveasfile()
         const url = URL.createObjectURL(blob);
         const output = document.createElement("a");
         output.href = url;
-        output.download = "./sidedata/"+document.getElementById('setsselection').value.substring(10,document.getElementById('setsselection').value.length-5) +"fromCardGamesCollectedCards.json";
+        output.download = document.getElementById('setsselection').value.substring(10,document.getElementById('setsselection').value.length-5) +"fromCardGamesCollectedCards.json";
         document.body.appendChild(output);
         output.click();
         document.body.removeChild(output);
@@ -151,7 +151,7 @@ async function getasfile()
 {
     try
     {
-        if(document.getElementById('getbutton').value.includes(document.getElementById('setsselection').value.substring(0,document.getElementById('setsselection').value.length-5)+"fromCardGamesCollectedCards") && document.getElementById('setsselection').value!=='') {
+        if(document.getElementById('getbutton').value.includes(document.getElementById('setsselection').value.substring(10,document.getElementById('setsselection').value.length-5)+"fromCardGamesCollectedCards") && document.getElementById('setsselection').value!=='') {
             const elementtemp = document.getElementById("getbutton");
             let fileglobal = elementtemp.files[0];
             let numinfile =[];
