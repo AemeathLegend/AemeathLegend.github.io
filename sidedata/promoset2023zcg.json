@@ -1,10 +1,10 @@
 [
   {
-    "nummer": "XXXX",
-    "name": "Under Creation",
+    "nummer": "1",
+    "name": "The Dice",
     "anzahl": "0",
-    "setcode": "XXX",
-    "bildlink": "./sidedata/cardimages/ZCG/set1-1zcg",
+    "setcode": "pr23",
+    "bildlink": "./sidedata/cardimages/ZCG/EventUndPromos/Promosets/2023/card1promo2023.avif",
     "game":"ZCG",
     "rarityname": "Promo"
   }
