@@ -198,11 +198,6 @@ select {
     font-size: 15px;
 }
 
-select .limited-select {
-  max-height: 250px;
-  overflow-y: auto;
-}
-
 /* Back button */
 #ZCGPackSimulatorback {
     background: linear-gradient(135deg, #ff5c93, #ff9f1c);
