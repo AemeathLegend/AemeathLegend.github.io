@@ -4,7 +4,7 @@
     "name": "Boromir, Warden of the Tower",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink": "./sidedata/cardimages/ltrmtg/Showcase_Ring/card1ltrShowN.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/Showcase_Ring/card1ltrShowN.jpg",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -13,7 +13,7 @@
     "name": "Faramir, Field Commander",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink": "./sidedata/cardimages/ltrmtg/Showcase_Ring/card2ltrShowN.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/Showcase_Ring/card2ltrShowN.jpg",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -22,7 +22,7 @@
     "name": "Frodo, Sauron´s Bane",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink": "./sidedata/cardimages/ltrmtg/Showcase_Ring/card3ltrShowN.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/Showcase_Ring/card3ltrShowN.jpg",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -31,7 +31,7 @@
     "name": "Dandalf the White",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink": "./sidedata/cardimages/ltrmtg/Showcase_Ring/card4ltrShowN.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/Showcase_Ring/card4ltrShowN.jpg",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -40,7 +40,7 @@
     "name": "Samwise the Southearted",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink": "./sidedata/cardimages/ltrmtg/Showcase_Ring/card5ltrShowN.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/Showcase_Ring/card5ltrShowN.jpg",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -49,7 +49,7 @@
     "name": "Elrond, Lord of Rivendell",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink": "./sidedata/cardimages/ltrmtg/Showcase_Ring/card6ltrShowN.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/Showcase_Ring/card6ltrShowN.jpg",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -58,7 +58,7 @@
     "name": "Gandalf, Friend of the Shire",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink": "./sidedata/cardimages/ltrmtg/Showcase_Ring/card7ltrShowN.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/Showcase_Ring/card7ltrShowN.jpg",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -67,7 +67,7 @@
     "name": "Gollum, Patient Plotter",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink": "./sidedata/cardimages/ltrmtg/Showcase_Ring/card8ltrShowN.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/Showcase_Ring/card8ltrShowN.jpg",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -76,7 +76,7 @@
     "name": "Sauron, the Necromancer",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink": "./sidedata/cardimages/ltrmtg/Showcase_Ring/card9ltrShowN.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/Showcase_Ring/card9ltrShowN.jpg",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -85,7 +85,7 @@
     "name": "Witch-king of Angmar",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink": "./sidedata/cardimages/ltrmtg/Showcase_Ring/card10ltrShowN.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/Showcase_Ring/card10ltrShowN.jpg",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -94,7 +94,7 @@
     "name": "Gimli, Counter of Kills",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink": "./sidedata/cardimages/ltrmtg/Showcase_Ring/card11ltrShowN.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/Showcase_Ring/card11ltrShowN.jpg",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -103,7 +103,7 @@
     "name": "Legolas, Master Archer",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink": "./sidedata/cardimages/ltrmtg/Showcase_Ring/card12ltrShowN.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/Showcase_Ring/card12ltrShowN.jpg",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -112,7 +112,7 @@
     "name": "Meriadoc Brandybuck",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink": "./sidedata/cardimages/ltrmtg/Showcase_Ring/card13ltrShowN.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/Showcase_Ring/card13ltrShowN.jpg",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -121,7 +121,7 @@
     "name": "Peregrin Took",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink": "./sidedata/cardimages/ltrmtg/Showcase_Ring/card14ltrShowN.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/Showcase_Ring/card14ltrShowN.jpg",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -130,7 +130,7 @@
     "name": "Aragorn, Company Leader",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink": "./sidedata/cardimages/ltrmtg/Showcase_Ring/card15ltrShowN.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/Showcase_Ring/card15ltrShowN.jpg",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -139,7 +139,7 @@
     "name": "Aragorn, the Uniter",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink": "./sidedata/cardimages/ltrmtg/Showcase_Ring/card16ltrShowN.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/Showcase_Ring/card16ltrShowN.jpg",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -148,7 +148,7 @@
     "name": "Elrond Master of Healing",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink": "./sidedata/cardimages/ltrmtg/Showcase_Ring/card17ltrShowN.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/Showcase_Ring/card17ltrShowN.jpg",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -157,7 +157,7 @@
     "name": "Faramir, Prince of Ithilien",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink": "./sidedata/cardimages/ltrmtg/Showcase_Ring/card18ltrShowN.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/Showcase_Ring/card18ltrShowN.jpg",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -166,7 +166,7 @@
     "name": "Frodo Baggins",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink": "./sidedata/cardimages/ltrmtg/Showcase_Ring/card19ltrShowN.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/Showcase_Ring/card19ltrShowN.jpg",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -175,7 +175,7 @@
     "name": "Galadriel of Lothlorien",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink": "./sidedata/cardimages/ltrmtg/Showcase_Ring/card20ltrShowN.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/Showcase_Ring/card20ltrShowN.jpg",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -184,7 +184,7 @@
     "name": "Gandalf the Grey",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink": "./sidedata/cardimages/ltrmtg/Showcase_Ring/card21ltrShowN.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/Showcase_Ring/card21ltrShowN.jpg",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -193,7 +193,7 @@
     "name": "Gimli, Mournful Avenger",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink": "./sidedata/cardimages/ltrmtg/Showcase_Ring/card22ltrShowN.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/Showcase_Ring/card22ltrShowN.jpg",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -202,7 +202,7 @@
     "name": "Legolas, Counter of Kills",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink": "./sidedata/cardimages/ltrmtg/Showcase_Ring/card23ltrShowN.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/Showcase_Ring/card23ltrShowN.jpg",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -211,7 +211,7 @@
     "name": "Merry, Esquire of Rohan",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink": "./sidedata/cardimages/ltrmtg/Showcase_Ring/card24ltrShowN.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/Showcase_Ring/card24ltrShowN.jpg",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -220,7 +220,7 @@
     "name": "Pippin, Guard of the Citadel",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink": "./sidedata/cardimages/ltrmtg/Showcase_Ring/card25ltrShowN.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/Showcase_Ring/card25ltrShowN.jpg",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -229,7 +229,7 @@
     "name": "Samwise Gamgee",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink": "./sidedata/cardimages/ltrmtg/Showcase_Ring/card26ltrShowN.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/Showcase_Ring/card26ltrShowN.jpg",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -238,7 +238,7 @@
     "name": "Saruman of Many Colors",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink": "./sidedata/cardimages/ltrmtg/Showcase_Ring/card27ltrShowN.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/Showcase_Ring/card27ltrShowN.jpg",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -247,7 +247,7 @@
     "name": "Sauron, the Dark Lord",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink": "./sidedata/cardimages/ltrmtg/Showcase_Ring/card28ltrShowN.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/Showcase_Ring/card28ltrShowN.jpg",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -256,7 +256,7 @@
     "name": "Smeagol, Helpful Guide",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink": "./sidedata/cardimages/ltrmtg/Showcase_Ring/card29ltrShowN.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/Showcase_Ring/card29ltrShowN.jpg",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -265,7 +265,7 @@
     "name": "Tom Bombadil",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink": "./sidedata/cardimages/ltrmtg/Showcase_Ring/card30ltrShowN.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/Showcase_Ring/card30ltrShowN.jpg",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   }
