@@ -19,7 +19,7 @@
   },
     {
     "nummer": "2",
-    "name": "Das letzte Urteil",
+    "name": "Saphierader",
     "anzahl": "0",
     "setcode": "ev1",
     "bildlink": "./sidedata/cardimages/ZCG/EventUndPromos/Eventsets/2025/The_last_Dance_Der_letzte_Tanz/card3tld.avif",
@@ -28,7 +28,7 @@
   },
     {
     "nummer": "2(CA)",
-    "name": "Das letzte Urteil",
+    "name": "Saphierader",
     "anzahl": "0",
     "setcode": "ev1",
     "bildlink": "./sidedata/cardimages/ZCG/EventUndPromos/Eventsets/2025/The_last_Dance_Der_letzte_Tanz/card4tld.avif",
@@ -37,7 +37,7 @@
   },
     {
     "nummer": "3",
-    "name": "Das letzte Urteil",
+    "name": "Schatzgoblin des Reichtums",
     "anzahl": "0",
     "setcode": "ev1",
     "bildlink": "./sidedata/cardimages/ZCG/EventUndPromos/Eventsets/2025/The_last_Dance_Der_letzte_Tanz/card5tld.avif",
@@ -46,7 +46,7 @@
   },
     {
     "nummer": "3(CA)",
-    "name": "Das letzte Urteil",
+    "name": "Schatzgoblin des Reichtums",
     "anzahl": "0",
     "setcode": "ev1",
     "bildlink": "./sidedata/cardimages/ZCG/EventUndPromos/Eventsets/2025/The_last_Dance_Der_letzte_Tanz/card6tld.avif",
@@ -55,7 +55,7 @@
   },
     {
     "nummer": "4",
-    "name": "Das letzte Urteil",
+    "name": "So hell wie der Mond",
     "anzahl": "0",
     "setcode": "ev1",
     "bildlink": "./sidedata/cardimages/ZCG/EventUndPromos/Eventsets/2025/The_last_Dance_Der_letzte_Tanz/card7tld.avif",
@@ -64,7 +64,7 @@
   },
     {
     "nummer": "4(CA)",
-    "name": "Das letzte Urteil",
+    "name": "So hell wie der Mond",
     "anzahl": "0",
     "setcode": "ev1",
     "bildlink": "./sidedata/cardimages/ZCG/EventUndPromos/Eventsets/2025/The_last_Dance_Der_letzte_Tanz/card8tld.avif",
@@ -73,7 +73,7 @@
   },
     {
     "nummer": "5",
-    "name": "Das letzte Urteil",
+    "name": "Sternenglanz in der Nacht",
     "anzahl": "0",
     "setcode": "ev1",
     "bildlink": "./sidedata/cardimages/ZCG/EventUndPromos/Eventsets/2025/The_last_Dance_Der_letzte_Tanz/card9tld.avif",
@@ -82,7 +82,7 @@
   },
     {
     "nummer": "5(CA)",
-    "name": "Das letzte Urteil",
+    "name": "Sternenglanz in der Nacht",
     "anzahl": "0",
     "setcode": "ev1",
     "bildlink": "./sidedata/cardimages/ZCG/EventUndPromos/Eventsets/2025/The_last_Dance_Der_letzte_Tanz/card10tld.avif",
@@ -91,7 +91,7 @@
   },
     {
     "nummer": "5(OA)",
-    "name": "Das letzte Urteil",
+    "name": "Sternenglanz in der Nacht",
     "anzahl": "0",
     "setcode": "ev1",
     "bildlink": "./sidedata/cardimages/ZCG/EventUndPromos/Eventsets/2025/The_last_Dance_Der_letzte_Tanz/card11tld.avif",
@@ -100,7 +100,7 @@
   },
     {
     "nummer": "6",
-    "name": "Das letzte Urteil",
+    "name": "So hell wie die Sterne",
     "anzahl": "0",
     "setcode": "ev1",
     "bildlink": "./sidedata/cardimages/ZCG/EventUndPromos/Eventsets/2025/The_last_Dance_Der_letzte_Tanz/card12tld.avif",
@@ -109,7 +109,7 @@
   },
     {
     "nummer": "6(CA)",
-    "name": "Das letzte Urteil",
+    "name": "So hell wie die Sterne",
     "anzahl": "0",
     "setcode": "ev1",
     "bildlink": "./sidedata/cardimages/ZCG/EventUndPromos/Eventsets/2025/The_last_Dance_Der_letzte_Tanz/card13tld.avif",
@@ -118,7 +118,7 @@
   },
     {
     "nummer": "6(FA)",
-    "name": "Das letzte Urteil",
+    "name": "So hell wie die Sterne",
     "anzahl": "0",
     "setcode": "ev1",
     "bildlink": "./sidedata/cardimages/ZCG/EventUndPromos/Eventsets/2025/The_last_Dance_Der_letzte_Tanz/card14tld.avif",
@@ -127,7 +127,7 @@
   },
     {
     "nummer": "6(FA-CA)",
-    "name": "Das letzte Urteil",
+    "name": "So hell wie die Sterne",
     "anzahl": "0",
     "setcode": "ev1",
     "bildlink": "./sidedata/cardimages/ZCG/EventUndPromos/Eventsets/2025/The_last_Dance_Der_letzte_Tanz/card15tld.avif",
@@ -136,7 +136,7 @@
   },
     {
     "nummer": "6(OA)",
-    "name": "Das letzte Urteil",
+    "name": "So hell wie die Sterne",
     "anzahl": "0",
     "setcode": "ev1",
     "bildlink": "./sidedata/cardimages/ZCG/EventUndPromos/Eventsets/2025/The_last_Dance_Der_letzte_Tanz/card16tld.avif",
@@ -145,7 +145,7 @@
   },
     {
     "nummer": "7",
-    "name": "Das letzte Urteil",
+    "name": "Marino, Bodyguard des Königspaares",
     "anzahl": "0",
     "setcode": "ev1",
     "bildlink": "./sidedata/cardimages/ZCG/EventUndPromos/Eventsets/2025/The_last_Dance_Der_letzte_Tanz/card17tld.avif",
@@ -154,7 +154,7 @@
   },
     {
     "nummer": "7(CA)",
-    "name": "Das letzte Urteil",
+    "name": "Marino, Bodyguard des Königspaares",
     "anzahl": "0",
     "setcode": "ev1",
     "bildlink": "./sidedata/cardimages/ZCG/EventUndPromos/Eventsets/2025/The_last_Dance_Der_letzte_Tanz/card18tld.avif",
@@ -163,7 +163,7 @@
   },
     {
     "nummer": "8",
-    "name": "Das letzte Urteil",
+    "name": "öfnet die Türe",
     "anzahl": "0",
     "setcode": "ev1",
     "bildlink": "./sidedata/cardimages/ZCG/EventUndPromos/Eventsets/2025/The_last_Dance_Der_letzte_Tanz/card19tld.avif",
@@ -172,7 +172,7 @@
   },
     {
     "nummer": "8(CA)",
-    "name": "Das letzte Urteil",
+    "name": "öfnet die Türe",
     "anzahl": "0",
     "setcode": "ev1",
     "bildlink": "./sidedata/cardimages/ZCG/EventUndPromos/Eventsets/2025/The_last_Dance_Der_letzte_Tanz/card20tld.avif",
@@ -181,7 +181,7 @@
   },
     {
     "nummer": "9",
-    "name": "Das letzte Urteil",
+    "name": "Spatzenküken",
     "anzahl": "0",
     "setcode": "ev1",
     "bildlink": "./sidedata/cardimages/ZCG/EventUndPromos/Eventsets/2025/The_last_Dance_Der_letzte_Tanz/card21tld.avif",
@@ -190,7 +190,7 @@
   },
     {
     "nummer": "9(CA)",
-    "name": "Das letzte Urteil",
+    "name": "Spatzenküken",
     "anzahl": "0",
     "setcode": "ev1",
     "bildlink": "./sidedata/cardimages/ZCG/EventUndPromos/Eventsets/2025/The_last_Dance_Der_letzte_Tanz/card22tld.avif",
@@ -199,7 +199,7 @@
   },
     {
     "nummer": "10",
-    "name": "Das letzte Urteil",
+    "name": "Brauner Mörderbär",
     "anzahl": "0",
     "setcode": "ev1",
     "bildlink": "./sidedata/cardimages/ZCG/EventUndPromos/Eventsets/2025/The_last_Dance_Der_letzte_Tanz/card23tld.avif",
@@ -208,7 +208,7 @@
   },
     {
     "nummer": "10(CA)",
-    "name": "Das letzte Urteil",
+    "name": "Brauner Mörderbär",
     "anzahl": "0",
     "setcode": "ev1",
     "bildlink": "./sidedata/cardimages/ZCG/EventUndPromos/Eventsets/2025/The_last_Dance_Der_letzte_Tanz/card24tld.avif",
