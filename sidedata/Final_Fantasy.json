@@ -4,7 +4,7 @@
     "name": "Summon: Bahamut",
     "anzahl": "0",
     "setcode": "FIN",
-    "bildlink":"./sidedata/cardimages/MTG/finmtg/card1fin.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/finmtg/card1fin.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -13,7 +13,7 @@
     "name": "Ultima, Origin of Oblivian",
     "anzahl": "0",
     "setcode": "FIN",
-    "bildlink":"./sidedata/cardimages/MTG/finmtg/card2fin.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/finmtg/card2fin.avif",
     "game":"MTG",
     "rarityname": "Rare"
   },
@@ -22,7 +22,7 @@
     "name": "Adelbert Steiner",
     "anzahl": "0",
     "setcode": "FIN",
-    "bildlink":"./sidedata/cardimages/MTG/finmtg/card3fin.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/finmtg/card3fin.avif",
     "game":"MTG",
     "rarityname": "Uncommon"
   },
@@ -31,7 +31,7 @@
     "name": "Aerith Gainsborough",
     "anzahl": "0",
     "setcode": "FIN",
-    "bildlink":"./sidedata/cardimages/MTG/finmtg/card4fin.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/finmtg/card4fin.avif",
     "game":"MTG",
     "rarityname": "Rare"
   },
@@ -40,7 +40,7 @@
     "name": "Aerith Rescue Mission",
     "anzahl": "0",
     "setcode": "FIN",
-    "bildlink":"./sidedata/cardimages/MTG/finmtg/card5fin.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/finmtg/card5fin.avif",
     "game":"MTG",
     "rarityname": "Common"
   },
@@ -49,7 +49,7 @@
     "name": "Ambrosia Whiteheart",
     "anzahl": "0",
     "setcode": "FIN",
-    "bildlink":"./sidedata/cardimages/MTG/finmtg/card6fin.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/finmtg/card6fin.avif",
     "game":"MTG",
     "rarityname": "Uncommon"
   },
@@ -58,7 +58,7 @@
     "name": "Ashe, Princess of Dalmasca",
     "anzahl": "0",
     "setcode": "FIN",
-    "bildlink":"./sidedata/cardimages/MTG/finmtg/card7fin.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/finmtg/card7fin.avif",
     "game":"MTG",
     "rarityname": "Uncommon"
   },
@@ -67,7 +67,7 @@
     "name": "Auron´s Inspiration",
     "anzahl": "0",
     "setcode": "FIN",
-    "bildlink":"./sidedata/cardimages/MTG/finmtg/card8fin.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/finmtg/card8fin.avif",
     "game":"MTG",
     "rarityname": "Uncommon"
   },
@@ -76,7 +76,7 @@
     "name": "Battle Menu",
     "anzahl": "0",
     "setcode": "FIN",
-    "bildlink":"./sidedata/cardimages/MTG/finmtg/card9fin.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/finmtg/card9fin.avif",
     "game":"MTG",
     "rarityname": "Uncommon"
   },
@@ -85,7 +85,7 @@
     "name": "Cloud, Midgar Mercenary",
     "anzahl": "0",
     "setcode": "FIN",
-    "bildlink":"./sidedata/cardimages/MTG/finmtg/card10fin.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/finmtg/card10fin.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -94,7 +94,7 @@
     "name": "Cloudbound Moogle",
     "anzahl": "0",
     "setcode": "FIN",
-    "bildlink":"./sidedata/cardimages/MTG/finmtg/card11fin.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/finmtg/card11fin.avif",
     "game":"MTG",
     "rarityname": "Common"
   },
@@ -103,7 +103,7 @@
     "name": "Coeurl",
     "anzahl": "0",
     "setcode": "FIN",
-    "bildlink":"./sidedata/cardimages/MTG/finmtg/card12fin.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/finmtg/card12fin.avif",
     "game":"MTG",
     "rarityname": "Common"
   },
@@ -112,7 +112,7 @@
     "name": "Crystal Fragments/ Summon: Alexander",
     "anzahl": "0",
     "setcode": "FIN",
-    "bildlink":"./sidedata/cardimages/MTG/finmtg/card13fin.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/finmtg/card13fin.avif",
     "game":"MTG",
     "rarityname": "Uncommon"
   },
@@ -121,7 +121,7 @@
     "name": "The Crystal´s Chosen",
     "anzahl": "0",
     "setcode": "FIN",
-    "bildlink":"./sidedata/cardimages/MTG/finmtg/card14fin.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/finmtg/card14fin.avif",
     "game":"MTG",
     "rarityname": "Uncommon"
   },
@@ -130,7 +130,7 @@
     "name": "Delivery Moogle",
     "anzahl": "0",
     "setcode": "FIN",
-    "bildlink":"./sidedata/cardimages/MTG/finmtg/card15fin.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/finmtg/card15fin.avif",
     "game":"MTG",
     "rarityname": "Uncommon"
   },
@@ -139,7 +139,7 @@
     "name": "Dion, Bahamut´s Dominant/ Bahamut, Warden of Light",
     "anzahl": "0",
     "setcode": "FIN",
-    "bildlink":"./sidedata/cardimages/MTG/finmtg/card16fin.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/finmtg/card16fin.avif",
     "game":"MTG",
     "rarityname": "Rare"
   },
@@ -148,7 +148,7 @@
     "name": "Dragoon´s Lance",
     "anzahl": "0",
     "setcode": "FIN",
-    "bildlink":"./sidedata/cardimages/MTG/finmtg/card17fin.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/finmtg/card17fin.avif",
     "game":"MTG",
     "rarityname": "Uncommon"
   },
@@ -157,7 +157,7 @@
     "name": "Dwarven Castle Guard",
     "anzahl": "0",
     "setcode": "FIN",
-    "bildlink":"./sidedata/cardimages/MTG/finmtg/card18fin.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/finmtg/card18fin.avif",
     "game":"MTG",
     "rarityname": "Common"
   },
@@ -166,7 +166,7 @@
     "name": "Fate of the Sun-Cryst",
     "anzahl": "0",
     "setcode": "FIN",
-    "bildlink":"./sidedata/cardimages/MTG/finmtg/card19fin.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/finmtg/card19fin.avif",
     "game":"MTG",
     "rarityname": "Common"
   },
@@ -175,7 +175,7 @@
     "name": "From Father to Son",
     "anzahl": "0",
     "setcode": "FIN",
-    "bildlink":"./sidedata/cardimages/MTG/finmtg/card20fin.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/finmtg/card20fin.avif",
     "game":"MTG",
     "rarityname": "Rare"
   },
@@ -184,7 +184,7 @@
     "name": "G´raha Tia",
     "anzahl": "0",
     "setcode": "FIN",
-    "bildlink":"./sidedata/cardimages/MTG/finmtg/card21fin.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/finmtg/card21fin.avif",
     "game":"MTG",
     "rarityname": "Uncommon"
   },
@@ -193,7 +193,7 @@
     "name": "Gaelicat",
     "anzahl": "0",
     "setcode": "FIN",
-    "bildlink":"./sidedata/cardimages/MTG/finmtg/card22fin.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/finmtg/card22fin.avif",
     "game":"MTG",
     "rarityname": "Common"
   },
@@ -202,7 +202,7 @@
     "name": "Machinist´s Arsenal",
     "anzahl": "0",
     "setcode": "FIN",
-    "bildlink":"./sidedata/cardimages/MTG/finmtg/card23fin.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/finmtg/card23fin.avif",
     "game":"MTG",
     "rarityname": "Rare"
   },
@@ -211,7 +211,7 @@
     "name": "Magitek Armor",
     "anzahl": "0",
     "setcode": "FIN",
-    "bildlink":"./sidedata/cardimages/MTG/finmtg/card24fin.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/finmtg/card24fin.avif",
     "game":"MTG",
     "rarityname": "Uncommon"
   },
@@ -220,7 +220,7 @@
     "name": "Magitek Infantry",
     "anzahl": "0",
     "setcode": "FIN",
-    "bildlink":"./sidedata/cardimages/MTG/finmtg/card25fin.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/finmtg/card25fin.avif",
     "game":"MTG",
     "rarityname": "Common"
   },
@@ -229,7 +229,7 @@
     "name": "Minwu, White Mage",
     "anzahl": "0",
     "setcode": "FIN",
-    "bildlink":"./sidedata/cardimages/MTG/finmtg/card26fin.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/finmtg/card26fin.avif",
     "game":"MTG",
     "rarityname": "Rare"
   },
@@ -238,7 +238,7 @@
     "name": "Moogle´s Valor",
     "anzahl": "0",
     "setcode": "FIN",
-    "bildlink":"./sidedata/cardimages/MTG/finmtg/card27fin.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/finmtg/card27fin.avif",
     "game":"MTG",
     "rarityname": "Rare"
   },
@@ -247,7 +247,7 @@
     "name": "Paladin´s Arms",
     "anzahl": "0",
     "setcode": "FIN",
-    "bildlink":"./sidedata/cardimages/MTG/finmtg/card28fin.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/finmtg/card28fin.avif",
     "game":"MTG",
     "rarityname": "Common"
   },
@@ -256,7 +256,7 @@
     "name": "Phoenix Down",
     "anzahl": "0",
     "setcode": "FIN",
-    "bildlink":"./sidedata/cardimages/MTG/finmtg/card29fin.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/finmtg/card29fin.avif",
     "game":"MTG",
     "rarityname": "Uncommon"
   },
@@ -265,7 +265,7 @@
     "name": "Restoration Magic",
     "anzahl": "0",
     "setcode": "FIN",
-    "bildlink":"./sidedata/cardimages/MTG/finmtg/card30fin.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/finmtg/card30fin.avif",
     "game":"MTG",
     "rarityname": "Uncommon"
   },
@@ -274,7 +274,7 @@
     "name": "Sidequest: Catch a Fish/ Cooking Campsite",
     "anzahl": "0",
     "setcode": "FIN",
-    "bildlink":"./sidedata/cardimages/MTG/finmtg/card31fin.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/finmtg/card31fin.avif",
     "game":"MTG",
     "rarityname": "Uncommon"
   },
@@ -283,7 +283,7 @@
     "name": "Slash of Light",
     "anzahl": "0",
     "setcode": "FIN",
-    "bildlink":"./sidedata/cardimages/MTG/finmtg/card32fin.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/finmtg/card32fin.avif",
     "game":"MTG",
     "rarityname": "Common"
   },
@@ -292,7 +292,7 @@
     "name": "Snow Villiers",
     "anzahl": "0",
     "setcode": "FIN",
-    "bildlink":"./sidedata/cardimages/MTG/finmtg/card33fin.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/finmtg/card33fin.avif",
     "game":"MTG",
     "rarityname": "Uncommon"
   },
@@ -301,7 +301,7 @@
     "name": "Stiltzkin, Moohle Merchant",
     "anzahl": "0",
     "setcode": "FIN",
-    "bildlink":"./sidedata/cardimages/MTG/finmtg/card34fin.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/finmtg/card34fin.avif",
     "game":"MTG",
     "rarityname": "Rare"
   },
@@ -310,7 +310,7 @@
     "name": "Summon: Choco/Mog",
     "anzahl": "0",
     "setcode": "FIN",
-    "bildlink":"./sidedata/cardimages/MTG/finmtg/card35fin.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/finmtg/card35fin.avif",
     "game":"MTG",
     "rarityname": "Common"
   },
@@ -319,7 +319,7 @@
     "name": "Summon: Knights of Round",
     "anzahl": "0",
     "setcode": "FIN",
-    "bildlink":"./sidedata/cardimages/MTG/finmtg/card36fin.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/finmtg/card36fin.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -328,7 +328,7 @@
     "name": "Summon: Primal Garuda",
     "anzahl": "0",
     "setcode": "FIN",
-    "bildlink":"./sidedata/cardimages/MTG/finmtg/card37fin.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/finmtg/card37fin.avif",
     "game":"MTG",
     "rarityname": "Uncommon"
   },
@@ -337,7 +337,7 @@
     "name": "Ultima",
     "anzahl": "0",
     "setcode": "FIN",
-    "bildlink":"./sidedata/cardimages/MTG/finmtg/card38fin.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/finmtg/card38fin.avif",
     "game":"MTG",
     "rarityname": "Rare"
   },
@@ -346,7 +346,7 @@
     "name": "Venat, Heart of Hydaelyn/ Hydaelyn, the Mothercrystal",
     "anzahl": "0",
     "setcode": "FIN",
-    "bildlink":"./sidedata/cardimages/MTG/finmtg/card39fin.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/finmtg/card39fin.avif",
     "game":"MTG",
     "rarityname": "Rare"
   },
@@ -355,7 +355,7 @@
     "name": "Weapons Vendor",
     "anzahl": "0",
     "setcode": "FIN",
-    "bildlink":"./sidedata/cardimages/MTG/finmtg/card40fin.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/finmtg/card40fin.avif",
     "game":"MTG",
     "rarityname": "Common"
   },
