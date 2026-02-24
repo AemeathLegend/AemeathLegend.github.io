@@ -116,8 +116,8 @@ function getcollectionprogress()
             yourtotalcollectedcards = yourtotalcollectedcards+parseInt(tablecellcontent[2].textContent);
         })
         let percentatefromcollection = yourcollectedcards/cardsmax*100
-        document.getElementById('ProgressCollection').innerText='Progress = '+percentatefromcollection.toFixed(2)+'%';
-        document.getElementById('totalcardsinthisset').innerText='Total Collected Cards from this Set:'+yourtotalcollectedcards;
+        document.getElementById('ProgressCollection').innerText='Progress: '+percentatefromcollection.toFixed(2)+'%';
+        document.getElementById('totalcardsinthisset').innerText='Total Collected Cards from this Set: '+yourtotalcollectedcards;
     }
     catch
     {
