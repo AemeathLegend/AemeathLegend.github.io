@@ -1,7 +1,10 @@
-let packcontent = [];
-let cardslist = [];
+let packcontent = [];//variable for the packsimulator to know wich raritys are left
+let cardslist = [];//variable for the packsimulator for saving the cards corresponding to their rarity as arrays for every rarity
 
-
+/**
+ * Method for loading the Cards into the table, when a set is selected in the setselection.
+ * the card data comes from fetched json, wich is selected by setselection value
+ */
 function loadmtgcards() {
     try
     {
@@ -40,6 +43,10 @@ function loadmtgcards() {
 
 }
 
+/**
+ * Method for increasing the number of amount in the table for the card,
+ * where the button with + was clicked. uses the parentelement for it and navigates to the element with the number
+ */
 function addcard(parentelementtemp)
 {
     try {
@@ -53,6 +60,11 @@ function addcard(parentelementtemp)
     }
 }
 
+/**
+ * Method for decreasing the number of amount in the table for the card,
+ * where the button with - was clicked. uses the parentelement for it and navigates to the element with the number.
+ * does not decrease amount when amount is already 0 and sends an info instead.
+ */
 function removecard(parentelementtemp) {
     try
     {
@@ -73,12 +85,14 @@ function removecard(parentelementtemp) {
     }
 }
 
-
+/**
+ * method for getting elements(data of cards) and return a table to work with
+ */
 function getdata()
 {
     try
     {
-        const rowcoll = document.querySelectorAll("#mtgcardlist tbody tr");
+        const rowcoll = document.querySelectorAll("#mtgcardlist tbody tr");//gets every row and gets every children of the rows and puts them into a array as object
         const jsonStr = [];
         rowcoll.forEach(row =>{
             const tabledatainhalt = row.querySelectorAll("td");
@@ -98,6 +112,9 @@ function getdata()
     }
 }
 
+/**
+ * Gets collection progress by getting all rows and gets their amountvalues to track progress
+ */
 function getcollectionprogress()
 {
     try
@@ -125,13 +142,16 @@ function getcollectionprogress()
     }
 }
 
+/**
+ * saves the cardcontent from the tables as jsonfile.
+ */
 function saveasfile()
 {
     try
     {
-        const cards = getdata();
-        const jsonString = JSON.stringify(cards, null, 2)
-        const blob = new Blob([jsonString], {type:'application/json'});
+        const cards = getdata();//calls method getdata from line 91 to get all cards as objects
+        const jsonString = JSON.stringify(cards, null, 2)//converts the object array into json string
+        const blob = new Blob([jsonString], {type:'application/json'});//creates a usable element(blob) with the string from aplication and uses it for next steps until download
         const url = URL.createObjectURL(blob);
         const output = document.createElement("a");
         output.href = url;
@@ -147,10 +167,13 @@ function saveasfile()
     }
 }
 
+/**
+ * Method for loading collected cards from uploaded json file and adding missing cards from json from the same set
+ */
 async function getasfile()
 {
     try
-    {
+    {//checks if correct file is selected. acomplishes that by checking the filename of the selected file and if it contains the setselectionvalue(only the name of json without .json)
         if(document.getElementById('getbutton').value.includes(document.getElementById('setsselection').value.substring(11,document.getElementById('setsselection').value.length-5)+"fromCardGamesCollectedCards") && document.getElementById('setsselection').value!=='') {
             const elementtemp = document.getElementById("getbutton");
             let fileglobal = elementtemp.files[0];
@@ -235,7 +258,7 @@ async function getasfile()
         }
         else {
         if (document.getElementById('setsselection').value !== '') {
-            window.alert("please select a json File with the filename:" + document.getElementById('setsselection').value.substring(0, document.getElementById('setsselection').value.length - 5) + "fromCardGamesCollectedCards")
+            window.alert("please select a json File with the filename:" + document.getElementById('setsselection').value.substring(11, document.getElementById('setsselection').value.length - 5) + "fromCardGamesCollectedCards")
         } else {
             window.alert('Please Select a Set!!!')
         }
@@ -259,11 +282,14 @@ function backtomainmenu()
     window.location.href = '../index.html';
 }
 
+/**
+ * method for opening the pack or loading the next card in pack according to packcontent
+ */
 async function openpack()
 {
     if(packcontent.length==0)
     {
-        packcontent=openpackfill();
+        packcontent=await openpackfill();
     }
     else
     {
@@ -281,7 +307,7 @@ async function openpack()
     let rarity10 = [];
     const response = await fetch(setforpack);
     const daten = await response.json();
-    daten.forEach(card => {
+    daten.forEach(card => {//loads every card filteres by their rarity into the list with raritys to select the card with the correct rarity with packcontent and the list[id]
             if(card.game=="MTG") {
             {
                 if(card.rarityname=="BasicLand")
@@ -320,10 +346,16 @@ async function openpack()
     }
 }
 
+/**
+ * Method for delaying async methods and for awaiting results of actions and tasks
+ */
 function delay(ms) {
   return new Promise(resolve => setTimeout(resolve, ms));
 }
 
+/**
+ * sets the image of the pack to the image of the current selected set for the pack
+ */
 function packimagechange()
 {
     const img = document.getElementById("packimage");
@@ -331,16 +363,16 @@ function packimagechange()
     img.src = "./sidedata/cardimages/assetssim/packs/"+textvalue.substring(11,((textvalue.length)-5))+".png"
 }
 
-function openpackfill()
+/**
+ * fills the packcontent list with the ids of the raritys for the picking in cardslist using 2 methods forfast cardgame adding and editing
+ */
+async function openpackfill()
 {
     packimagechange();
-    let setforpack = document.getElementById("packselection").value;
-    let packtype;
     let chancelist = [];
     let endrewards = [];
-    if(setforpack=="./sidedata/Final_Fantasy.json")
+    if(await checkSet()=="MTG2")
     {
-        packtype="MTG";
         chancelist=setchancelist([10000,3675,700],[3,4,5]);
         endrewards.push(1,1,1,1,1,1);
         if(Math.floor(Math.random()*100000)<=33333)
@@ -350,11 +382,10 @@ function openpackfill()
             {
                 endrewards.push(result);
             }
-        };
         }
         else
         {
-            endrewards.push(2)
+            endrewards.push(2);
         }
         endrewards.push(2,2,2);
         chancelist=setchancelist([1000,833,250,224,167,55],[1,2,1,2,3,4]);
@@ -378,8 +409,24 @@ function openpackfill()
             endrewards.push(result);
         }
         endrewards.sort((b, a) => b - a);
-        return endrewards;
     }
+    return endrewards;
+}
+
+async function checkSet()
+{
+    let setname = document.getElementById("packselection").value.substring(11,document.getElementById("packselection").value.length)
+    let gameString = "Empty";
+    const response = await fetch("./sidedata/filecheck.json");
+    const daten = await response.json();
+    daten.forEach(setData => {
+        if(setData.filename==setname)
+        {
+            gameString = setData.packtype;
+        }
+    });
+    return gameString;
+}
 
 
 function setchancelist(rewardchancearray,idofreward)
@@ -398,7 +445,7 @@ function setchancelist(rewardchancearray,idofreward)
 }
 
 function calculateChance(count, chances, scalein10) {
-    const results = [];
+    let results = [];
     const max = 10 ** scalein10;
     chances.sort((a, b) => a.rewardchance - b.rewardchance);
     for (let i = 0; i < count; i++) {
@@ -466,6 +513,14 @@ async function registeruser() {
         alert('Netzwerk-/Serverfehler: ' + err);
     }
 }
+
+/**
+ * 
+ */
+
+
+
+
 
 /*
 12 pixel abstand scene cards
