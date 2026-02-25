@@ -4,7 +4,7 @@
     "name": "Banish from Edodas",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card1ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card1ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -13,7 +13,7 @@
     "name": "The Battle oof Bywater",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card2ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card2ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -22,7 +22,7 @@
     "name": "Bill the Pony",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card3ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card3ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -31,7 +31,7 @@
     "name": "Boromir, Warden of the Tower",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card4ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card4ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -40,7 +40,7 @@
     "name": "Dawn of a New Age",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card5ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card5ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -49,7 +49,7 @@
     "name": "Dunedain Blade",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card6ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card6ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -58,7 +58,7 @@
     "name": "Eagles of the North",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card7ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card7ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -67,7 +67,7 @@
     "name": "Eastfarthing Farmer",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card8ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card8ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -76,7 +76,7 @@
     "name": "East-Mark Cavalier",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card9ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card9ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -85,7 +85,7 @@
     "name": "Eowyn, Lady of Rohan",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card10ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card10ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -94,7 +94,7 @@
     "name": "Errand-Rider of Gondor",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card11ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card11ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -103,7 +103,7 @@
     "name": "Escape from Orthanc",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card12ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card12ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -112,7 +112,7 @@
     "name": "Esquire of the King",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card13ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card13ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -121,7 +121,7 @@
     "name": "Faramir, Field Commander",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card14ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card14ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -130,7 +130,7 @@
     "name": "Flowering of the white Tree",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card15ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card15ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -139,7 +139,7 @@
     "name": "Fog on the Barrow-Downs",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card16ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card16ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -148,7 +148,7 @@
     "name": "Forge Anew",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card17ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card17ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -157,7 +157,7 @@
     "name": "Frodo, Sauro´s Bane",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card18ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card18ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -166,7 +166,7 @@
     "name": "Gandalf the White",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card19ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card19ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -175,7 +175,7 @@
     "name": "Hobbit´s Sting",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card20ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card20ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -184,7 +184,7 @@
     "name": "Landroval, Horizon Witness",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card21ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card21ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -193,7 +193,7 @@
     "name": "Lost to Legend",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card22ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card22ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -202,7 +202,7 @@
     "name": "Nimble Hobbit",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card23ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card23ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -211,7 +211,7 @@
     "name": "Now for Wrath, Now for Ruin!",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card24ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card24ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -220,7 +220,7 @@
     "name": "Protector of Gondor",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card25ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card25ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -229,7 +229,7 @@
     "name": "Reprieve",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card26ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card26ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -238,7 +238,7 @@
     "name": "Rosie Cotton of South Lane",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card27ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card27ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -247,7 +247,7 @@
     "name": "Samwise the Stouthearted",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card28ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card28ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -256,7 +256,7 @@
     "name": "Second Breakfast",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card29ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card29ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -265,7 +265,7 @@
     "name": "Shire Shirff",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card30ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card30ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -274,7 +274,7 @@
     "name": "Slip On the Ring",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card31ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card31ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -283,7 +283,7 @@
     "name": "Soldier of the Grey Host",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card32ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card32ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -292,7 +292,7 @@
     "name": "Stalwarts of Osgiliath",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card33ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card33ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -301,7 +301,7 @@
     "name": "Tale of Tinuviel",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card34ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card34ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -310,7 +310,7 @@
     "name": "Took Reaper",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card35ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card35ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -319,7 +319,7 @@
     "name": "War of the Last Allieance",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card36ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card36ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -328,7 +328,7 @@
     "name": "Westfold Rider",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card37ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card37ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -337,7 +337,7 @@
     "name": "You Cannot Pass!",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card38ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card38ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -346,7 +346,7 @@
     "name": "Arwen´s Gift",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card39ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card39ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -355,7 +355,7 @@
     "name": "The Bath Song",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card40ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card40ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -364,7 +364,7 @@
     "name": "Bewitching Leechcraft",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card41ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card41ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -373,7 +373,7 @@
     "name": "Bill Ferny, Bree Swindler",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card42ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card42ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -382,7 +382,7 @@
     "name": "Birthday Escape",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card43ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card43ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -391,7 +391,7 @@
     "name": "Borne Upon a Wind",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card44ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card44ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -400,7 +400,7 @@
     "name": "Captain of Umbar",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card45ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card45ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -409,7 +409,7 @@
     "name": "Council´s Deliberation",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card46ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card46ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -418,7 +418,7 @@
     "name": "Deceive the Messenger",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card47ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card47ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -427,7 +427,7 @@
     "name": "Dreadful as the Strom",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card48ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card48ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -436,7 +436,7 @@
     "name": "Elrond, Lord of Rivendell",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card49ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card49ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -445,7 +445,7 @@
     "name": "Gandalf, Friend of the Shire",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card50ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card50ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -454,7 +454,7 @@
     "name": "Glorious Gale",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card51ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card51ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -463,7 +463,7 @@
     "name": "Goldberry, River-Daughter",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card52ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card52ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -472,7 +472,7 @@
     "name": "Grey Havens Navigator",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card53ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card53ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -481,7 +481,7 @@
     "name": "Hithlain Knots",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card54ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card54ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -490,7 +490,7 @@
     "name": "Horses of the Bruinen",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card55ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card55ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -499,7 +499,7 @@
     "name": "Ioreth of the Healing House",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card56ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card56ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -508,7 +508,7 @@
     "name": "Isolation at Orthanc",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card57ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card57ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -517,7 +517,7 @@
     "name": "Ithilien Kingfisher",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card58ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card58ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -526,7 +526,7 @@
     "name": "Knights of Dol Amroth",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card59ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card59ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -535,7 +535,7 @@
     "name": "Lorien Revealed",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card60ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card60ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -544,7 +544,7 @@
     "name": "Lost Isle Calling",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card61ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card61ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -553,7 +553,7 @@
     "name": "Meneldor, Swift Savior",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card62ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card62ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -562,7 +562,7 @@
     "name": "Nimrodel Watcher",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card63ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card63ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -571,7 +571,7 @@
     "name": "Pelargir Survivor",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card64ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card64ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -580,7 +580,7 @@
     "name": "Press the Enemy",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card65ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card65ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -589,7 +589,7 @@
     "name": "Rangers of Ithilien",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card66ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card66ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -598,7 +598,7 @@
     "name": "Saruman the White",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card67ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card67ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -607,7 +607,7 @@
     "name": "Saruman´s Trickery",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card68ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card68ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -616,7 +616,7 @@
     "name": "Scroll of Isildur",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card69ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card69ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -625,7 +625,7 @@
     "name": "Soothing of Smeagol",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card70ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card70ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -634,7 +634,7 @@
     "name": "Stern Scolding",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card71ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card71ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -643,7 +643,7 @@
     "name": "Storm of Saruman",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card72ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card72ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -652,7 +652,7 @@
     "name": "Surrounding by Orcs",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card73ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card73ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -661,7 +661,7 @@
     "name": "Treason of Isengard",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card74ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card74ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -670,7 +670,7 @@
     "name": "The Watcher in the Water",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card75ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card75ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -679,7 +679,7 @@
     "name": "Willow-Wind",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card76ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card76ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -688,7 +688,7 @@
     "name": "Bitter Sownfall",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card77ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card77ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -697,7 +697,7 @@
     "name": "The Black Breath",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card78ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card78ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -706,7 +706,7 @@
     "name": "Call of the Ring",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card79ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card79ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -715,7 +715,7 @@
     "name": "Cirith Ungol Patrol",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card80ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card80ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -724,7 +724,7 @@
     "name": "Claim the Precious",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card81ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card81ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -733,7 +733,7 @@
     "name": "Dunland Crebain",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card82ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card82ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -742,7 +742,7 @@
     "name": "Easterling Vanguard",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card83ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card83ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -751,7 +751,7 @@
     "name": "Gollum, Patient Plotter",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card84ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card84ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -760,7 +760,7 @@
     "name": "Gollum´s Bite",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card85ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card85ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -769,7 +769,7 @@
     "name": "Gorbag of Minas Morgul",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card86ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card86ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -778,7 +778,7 @@
     "name": "Gothmog, Morgul Lieutenant",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card87ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card87ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -787,7 +787,7 @@
     "name": "Grima Wormtongue",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card88ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card88ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -796,7 +796,7 @@
     "name": "Grond, the Gatebreaker",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card89ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card89ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -805,7 +805,7 @@
     "name": "Haunt of the Dead marshes",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card90ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card90ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -814,7 +814,7 @@
     "name": "Isildur´s Fateful Strike",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card91ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card91ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -823,7 +823,7 @@
     "name": "Lash of the Balrog",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card92ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card92ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -832,7 +832,7 @@
     "name": "Lobelia Sackville-Baggins",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card93ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card93ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -841,7 +841,7 @@
     "name": "March from the Black Gate",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card94ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card94ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -850,7 +850,7 @@
     "name": "Mirkwood Bats",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card95ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card95ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -859,7 +859,7 @@
     "name": "Mordor Muster",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card96ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card96ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -868,7 +868,7 @@
     "name": "Mordur Trebuchet",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card97ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card97ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -877,7 +877,7 @@
     "name": "Morgul-Knife Wound",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card98ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card98ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -886,7 +886,7 @@
     "name": "Nasty End",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card99ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card99ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -895,7 +895,7 @@
     "name": "Nazgul",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card100ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card100ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -904,7 +904,7 @@
     "name": "Oath of the Grey Host",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card101ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card101ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -913,7 +913,7 @@
     "name": "One Ring to Rule Them All",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card102ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card102ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -922,7 +922,7 @@
     "name": "Orcish Bowmasters",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card103ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card103ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -931,7 +931,7 @@
     "name": "Orcish Medicine",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card104ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card104ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -940,7 +940,7 @@
     "name": "Sam´s Desperate Rescue",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card105ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card105ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -949,7 +949,7 @@
     "name": "Sauron, the Necromancer",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card106ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card106ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -958,7 +958,7 @@
     "name": "Shadow of the Enemy",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card107ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card107ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -967,7 +967,7 @@
     "name": "Shelob´s Ambush",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card108ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card108ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -976,7 +976,7 @@
     "name": "Snarling Warg",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card109ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card109ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -985,7 +985,7 @@
     "name": "The Torment of Gollum",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card110ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card110ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -994,7 +994,7 @@
     "name": "Troll of Khazad-dum",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card111ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card111ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -1003,7 +1003,7 @@
     "name": "Uruk-hai Berserker",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card112ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card112ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -1012,7 +1012,7 @@
     "name": "Voracious Fell Beast",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card113ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card113ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -1021,7 +1021,7 @@
     "name": "Witch-king of Angmar",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card114ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card114ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -1030,7 +1030,7 @@
     "name": "Battle-Scarred Goblin",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card115ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card115ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -1039,7 +1039,7 @@
     "name": "Book of Mazarbul",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card116ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card116ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -1048,7 +1048,7 @@
     "name": "Breaking of the Fellowship",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card117ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card117ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -1057,7 +1057,7 @@
     "name": "Cast into the Fire",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card118ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card118ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -1066,7 +1066,7 @@
     "name": "Display of Power",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card119ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card119ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -1075,7 +1075,7 @@
     "name": "Eomer, Marshal of Rohan",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card120ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card120ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -1084,7 +1084,7 @@
     "name": "Eomer of the Riddermark",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card121ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card121ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -1093,7 +1093,7 @@
     "name": "Erebor Flamesmith",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card122ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card122ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -1102,7 +1102,7 @@
     "name": "Erkenrand, Lord of Westfold",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card123ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card123ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -1111,7 +1111,7 @@
     "name": "Fall of Cair Andros",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card124ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card124ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -1120,7 +1120,7 @@
     "name": "Fear, Fire, Foes!",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card125ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card125ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -1129,7 +1129,7 @@
     "name": "Fiery Inscription",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card126ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card126ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -1138,7 +1138,7 @@
     "name": "Fire of Orthanc",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card127ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card127ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -1147,7 +1147,7 @@
     "name": "Foray of Orcs",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card128ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card128ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -1156,7 +1156,7 @@
     "name": "Gimli, Counter of Kills",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card129ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card129ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -1165,7 +1165,7 @@
     "name": "Gimli´s Axe",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card130ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card130ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -1174,7 +1174,7 @@
     "name": "Gimli´s Fury",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card131ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card131ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -1183,7 +1183,7 @@
     "name": "Gloin, Dwarf Emissary",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card132ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card132ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -1192,7 +1192,7 @@
     "name": "Goblin Fireleaper",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card133ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card133ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -1201,7 +1201,7 @@
     "name": "Grishnakh, Brash Instigator",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card134ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card134ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -1210,7 +1210,7 @@
     "name": "Haradrim Spearmaster",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card135ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card135ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -1219,7 +1219,7 @@
     "name": "Hew the Entwood",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card136ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card136ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -1228,7 +1228,7 @@
     "name": "Improvised Club",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card137ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card137ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -1237,7 +1237,7 @@
     "name": "Moria Marauder",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card138ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card138ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -1246,7 +1246,7 @@
     "name": "Oliphaunt",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card139ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card139ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -1255,7 +1255,7 @@
     "name": "Olog-hai Crusher",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card140ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card140ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -1264,7 +1264,7 @@
     "name": "Quarrel´s End",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card141ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card141ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -1273,7 +1273,7 @@
     "name": "Rally at the Hornburg",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card142ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card142ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -1282,7 +1282,7 @@
     "name": "Ranger´s Firebrand",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card143ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card143ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -1291,7 +1291,7 @@
     "name": "Relentless Rohirrim",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card144ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card144ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -1300,7 +1300,7 @@
     "name": "Rising of the Day",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card145ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card145ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -1309,7 +1309,7 @@
     "name": "Rohirrim Lancer",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card146ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card146ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -1318,7 +1318,7 @@
     "name": "Rush the Room",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card147ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card147ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -1327,7 +1327,7 @@
     "name": "Smite the Deathless",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card148ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card148ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -1336,7 +1336,7 @@
     "name": "Spiteful Banditry",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card149ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card149ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -1345,7 +1345,7 @@
     "name": "Swarming of Moria",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card150ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card150ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -1354,7 +1354,7 @@
     "name": "There and Back Again",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card151ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card151ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -1363,7 +1363,7 @@
     "name": "Warbeast of Gorgoroth",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card152ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card152ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -1372,7 +1372,7 @@
     "name": "Bag End Porter",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card153ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card153ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -1381,7 +1381,7 @@
     "name": "Bombadil´s Song",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card154ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card154ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -1390,7 +1390,7 @@
     "name": "Brandywine Farmer",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card155ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card155ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -1399,7 +1399,7 @@
     "name": "Celeborn the Wise",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card156ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card156ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -1408,7 +1408,7 @@
     "name": "Chance-Met Elves",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card157ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card157ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -1417,7 +1417,7 @@
     "name": "Delighted Halfling",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card158ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card158ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -1426,7 +1426,7 @@
     "name": "Dunedain Rangers",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card159ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card159ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -1435,7 +1435,7 @@
     "name": "Elven Chorus",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card160ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card160ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -1444,7 +1444,7 @@
     "name": "Elven Farsight",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card161ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card161ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -1453,7 +1453,7 @@
     "name": "Enraged Huorn",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card162ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card162ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -1462,7 +1462,7 @@
     "name": "Entish Restoration",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card163ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card163ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -1471,7 +1471,7 @@
     "name": "Ent´s Fury",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card164ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card164ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -1480,7 +1480,7 @@
     "name": "Fall of Gil-galad",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card165ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card165ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -1489,7 +1489,7 @@
     "name": "Fangorn, Tree Shepherd",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card166ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card166ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -1498,7 +1498,7 @@
     "name": "Galadhrim Bow",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card167ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card167ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -1507,7 +1507,7 @@
     "name": "Galadhrim Guide",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card168ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card168ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -1516,7 +1516,7 @@
     "name": "Generous Ent",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card169ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card169ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -1525,7 +1525,7 @@
     "name": "Gift of Strands",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card170ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card170ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -1534,7 +1534,7 @@
     "name": "Glorfindel, Dauntless Rescuer",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card171ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card171ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -1543,7 +1543,7 @@
     "name": "Last March of the Ents",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card172ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card172ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -1552,7 +1552,7 @@
     "name": "Legolas, Master Archer",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card173ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card173ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -1561,7 +1561,7 @@
     "name": "Long List of the Ents",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card174ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card174ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -1570,7 +1570,7 @@
     "name": "Lothlorien Lookout",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card175ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card175ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -1579,7 +1579,7 @@
     "name": "Many Partings",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card176ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card176ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -1588,7 +1588,7 @@
     "name": "Meriadoc Brandybuck",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card177ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card177ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -1597,7 +1597,7 @@
     "name": "Mirkwood Spider",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card178ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card178ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -1606,7 +1606,7 @@
     "name": "Mirrormere Guardian",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card179ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card179ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -1615,7 +1615,7 @@
     "name": "Mushroom Watchdogs",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card180ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card180ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -1624,7 +1624,7 @@
     "name": "Peregrin Took",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card181ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card181ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -1633,7 +1633,7 @@
     "name": "Pippin´s Bravery",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card182ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card182ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -1642,7 +1642,7 @@
     "name": "Quickbeam, Upstart Ent",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card183ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card183ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -1651,7 +1651,7 @@
     "name": "Radagast the Brown",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card184ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card184ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -1660,7 +1660,7 @@
     "name": "Revive the Shire",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card185ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card185ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -1669,7 +1669,7 @@
     "name": "The Ring Goes South",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card186ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card186ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -1678,7 +1678,7 @@
     "name": "Shortcut to Mushrooms",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card187ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card187ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -1687,7 +1687,7 @@
     "name": "Shower of Arrows",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card188ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card188ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -1696,7 +1696,7 @@
     "name": "Stew the Coneys",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card189ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card189ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -1705,7 +1705,7 @@
     "name": "Wose Pathfinder",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card190ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card190ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -1714,7 +1714,7 @@
     "name": "Aragorn, Company Leader",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card191ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card191ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -1723,7 +1723,7 @@
     "name": "Aragorn, the Uniter",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card192ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card192ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -1732,7 +1732,7 @@
     "name": "Arwen, Mortal Queen",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card193ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card193ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -1741,7 +1741,7 @@
     "name": "Arwen Undomiel",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card194ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card194ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -1750,7 +1750,7 @@
     "name": "The Balrog, Durin´s Bane",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card195ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card195ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -1759,7 +1759,7 @@
     "name": "Bilbo, Retired Burglar",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card196ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card196ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -1768,7 +1768,7 @@
     "name": "Butterbur, Bree Innkeeper",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card197ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card197ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -1777,7 +1777,7 @@
     "name": "Denethor, Ruling Steward",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card198ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card198ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -1786,7 +1786,7 @@
     "name": "Doors to Durin",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card199ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card199ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -1795,7 +1795,7 @@
     "name": "Elrond, Master of Healing",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card200ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card200ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -1804,7 +1804,7 @@
     "name": "Eowyn, Fearless Knight",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card201ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card201ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -1813,7 +1813,7 @@
     "name": "Faramir, Prince of Ithilien",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card202ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card202ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -1822,7 +1822,7 @@
     "name": "Flame of Anor",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card203ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card203ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -1831,7 +1831,7 @@
     "name": "Friendly Rivalry",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card204ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card204ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -1840,7 +1840,7 @@
     "name": "Frodo Baggins",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card205ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card205ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -1849,7 +1849,7 @@
     "name": "Galadriel of Lothlorien",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card206ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card206ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -1858,7 +1858,7 @@
     "name": "Gandalf the Grey",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card207ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card207ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -1867,7 +1867,7 @@
     "name": "Gandalf's Sanction",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card208ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card208ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -1876,7 +1876,7 @@
     "name": "Gimli, Mournful Avenger",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card209ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card209ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -1885,7 +1885,7 @@
     "name": "Gwaihir, the Windlord",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card210ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card210ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -1894,7 +1894,7 @@
     "name": "King of the Oathbreakers",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card211ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card211ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -1903,7 +1903,7 @@
     "name": "Legolas, Counter of Kills",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card212ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card212ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -1912,7 +1912,7 @@
     "name": "Lotho, Corrupt Shirriff",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card213ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card213ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -1921,7 +1921,7 @@
     "name": "Mauhur, Uruk-hai Captain",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card214ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card214ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -1930,7 +1930,7 @@
     "name": "Merry, Esquire of Rohan",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card215ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card215ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -1939,7 +1939,7 @@
     "name": "The Mouth of Sauron",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card216ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card216ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -1948,7 +1948,7 @@
     "name": "Old Man Willow",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card217ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card217ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -1957,7 +1957,7 @@
     "name": "Pippin, Guard of the Citadel",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card218ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card218ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -1966,7 +1966,7 @@
     "name": "Prince Imrahil the Fair",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card219ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card219ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -1975,7 +1975,7 @@
     "name": "Ringsight",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card220ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card220ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -1984,7 +1984,7 @@
     "name": "Rise of the Witch-king",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card221ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card221ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -1993,7 +1993,7 @@
     "name": "Samwise Gamgee",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card222ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card222ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -2002,7 +2002,7 @@
     "name": "Saruman of Many Colors",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card223ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card223ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -2011,7 +2011,7 @@
     "name": "Sauron, the Dark Lord",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card224ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card224ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -2020,7 +2020,7 @@
     "name": "Sauron´s Ransom",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card225ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card225ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -2029,7 +2029,7 @@
     "name": "Shadow Summoning",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card226ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card226ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -2038,7 +2038,7 @@
     "name": "Shadowfax, Lord of Horses",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card227ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card227ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -2047,7 +2047,7 @@
     "name": "Shagrat, Loot Bearer",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card228ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card228ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -2056,7 +2056,7 @@
     "name": "Sharkey, Tyrant of the Shire",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card229ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card229ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -2065,7 +2065,7 @@
     "name": "Shelob, Child of Ungoliant",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card230ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card230ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -2074,7 +2074,7 @@
     "name": "Smeagol, Helpful Guide",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card231ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card231ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -2083,7 +2083,7 @@
     "name": "Strider, Ranger of the North",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card232ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card232ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -2092,7 +2092,7 @@
     "name": "Theoden, King of Rohan",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card233ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card233ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -2101,7 +2101,7 @@
     "name": "Tom Bambadil",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card234ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card234ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -2110,7 +2110,7 @@
     "name": "Ugluk of the White hand",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card235ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card235ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -2119,7 +2119,7 @@
     "name": "Anduril, Flame of the West",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card236ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card236ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -2128,7 +2128,7 @@
     "name": "Barrow-Blade",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card237ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card237ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -2137,7 +2137,7 @@
     "name": "Ent-Draught Basin",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card238ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card238ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -2146,7 +2146,7 @@
     "name": "Glamdring",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card239ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card239ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -2155,7 +2155,7 @@
     "name": "Horn of Gondor",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card240ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card240ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -2164,7 +2164,7 @@
     "name": "Horn of the Mark",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card241ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card241ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -2173,7 +2173,7 @@
     "name": "Inherited Envelope",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card242ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card242ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -2182,7 +2182,7 @@
     "name": "Lembas",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card243ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card243ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -2191,7 +2191,7 @@
     "name": "Mirror of Galadriel",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card244ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card244ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -2200,7 +2200,7 @@
     "name": "Mithril Coat",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card245ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card245ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -2209,7 +2209,7 @@
     "name": "The One Ring",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card246ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card246ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -2218,7 +2218,7 @@
     "name": "Palantir of Orthanc",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card247ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card247ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -2227,7 +2227,7 @@
     "name": "Phial of Galadriel",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card248ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card248ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -2236,7 +2236,7 @@
     "name": "Shire Scarecrow",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card249ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card249ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -2245,7 +2245,7 @@
     "name": "Sting, the Glinting Dagger",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card250ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card250ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -2254,7 +2254,7 @@
     "name": "Stone of Erech",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card251ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card251ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -2263,7 +2263,7 @@
     "name": "Wizard´s Rockets",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card252ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card252ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -2272,7 +2272,7 @@
     "name": "Barad-dur",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card253ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card253ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -2281,7 +2281,7 @@
     "name": "Great Hall of the Citadel",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card254ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card254ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -2290,7 +2290,7 @@
     "name": "The Grey Havens",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card255ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card255ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -2299,7 +2299,7 @@
     "name": "Minas Tirith",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card256ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card256ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -2308,7 +2308,7 @@
     "name": "Mines of Moria",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card257ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card257ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -2317,7 +2317,7 @@
     "name": "Mount Doom",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card258ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card258ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -2326,7 +2326,7 @@
     "name": "Rivendell",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card259ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card259ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -2335,7 +2335,7 @@
     "name": "The Shire",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card260ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card260ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -2344,7 +2344,7 @@
     "name": "Shire Terrace",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card261ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card261ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -2353,7 +2353,7 @@
     "name": "Plains(V.1)",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card262ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card262ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -2362,7 +2362,7 @@
     "name": "Plains(V.2)",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card263ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card263ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -2371,7 +2371,7 @@
     "name": "Island(V.1)",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card264ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card264ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -2380,7 +2380,7 @@
     "name": "Island(V.2)",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card265ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card265ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -2389,7 +2389,7 @@
     "name": "Swamp(V.1)",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card266ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card266ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -2398,7 +2398,7 @@
     "name": "Swamp(V.2)",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card267ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card267ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -2407,7 +2407,7 @@
     "name": "Mountain(V.1)",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card268ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card268ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -2416,7 +2416,7 @@
     "name": "Mountain(V.2)",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card269ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card269ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -2425,7 +2425,7 @@
     "name": "Forest(V.1)",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card270ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card270ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -2434,7 +2434,7 @@
     "name": "Forest(V.2)",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card271ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card271ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -2443,7 +2443,7 @@
     "name": "Plains(V.3)",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card272ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card272ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -2452,7 +2452,7 @@
     "name": "Plains(V.4)",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card273ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card273ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -2461,7 +2461,7 @@
     "name": "Island(V.3)",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card274ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card274ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -2470,7 +2470,7 @@
     "name": "Island(V.4)",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card275ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card275ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -2479,7 +2479,7 @@
     "name": "Swamp(V.3)",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card276ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card276ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -2488,7 +2488,7 @@
     "name": "Swamp(V.4)",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card277ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card277ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -2497,7 +2497,7 @@
     "name": "Mountain(V.3)",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card278ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card278ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -2506,7 +2506,7 @@
     "name": "Mountain(V.4)",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card279ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card279ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -2515,7 +2515,7 @@
     "name": "Forest(V.3)",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card280ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card280ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -2524,7 +2524,7 @@
     "name": "Forest(V.4)",
     "anzahl": "0",
     "setcode": "LTR",
-    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card281ltr.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card281ltr.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   }
