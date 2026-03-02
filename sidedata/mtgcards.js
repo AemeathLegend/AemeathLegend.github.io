@@ -466,62 +466,6 @@ function startlogin()
 }
 
 
-async function loginuser() {
-    const form = document.getElementById('login');
-    const username = form.elements['username'].value;
-    const password = form.elements['password'].value;
-    try {
-        const response = await fetch('http://127.0.0.1:8009/api/login', {
-            method: 'POST',
-            headers: { 'Content-Type': 'application/json' },
-            body: JSON.stringify({ username, password })
-        });
-        const data = await response;
-        if (data.ok) {
-            window.location.href = './index.html';
-        } else if (data.message === 'Falsches Passwort') {
-            alert('Wrong password, please try again.');
-        } else {
-            window.location.href = './registeruser.html';
-        }
-    } catch (err) {
-        alert('Fehler: ' + err);
-    }
-}
-
-async function registeruser() {
-    const form = document.getElementById('register');
-    const username = form.elements['username'].value;
-    const password = form.elements['password'].value;
-
-    try {
-        const response = await fetch('http://127.0.0.1:8009/api/register', {
-            method: 'POST',
-            headers: { 'Content-Type': 'application/json' },
-            body: JSON.stringify({ username, password })
-        });
-
-        const data = await response;
-        if (!data.ok && data.message === 'Doppelter Name') {
-            alert('This username is already chosen, please pick a different one.');
-        } else if (data.ok) {
-            window.location.href = './index.html';
-        } else {
-            alert('Fehler: ' + data.message);
-        }
-    } catch (err) {
-        alert('Netzwerk-/Serverfehler: ' + err);
-    }
-}
-
-/**
- * 
- */
-
-
-
-
-
 /*
 12 pixel abstand scene cards
  */
