@@ -4,7 +4,7 @@
     "name": "Animate Wall",
     "anzahl": "0",
     "setcode": "LEA",
-    "bildlink":"./sidedata/cardimages/MTG/lea/card1LEA.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/lea/card1LEA.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -13,7 +13,7 @@
     "name": "Armageddon",
     "anzahl": "0",
     "setcode": "LEA",
-    "bildlink":"./sidedata/cardimages/MTG/lea/card2LEA.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/lea/card2LEA.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -22,7 +22,7 @@
     "name": "Balance",
     "anzahl": "0",
     "setcode": "LEA",
-    "bildlink":"./sidedata/cardimages/MTG/lea/card3LEA.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/lea/card3LEA.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -31,7 +31,7 @@
     "name": "Benalish Hero",
     "anzahl": "0",
     "setcode": "LEA",
-    "bildlink":"./sidedata/cardimages/MTG/lea/card4LEA.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/lea/card4LEA.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -40,7 +40,7 @@
     "name": "Black Ward",
     "anzahl": "0",
     "setcode": "LEA",
-    "bildlink":"./sidedata/cardimages/MTG/lea/card5LEA.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/lea/card5LEA.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -49,7 +49,7 @@
     "name": "Blaze of Glory",
     "anzahl": "0",
     "setcode": "LEA",
-    "bildlink":"./sidedata/cardimages/MTG/lea/card6LEA.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/lea/card6LEA.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -58,7 +58,7 @@
     "name": "Blessing",
     "anzahl": "0",
     "setcode": "LEA",
-    "bildlink":"./sidedata/cardimages/MTG/lea/card7LEA.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/lea/card7LEA.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -67,7 +67,7 @@
     "name": "Blue Ward",
     "anzahl": "0",
     "setcode": "LEA",
-    "bildlink":"./sidedata/cardimages/MTG/lea/card8LEA.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/lea/card8LEA.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -76,7 +76,7 @@
     "name": "Castle",
     "anzahl": "0",
     "setcode": "LEA",
-    "bildlink":"./sidedata/cardimages/MTG/lea/card9LEA.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/lea/card9LEA.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -85,7 +85,7 @@
     "name": "Circle of Protection: Blue",
     "anzahl": "0",
     "setcode": "LEA",
-    "bildlink":"./sidedata/cardimages/MTG/lea/card10LEA.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/lea/card10LEA.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -94,7 +94,7 @@
     "name": "Circle of Protection: Green",
     "anzahl": "0",
     "setcode": "LEA",
-    "bildlink":"./sidedata/cardimages/MTG/lea/card11LEA.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/lea/card11LEA.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -103,7 +103,7 @@
     "name": "Circle of Protection: Red",
     "anzahl": "0",
     "setcode": "LEA",
-    "bildlink":"./sidedata/cardimages/MTG/lea/card12LEA.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/lea/card12LEA.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -112,7 +112,7 @@
     "name": "Circle of Protection: White",
     "anzahl": "0",
     "setcode": "LEA",
-    "bildlink":"./sidedata/cardimages/MTG/lea/card13LEA.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/lea/card13LEA.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -121,7 +121,7 @@
     "name": "Consecrate Land",
     "anzahl": "0",
     "setcode": "LEA",
-    "bildlink":"./sidedata/cardimages/MTG/lea/card14LEA.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/lea/card14LEA.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -130,7 +130,7 @@
     "name": "Conversion",
     "anzahl": "0",
     "setcode": "LEA",
-    "bildlink":"./sidedata/cardimages/MTG/lea/card15LEA.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/lea/card15LEA.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -139,7 +139,7 @@
     "name": "Crusade(not in Community standarts)",
     "anzahl": "0",
     "setcode": "LEA",
-    "bildlink":"./sidedata/cardimages/MTG/lea/card16LEA.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/lea/card16LEA.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -148,7 +148,7 @@
     "name": "Death Ward",
     "anzahl": "0",
     "setcode": "LEA",
-    "bildlink":"./sidedata/cardimages/MTG/lea/card17LEA.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/lea/card17LEA.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -157,7 +157,7 @@
     "name": "Disenchant",
     "anzahl": "0",
     "setcode": "LEA",
-    "bildlink":"./sidedata/cardimages/MTG/lea/card18LEA.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/lea/card18LEA.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -166,7 +166,7 @@
     "name": "Farmstead",
     "anzahl": "0",
     "setcode": "LEA",
-    "bildlink":"./sidedata/cardimages/MTG/lea/card19LEA.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/lea/card19LEA.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -175,7 +175,7 @@
     "name": "Green Ward",
     "anzahl": "0",
     "setcode": "LEA",
-    "bildlink":"./sidedata/cardimages/MTG/lea/card20LEA.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/lea/card20LEA.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -184,7 +184,7 @@
     "name": "Guardian Angel",
     "anzahl": "0",
     "setcode": "LEA",
-    "bildlink":"./sidedata/cardimages/MTG/lea/card21LEA.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/lea/card21LEA.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -193,7 +193,7 @@
     "name": "healing Salve",
     "anzahl": "0",
     "setcode": "LEA",
-    "bildlink":"./sidedata/cardimages/MTG/lea/card22LEA.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/lea/card22LEA.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -202,7 +202,7 @@
     "name": "holy Armor",
     "anzahl": "0",
     "setcode": "LEA",
-    "bildlink":"./sidedata/cardimages/MTG/lea/card23LEA.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/lea/card23LEA.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -211,7 +211,7 @@
     "name": "holy Strenght",
     "anzahl": "0",
     "setcode": "LEA",
-    "bildlink":"./sidedata/cardimages/MTG/lea/card24LEA.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/lea/card24LEA.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -220,7 +220,7 @@
     "name": "Island Sanctuary",
     "anzahl": "0",
     "setcode": "LEA",
-    "bildlink":"./sidedata/cardimages/MTG/lea/card25LEA.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/lea/card25LEA.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -229,7 +229,7 @@
     "name": "Karma",
     "anzahl": "0",
     "setcode": "LEA",
-    "bildlink":"./sidedata/cardimages/MTG/lea/card26LEA.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/lea/card26LEA.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -238,7 +238,7 @@
     "name": "Lance",
     "anzahl": "0",
     "setcode": "LEA",
-    "bildlink":"./sidedata/cardimages/MTG/lea/card27LEA.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/lea/card27LEA.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -247,7 +247,7 @@
     "name": "Mesa Pegasus",
     "anzahl": "0",
     "setcode": "LEA",
-    "bildlink":"./sidedata/cardimages/MTG/lea/card28LEA.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/lea/card28LEA.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -256,7 +256,7 @@
     "name": "Norchern Paladin",
     "anzahl": "0",
     "setcode": "LEA",
-    "bildlink":"./sidedata/cardimages/MTG/lea/card29LEA.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/lea/card29LEA.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -265,7 +265,7 @@
     "name": "Pearled Unicorn",
     "anzahl": "0",
     "setcode": "LEA",
-    "bildlink":"./sidedata/cardimages/MTG/lea/card30LEA.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/lea/card30LEA.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -274,7 +274,7 @@
     "name": "Personal Incarnation",
     "anzahl": "0",
     "setcode": "LEA",
-    "bildlink":"./sidedata/cardimages/MTG/lea/card31LEA.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/lea/card31LEA.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -283,7 +283,7 @@
     "name": "Purelace",
     "anzahl": "0",
     "setcode": "LEA",
-    "bildlink":"./sidedata/cardimages/MTG/lea/card32LEA.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/lea/card32LEA.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -292,7 +292,7 @@
     "name": "Red Ward",
     "anzahl": "0",
     "setcode": "LEA",
-    "bildlink":"./sidedata/cardimages/MTG/lea/card33LEA.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/lea/card33LEA.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -301,7 +301,7 @@
     "name": "Resurrection",
     "anzahl": "0",
     "setcode": "LEA",
-    "bildlink":"./sidedata/cardimages/MTG/lea/card34LEA.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/lea/card34LEA.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -310,7 +310,7 @@
     "name": "Reverse Damage",
     "anzahl": "0",
     "setcode": "LEA",
-    "bildlink":"./sidedata/cardimages/MTG/lea/card35LEA.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/lea/card35LEA.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -319,7 +319,7 @@
     "name": "Righteousness",
     "anzahl": "0",
     "setcode": "LEA",
-    "bildlink":"./sidedata/cardimages/MTG/lea/card36LEA.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/lea/card36LEA.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -328,7 +328,7 @@
     "name": "Sarnite healer",
     "anzahl": "0",
     "setcode": "LEA",
-    "bildlink":"./sidedata/cardimages/MTG/lea/card37LEA.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/lea/card37LEA.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -337,7 +337,7 @@
     "name": "Savannah Lions",
     "anzahl": "0",
     "setcode": "LEA",
-    "bildlink":"./sidedata/cardimages/MTG/lea/card38LEA.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/lea/card38LEA.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -346,7 +346,7 @@
     "name": "Serra Angel",
     "anzahl": "0",
     "setcode": "LEA",
-    "bildlink":"./sidedata/cardimages/MTG/lea/card39LEA.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/lea/card39LEA.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -355,7 +355,7 @@
     "name": "Swords to Plowshares",
     "anzahl": "0",
     "setcode": "LEA",
-    "bildlink":"./sidedata/cardimages/MTG/lea/card40LEA.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/lea/card40LEA.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -364,7 +364,7 @@
     "name": "Veteran Bodyguard",
     "anzahl": "0",
     "setcode": "LEA",
-    "bildlink":"./sidedata/cardimages/MTG/lea/card41LEA.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/lea/card41LEA.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -373,7 +373,7 @@
     "name": "Wall of Swords",
     "anzahl": "0",
     "setcode": "LEA",
-    "bildlink":"./sidedata/cardimages/MTG/lea/card42LEA.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/lea/card42LEA.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -382,7 +382,7 @@
     "name": "White Knight",
     "anzahl": "0",
     "setcode": "LEA",
-    "bildlink":"./sidedata/cardimages/MTG/lea/card43LEA.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/lea/card43LEA.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -391,7 +391,7 @@
     "name": "White Ward",
     "anzahl": "0",
     "setcode": "LEA",
-    "bildlink":"./sidedata/cardimages/MTG/lea/card44LEA.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/lea/card44LEA.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -400,7 +400,7 @@
     "name": "Wrath of God",
     "anzahl": "0",
     "setcode": "LEA",
-    "bildlink":"./sidedata/cardimages/MTG/lea/card45LEA.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/lea/card45LEA.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -409,7 +409,7 @@
     "name": "Air Elemental",
     "anzahl": "0",
     "setcode": "LEA",
-    "bildlink":"./sidedata/cardimages/MTG/lea/card46LEA.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/lea/card46LEA.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -418,7 +418,7 @@
     "name": "Ancestral Recall",
     "anzahl": "0",
     "setcode": "LEA",
-    "bildlink":"./sidedata/cardimages/MTG/lea/card47LEA.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/lea/card47LEA.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -427,7 +427,7 @@
     "name": "Animate Artifact",
     "anzahl": "0",
     "setcode": "LEA",
-    "bildlink":"./sidedata/cardimages/MTG/lea/card48LEA.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/lea/card48LEA.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -436,7 +436,7 @@
     "name": "Blue Elemental Blast",
     "anzahl": "0",
     "setcode": "LEA",
-    "bildlink":"./sidedata/cardimages/MTG/lea/card49LEA.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/lea/card49LEA.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -445,7 +445,7 @@
     "name": "Braingeyser",
     "anzahl": "0",
     "setcode": "LEA",
-    "bildlink":"./sidedata/cardimages/MTG/lea/card50LEA.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/lea/card50LEA.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -454,7 +454,7 @@
     "name": "Clone",
     "anzahl": "0",
     "setcode": "LEA",
-    "bildlink":"./sidedata/cardimages/MTG/lea/card51LEA.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/lea/card51LEA.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -463,7 +463,7 @@
     "name": "Control Magic",
     "anzahl": "0",
     "setcode": "LEA",
-    "bildlink":"./sidedata/cardimages/MTG/lea/card52LEA.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/lea/card52LEA.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -472,7 +472,7 @@
     "name": "Copy Artifact",
     "anzahl": "0",
     "setcode": "LEA",
-    "bildlink":"./sidedata/cardimages/MTG/lea/card53LEA.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/lea/card53LEA.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -481,7 +481,7 @@
     "name": "Counterspell",
     "anzahl": "0",
     "setcode": "LEA",
-    "bildlink":"./sidedata/cardimages/MTG/lea/card54LEA.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/lea/card54LEA.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -490,7 +490,7 @@
     "name": "Creature Bond",
     "anzahl": "0",
     "setcode": "LEA",
-    "bildlink":"./sidedata/cardimages/MTG/lea/card55LEA.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/lea/card55LEA.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -499,7 +499,7 @@
     "name": "Drain Power",
     "anzahl": "0",
     "setcode": "LEA",
-    "bildlink":"./sidedata/cardimages/MTG/lea/card56LEA.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/lea/card56LEA.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -508,7 +508,7 @@
     "name": "Feedback",
     "anzahl": "0",
     "setcode": "LEA",
-    "bildlink":"./sidedata/cardimages/MTG/lea/card57LEA.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/lea/card57LEA.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -517,7 +517,7 @@
     "name": "Flight",
     "anzahl": "0",
     "setcode": "LEA",
-    "bildlink":"./sidedata/cardimages/MTG/lea/card58LEA.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/lea/card58LEA.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -526,7 +526,7 @@
     "name": "Invisibility",
     "anzahl": "0",
     "setcode": "LEA",
-    "bildlink":"./sidedata/cardimages/MTG/lea/card59LEA.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/lea/card59LEA.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -535,7 +535,7 @@
     "name": "Jump",
     "anzahl": "0",
     "setcode": "LEA",
-    "bildlink":"./sidedata/cardimages/MTG/lea/card60LEA.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/lea/card60LEA.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -544,7 +544,7 @@
     "name": "Lifetap",
     "anzahl": "0",
     "setcode": "LEA",
-    "bildlink":"./sidedata/cardimages/MTG/lea/card61LEA.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/lea/card61LEA.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -553,7 +553,7 @@
     "name": "Lord of Atlantis",
     "anzahl": "0",
     "setcode": "LEA",
-    "bildlink":"./sidedata/cardimages/MTG/lea/card62LEA.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/lea/card62LEA.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -562,7 +562,7 @@
     "name": "Magical hack",
     "anzahl": "0",
     "setcode": "LEA",
-    "bildlink":"./sidedata/cardimages/MTG/lea/card63LEA.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/lea/card63LEA.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -571,7 +571,7 @@
     "name": "Mahamoti Djinn",
     "anzahl": "0",
     "setcode": "LEA",
-    "bildlink":"./sidedata/cardimages/MTG/lea/card64LEA.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/lea/card64LEA.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -580,7 +580,7 @@
     "name": "Mana Short",
     "anzahl": "0",
     "setcode": "LEA",
-    "bildlink":"./sidedata/cardimages/MTG/lea/card65LEA.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/lea/card65LEA.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -589,7 +589,7 @@
     "name": "Merfolk of the Pearl Trident",
     "anzahl": "0",
     "setcode": "LEA",
-    "bildlink":"./sidedata/cardimages/MTG/lea/card66LEA.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/lea/card66LEA.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -598,7 +598,7 @@
     "name": "Phantasmal Forces",
     "anzahl": "0",
     "setcode": "LEA",
-    "bildlink":"./sidedata/cardimages/MTG/lea/card67LEA.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/lea/card67LEA.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -607,7 +607,7 @@
     "name": "Phantasmal Terrain",
     "anzahl": "0",
     "setcode": "LEA",
-    "bildlink":"./sidedata/cardimages/MTG/lea/card68LEA.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/lea/card68LEA.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -616,7 +616,7 @@
     "name": "Phantom Monster",
     "anzahl": "0",
     "setcode": "LEA",
-    "bildlink":"./sidedata/cardimages/MTG/lea/card69LEA.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/lea/card69LEA.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -625,7 +625,7 @@
     "name": "Pirate Ship",
     "anzahl": "0",
     "setcode": "LEA",
-    "bildlink":"./sidedata/cardimages/MTG/lea/card70LEA.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/lea/card70LEA.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -634,7 +634,7 @@
     "name": "Power Leak",
     "anzahl": "0",
     "setcode": "LEA",
-    "bildlink":"./sidedata/cardimages/MTG/lea/card71LEA.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/lea/card71LEA.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -643,7 +643,7 @@
     "name": "Power Sink",
     "anzahl": "0",
     "setcode": "LEA",
-    "bildlink":"./sidedata/cardimages/MTG/lea/card72LEA.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/lea/card72LEA.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -652,7 +652,7 @@
     "name": "Prodigal Sorcerer",
     "anzahl": "0",
     "setcode": "LEA",
-    "bildlink":"./sidedata/cardimages/MTG/lea/card73LEA.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/lea/card73LEA.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -661,7 +661,7 @@
     "name": "Psionic Blast",
     "anzahl": "0",
     "setcode": "LEA",
-    "bildlink":"./sidedata/cardimages/MTG/lea/card74LEA.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/lea/card74LEA.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -670,7 +670,7 @@
     "name": "Psychic Venom",
     "anzahl": "0",
     "setcode": "LEA",
-    "bildlink":"./sidedata/cardimages/MTG/lea/card75LEA.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/lea/card75LEA.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -679,7 +679,7 @@
     "name": "Sea Serpent",
     "anzahl": "0",
     "setcode": "LEA",
-    "bildlink":"./sidedata/cardimages/MTG/lea/card76LEA.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/lea/card76LEA.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -688,7 +688,7 @@
     "name": "Siren's Call",
     "anzahl": "0",
     "setcode": "LEA",
-    "bildlink":"./sidedata/cardimages/MTG/lea/card77LEA.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/lea/card77LEA.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -697,7 +697,7 @@
     "name": "Sleight of Mind",
     "anzahl": "0",
     "setcode": "LEA",
-    "bildlink":"./sidedata/cardimages/MTG/lea/card78LEA.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/lea/card78LEA.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -706,7 +706,7 @@
     "name": "Spell Blast",
     "anzahl": "0",
     "setcode": "LEA",
-    "bildlink":"./sidedata/cardimages/MTG/lea/card79LEA.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/lea/card79LEA.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -715,7 +715,7 @@
     "name": "Stasis",
     "anzahl": "0",
     "setcode": "LEA",
-    "bildlink":"./sidedata/cardimages/MTG/lea/card80LEA.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/lea/card80LEA.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -724,7 +724,7 @@
     "name": "Steal Artifact",
     "anzahl": "0",
     "setcode": "LEA",
-    "bildlink":"./sidedata/cardimages/MTG/lea/card81LEA.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/lea/card81LEA.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -733,7 +733,7 @@
     "name": "Thoughtlace",
     "anzahl": "0",
     "setcode": "LEA",
-    "bildlink":"./sidedata/cardimages/MTG/lea/card82LEA.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/lea/card82LEA.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -742,7 +742,7 @@
     "name": "Time Walk",
     "anzahl": "0",
     "setcode": "LEA",
-    "bildlink":"./sidedata/cardimages/MTG/lea/card83LEA.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/lea/card83LEA.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -751,7 +751,7 @@
     "name": "Timetwister",
     "anzahl": "0",
     "setcode": "LEA",
-    "bildlink":"./sidedata/cardimages/MTG/lea/card84LEA.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/lea/card84LEA.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -760,7 +760,7 @@
     "name": "Twiddle",
     "anzahl": "0",
     "setcode": "LEA",
-    "bildlink":"./sidedata/cardimages/MTG/lea/card85LEA.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/lea/card85LEA.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -769,7 +769,7 @@
     "name": "Unsummon",
     "anzahl": "0",
     "setcode": "LEA",
-    "bildlink":"./sidedata/cardimages/MTG/lea/card86LEA.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/lea/card86LEA.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -778,7 +778,7 @@
     "name": "Vesuvan Doppelganger",
     "anzahl": "0",
     "setcode": "LEA",
-    "bildlink":"./sidedata/cardimages/MTG/lea/card87LEA.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/lea/card87LEA.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -787,7 +787,7 @@
     "name": "Volcanic Eruption",
     "anzahl": "0",
     "setcode": "LEA",
-    "bildlink":"./sidedata/cardimages/MTG/lea/card88LEA.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/lea/card88LEA.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -796,7 +796,7 @@
     "name": "Wall of Air",
     "anzahl": "0",
     "setcode": "LEA",
-    "bildlink":"./sidedata/cardimages/MTG/lea/card89LEA.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/lea/card89LEA.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -805,7 +805,7 @@
     "name": "Wall of Water",
     "anzahl": "0",
     "setcode": "LEA",
-    "bildlink":"./sidedata/cardimages/MTG/lea/card90LEA.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/lea/card90LEA.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -814,7 +814,7 @@
     "name": "Water Elemental",
     "anzahl": "0",
     "setcode": "LEA",
-    "bildlink":"./sidedata/cardimages/MTG/lea/card91LEA.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/lea/card91LEA.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -823,7 +823,7 @@
     "name": "Animate Dead",
     "anzahl": "0",
     "setcode": "LEA",
-    "bildlink":"./sidedata/cardimages/MTG/lea/card92LEA.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/lea/card92LEA.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -832,7 +832,7 @@
     "name": "Bad Moon",
     "anzahl": "0",
     "setcode": "LEA",
-    "bildlink":"./sidedata/cardimages/MTG/lea/card93LEA.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/lea/card93LEA.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -841,7 +841,7 @@
     "name": "Black Knight",
     "anzahl": "0",
     "setcode": "LEA",
-    "bildlink":"./sidedata/cardimages/MTG/lea/card94LEA.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/lea/card94LEA.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -850,7 +850,7 @@
     "name": "Bog Wraith",
     "anzahl": "0",
     "setcode": "LEA",
-    "bildlink":"./sidedata/cardimages/MTG/lea/card95LEA.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/lea/card95LEA.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -859,7 +859,7 @@
     "name": "Contract from Below",
     "anzahl": "0",
     "setcode": "LEA",
-    "bildlink":"./sidedata/cardimages/MTG/lea/card96LEA.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/lea/card96LEA.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -868,7 +868,7 @@
     "name": "Cursed Land",
     "anzahl": "0",
     "setcode": "LEA",
-    "bildlink":"./sidedata/cardimages/MTG/lea/card97LEA.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/lea/card97LEA.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -877,7 +877,7 @@
     "name": "Dark Ritual",
     "anzahl": "0",
     "setcode": "LEA",
-    "bildlink":"./sidedata/cardimages/MTG/lea/card98LEA.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/lea/card98LEA.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -886,7 +886,7 @@
     "name": "Darkpact",
     "anzahl": "0",
     "setcode": "LEA",
-    "bildlink":"./sidedata/cardimages/MTG/lea/card99LEA.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/lea/card99LEA.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   },
@@ -895,7 +895,7 @@
     "name": "Deathgrip",
     "anzahl": "0",
     "setcode": "LEA",
-    "bildlink":"./sidedata/cardimages/MTG/lea/card100LEA.jpg",
+    "bildlink":"./sidedata/cardimages/MTG/lea/card100LEA.avif",
     "game":"MTG",
     "rarityname": "Mythic Rare"
   }
