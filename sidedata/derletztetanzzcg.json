@@ -708,7 +708,7 @@
     "setcode": "ev1",
     "bildlink": "./sidedata/cardimages/ZCG/EventUndPromos/Eventsets/2025/The_last_Dance_Der_letzte_Tanz/card21tld.avif",
     "game":"ZCG",
-    "rarityname": "ZalanFACA"
+    "rarityname": "LimitedCard"
   },
     {
     "nummer": "6(CFA)",
@@ -726,7 +726,7 @@
     "setcode": "ev1",
     "bildlink": "./sidedata/cardimages/ZCG/EventUndPromos/Eventsets/2025/The_last_Dance_Der_letzte_Tanz/card22tld.avif",
     "game":"ZCG",
-    "rarityname": "CommonFACA"
+    "rarityname": "LimitedCard"
   },
     {
     "nummer": "38(OA)",

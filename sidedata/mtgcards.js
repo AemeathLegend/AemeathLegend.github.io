@@ -554,7 +554,7 @@ async function openpackfill()
         {
             endrewards.push(result);
         }
-        chancelist=setchancelist([1000000, 257259, 114330, 42864, 14277,20400, 5256, 2337, 875, 292,146],[16,17,16/*original epicFA*/,19,20,26,27,28,27/*original ZalanOA chance*/,30,32]);
+        chancelist=setchancelist([1000000, 257259, 114330, 42864, 14277,20400, 5256, 2337, 875, 292,146],[16,17,16/*original epicFA*/,19,20,26,27,28,27/*original ZalanOA chance*/,28/*original ZalanFACA*/,32]);
         for(const result of calculateChance(1, chancelist, 6))
         {
             endrewards.push(result);
