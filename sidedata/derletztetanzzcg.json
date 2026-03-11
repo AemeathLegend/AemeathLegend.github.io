@@ -232,5 +232,518 @@
     "bildlink": "./sidedata/cardimages/ZCG/EventUndPromos/Eventsets/2025/The_last_Dance_Der_letzte_Tanz/card30tld.avif",
     "game":"ZCG",
     "rarityname": "CommonCA"
+  },
+    {
+    "nummer": "11",
+    "name": "Hagelsturm",
+    "anzahl": "0",
+    "setcode": "ev1",
+    "bildlink": "./sidedata/cardimages/ZCG/EventUndPromos/Eventsets/2025/The_last_Dance_Der_letzte_Tanz/card31tld.avif",
+    "game":"ZCG",
+    "rarityname": "CommonCA"
+  },
+    {
+    "nummer": "11(CA)",
+    "name": "Hagelsturm",
+    "anzahl": "0",
+    "setcode": "ev1",
+    "bildlink": "./sidedata/cardimages/ZCG/EventUndPromos/Eventsets/2025/The_last_Dance_Der_letzte_Tanz/card32tld.avif",
+    "game":"ZCG",
+    "rarityname": "CommonCA"
+  },
+    {
+    "nummer": "11(FA)",
+    "name": "Hagelsturm",
+    "anzahl": "0",
+    "setcode": "ev1",
+    "bildlink": "./sidedata/cardimages/ZCG/EventUndPromos/Eventsets/2025/The_last_Dance_Der_letzte_Tanz/card33tld.avif",
+    "game":"ZCG",
+    "rarityname": "CommonCA"
+  },
+    {
+    "nummer": "11(FA-CA)",
+    "name": "Hagelsturm",
+    "anzahl": "0",
+    "setcode": "ev1",
+    "bildlink": "./sidedata/cardimages/ZCG/EventUndPromos/Eventsets/2025/The_last_Dance_Der_letzte_Tanz/card34tld.avif",
+    "game":"ZCG",
+    "rarityname": "CommonCA"
+  },
+    {
+    "nummer": "12",
+    "name": "Pfeilhagel",
+    "anzahl": "0",
+    "setcode": "ev1",
+    "bildlink": "./sidedata/cardimages/ZCG/EventUndPromos/Eventsets/2025/The_last_Dance_Der_letzte_Tanz/card35tld.avif",
+    "game":"ZCG",
+    "rarityname": "CommonCA"
+  },
+    {
+    "nummer": "12(CA)",
+    "name": "Pfeilhagel",
+    "anzahl": "0",
+    "setcode": "ev1",
+    "bildlink": "./sidedata/cardimages/ZCG/EventUndPromos/Eventsets/2025/The_last_Dance_Der_letzte_Tanz/card36tld.avif",
+    "game":"ZCG",
+    "rarityname": "CommonCA"
+  },
+    {
+    "nummer": "12(OA)",
+    "name": "Pfeilhagel",
+    "anzahl": "0",
+    "setcode": "ev1",
+    "bildlink": "./sidedata/cardimages/ZCG/EventUndPromos/Eventsets/2025/The_last_Dance_Der_letzte_Tanz/card37tld.avif",
+    "game":"ZCG",
+    "rarityname": "CommonCA"
+  },
+    {
+    "nummer": "13",
+    "name": "Fillpalast, umgebung der Tat",
+    "anzahl": "0",
+    "setcode": "ev1",
+    "bildlink": "./sidedata/cardimages/ZCG/EventUndPromos/Eventsets/2025/The_last_Dance_Der_letzte_Tanz/card38tld.avif",
+    "game":"ZCG",
+    "rarityname": "CommonCA"
+  },
+    {
+    "nummer": "13(CA)",
+    "name": "Fillpalast, umgebung der Tat",
+    "anzahl": "0",
+    "setcode": "ev1",
+    "bildlink": "./sidedata/cardimages/ZCG/EventUndPromos/Eventsets/2025/The_last_Dance_Der_letzte_Tanz/card39tld.avif",
+    "game":"ZCG",
+    "rarityname": "CommonCA"
+  },
+    {
+    "nummer": "14",
+    "name": "Ausgefeilter Plan",
+    "anzahl": "0",
+    "setcode": "ev1",
+    "bildlink": "./sidedata/cardimages/ZCG/EventUndPromos/Eventsets/2025/The_last_Dance_Der_letzte_Tanz/card40tld.avif",
+    "game":"ZCG",
+    "rarityname": "CommonCA"
+  },
+    {
+    "nummer": "14(CA)",
+    "name": "Ausgefeilter Plan",
+    "anzahl": "0",
+    "setcode": "ev1",
+    "bildlink": "./sidedata/cardimages/ZCG/EventUndPromos/Eventsets/2025/The_last_Dance_Der_letzte_Tanz/card41tld.avif",
+    "game":"ZCG",
+    "rarityname": "CommonCA"
+  },
+    {
+    "nummer": "15",
+    "name": "ein Mord beim Palast",
+    "anzahl": "0",
+    "setcode": "ev1",
+    "bildlink": "./sidedata/cardimages/ZCG/EventUndPromos/Eventsets/2025/The_last_Dance_Der_letzte_Tanz/card42tld.avif",
+    "game":"ZCG",
+    "rarityname": "CommonCA"
+  },
+    {
+    "nummer": "15(CA)",
+    "name": "Brauner Mörderbär",
+    "anzahl": "0",
+    "setcode": "ev1",
+    "bildlink": "./sidedata/cardimages/ZCG/EventUndPromos/Eventsets/2025/The_last_Dance_Der_letzte_Tanz/card43tld.avif",
+    "game":"ZCG",
+    "rarityname": "CommonCA"
+  },
+    {
+    "nummer": "16",
+    "name": "Verfolgung des Mörders",
+    "anzahl": "0",
+    "setcode": "ev1",
+    "bildlink": "./sidedata/cardimages/ZCG/EventUndPromos/Eventsets/2025/The_last_Dance_Der_letzte_Tanz/card44tld.avif",
+    "game":"ZCG",
+    "rarityname": "CommonCA"
+  },
+    {
+    "nummer": "16(CA)",
+    "name": "Verfolgung des Mörders",
+    "anzahl": "0",
+    "setcode": "ev1",
+    "bildlink": "./sidedata/cardimages/ZCG/EventUndPromos/Eventsets/2025/The_last_Dance_Der_letzte_Tanz/card45tld.avif",
+    "game":"ZCG",
+    "rarityname": "CommonCA"
+  },
+    {
+    "nummer": "17",
+    "name": "Der Würfel",
+    "anzahl": "0",
+    "setcode": "ev1",
+    "bildlink": "./sidedata/cardimages/ZCG/EventUndPromos/Eventsets/2025/The_last_Dance_Der_letzte_Tanz/card46tld.avif",
+    "game":"ZCG",
+    "rarityname": "CommonCA"
+  },
+    {
+    "nummer": "17(CA)",
+    "name": "Der Würfel",
+    "anzahl": "0",
+    "setcode": "ev1",
+    "bildlink": "./sidedata/cardimages/ZCG/EventUndPromos/Eventsets/2025/The_last_Dance_Der_letzte_Tanz/card47tld.avif",
+    "game":"ZCG",
+    "rarityname": "CommonCA"
+  },
+    {
+    "nummer": "17(OA)",
+    "name": "Der Würfel",
+    "anzahl": "0",
+    "setcode": "ev1",
+    "bildlink": "./sidedata/cardimages/ZCG/EventUndPromos/Eventsets/2025/The_last_Dance_Der_letzte_Tanz/card48tld.avif",
+    "game":"ZCG",
+    "rarityname": "CommonCA"
+  },
+    {
+    "nummer": "18",
+    "name": "Eule des Nordens",
+    "anzahl": "0",
+    "setcode": "ev1",
+    "bildlink": "./sidedata/cardimages/ZCG/EventUndPromos/Eventsets/2025/The_last_Dance_Der_letzte_Tanz/card49tld.avif",
+    "game":"ZCG",
+    "rarityname": "CommonCA"
+  },
+    {
+    "nummer": "18(CA)",
+    "name": "Eule des Nordens",
+    "anzahl": "0",
+    "setcode": "ev1",
+    "bildlink": "./sidedata/cardimages/ZCG/EventUndPromos/Eventsets/2025/The_last_Dance_Der_letzte_Tanz/card50tld.avif",
+    "game":"ZCG",
+    "rarityname": "CommonCA"
+  },
+    {
+    "nummer": "19",
+    "name": "Zahlengenauer Mathematiker",
+    "anzahl": "0",
+    "setcode": "ev1",
+    "bildlink": "./sidedata/cardimages/ZCG/EventUndPromos/Eventsets/2025/The_last_Dance_Der_letzte_Tanz/card51tld.avif",
+    "game":"ZCG",
+    "rarityname": "CommonCA"
+  },
+    {
+    "nummer": "19(CA)",
+    "name": "Zahlengenauer Mathematiker",
+    "anzahl": "0",
+    "setcode": "ev1",
+    "bildlink": "./sidedata/cardimages/ZCG/EventUndPromos/Eventsets/2025/The_last_Dance_Der_letzte_Tanz/card52tld.avif",
+    "game":"ZCG",
+    "rarityname": "CommonCA"
+  },
+    {
+    "nummer": "20",
+    "name": "Fino, Herr des Nordens",
+    "anzahl": "0",
+    "setcode": "ev1",
+    "bildlink": "./sidedata/cardimages/ZCG/EventUndPromos/Eventsets/2025/The_last_Dance_Der_letzte_Tanz/card53tld.avif",
+    "game":"ZCG",
+    "rarityname": "CommonCA"
+  },
+    {
+    "nummer": "20(CA)",
+    "name": "Fino, Herr des Nordens",
+    "anzahl": "0",
+    "setcode": "ev1",
+    "bildlink": "./sidedata/cardimages/ZCG/EventUndPromos/Eventsets/2025/The_last_Dance_Der_letzte_Tanz/card54tld.avif",
+    "game":"ZCG",
+    "rarityname": "CommonCA"
+  },
+    {
+    "nummer": "20(OA)",
+    "name": "Fino, Herr des Nordens",
+    "anzahl": "0",
+    "setcode": "ev1",
+    "bildlink": "./sidedata/cardimages/ZCG/EventUndPromos/Eventsets/2025/The_last_Dance_Der_letzte_Tanz/card55tld.avif",
+    "game":"ZCG",
+    "rarityname": "CommonCA"
+  },
+    {
+    "nummer": "20(FA)",
+    "name": "Fino, Herr des Nordens",
+    "anzahl": "0",
+    "setcode": "ev1",
+    "bildlink": "./sidedata/cardimages/ZCG/EventUndPromos/Eventsets/2025/The_last_Dance_Der_letzte_Tanz/card56tld.avif",
+    "game":"ZCG",
+    "rarityname": "CommonCA"
+  },
+    {
+    "nummer": "20(FA-CA)",
+    "name": "Fino, Herr des Nordens",
+    "anzahl": "0",
+    "setcode": "ev1",
+    "bildlink": "./sidedata/cardimages/ZCG/EventUndPromos/Eventsets/2025/The_last_Dance_Der_letzte_Tanz/card57tld.avif",
+    "game":"ZCG",
+    "rarityname": "CommonCA"
+  },
+    {
+    "nummer": "21",
+    "name": "Meteor der Vernichtung",
+    "anzahl": "0",
+    "setcode": "ev1",
+    "bildlink": "./sidedata/cardimages/ZCG/EventUndPromos/Eventsets/2025/The_last_Dance_Der_letzte_Tanz/card58tld.avif",
+    "game":"ZCG",
+    "rarityname": "CommonCA"
+  },
+    {
+    "nummer": "21(CA)",
+    "name": "Meteor der Vernichtung",
+    "anzahl": "0",
+    "setcode": "ev1",
+    "bildlink": "./sidedata/cardimages/ZCG/EventUndPromos/Eventsets/2025/The_last_Dance_Der_letzte_Tanz/card59tld.avif",
+    "game":"ZCG",
+    "rarityname": "CommonCA"
+  },
+    {
+    "nummer": "22",
+    "name": "Polarbär des Südens",
+    "anzahl": "0",
+    "setcode": "ev1",
+    "bildlink": "./sidedata/cardimages/ZCG/EventUndPromos/Eventsets/2025/The_last_Dance_Der_letzte_Tanz/card60tld.avif",
+    "game":"ZCG",
+    "rarityname": "CommonCA"
+  },
+    {
+    "nummer": "22(CA)",
+    "name": "Polarbär des Südens",
+    "anzahl": "0",
+    "setcode": "ev1",
+    "bildlink": "./sidedata/cardimages/ZCG/EventUndPromos/Eventsets/2025/The_last_Dance_Der_letzte_Tanz/card61tld.avif",
+    "game":"ZCG",
+    "rarityname": "CommonCA"
+  },
+    {
+    "nummer": "23",
+    "name": "Eron, Mann der Willenskraft",
+    "anzahl": "0",
+    "setcode": "ev1",
+    "bildlink": "./sidedata/cardimages/ZCG/EventUndPromos/Eventsets/2025/The_last_Dance_Der_letzte_Tanz/card62tld.avif",
+    "game":"ZCG",
+    "rarityname": "CommonCA"
+  },
+    {
+    "nummer": "23(CA)",
+    "name": "Eron, Mann der Willenskraft",
+    "anzahl": "0",
+    "setcode": "ev1",
+    "bildlink": "./sidedata/cardimages/ZCG/EventUndPromos/Eventsets/2025/The_last_Dance_Der_letzte_Tanz/card63tld.avif",
+    "game":"ZCG",
+    "rarityname": "CommonCA"
+  },
+    {
+    "nummer": "24",
+    "name": "Fillant, stadt der einsamkeit",
+    "anzahl": "0",
+    "setcode": "ev1",
+    "bildlink": "./sidedata/cardimages/ZCG/EventUndPromos/Eventsets/2025/The_last_Dance_Der_letzte_Tanz/card63tld.avif",
+    "game":"ZCG",
+    "rarityname": "CommonCA"
+  },
+    {
+    "nummer": "24(CA)",
+    "name": "Fillant, stadt der einsamkeit",
+    "anzahl": "0",
+    "setcode": "ev1",
+    "bildlink": "./sidedata/cardimages/ZCG/EventUndPromos/Eventsets/2025/The_last_Dance_Der_letzte_Tanz/card65tld.avif",
+    "game":"ZCG",
+    "rarityname": "CommonCA"
+  },
+    {
+    "nummer": "25",
+    "name": "Jetzt oder Nie",
+    "anzahl": "0",
+    "setcode": "ev1",
+    "bildlink": "./sidedata/cardimages/ZCG/EventUndPromos/Eventsets/2025/The_last_Dance_Der_letzte_Tanz/card66tld.avif",
+    "game":"ZCG",
+    "rarityname": "CommonCA"
+  },
+    {
+    "nummer": "25(CA)",
+    "name": "Jetzt oder Nie",
+    "anzahl": "0",
+    "setcode": "ev1",
+    "bildlink": "./sidedata/cardimages/ZCG/EventUndPromos/Eventsets/2025/The_last_Dance_Der_letzte_Tanz/card67tld.avif",
+    "game":"ZCG",
+    "rarityname": "CommonCA"
+  },
+    {
+    "nummer": "26",
+    "name": "Blitz der Wahrheit",
+    "anzahl": "0",
+    "setcode": "ev1",
+    "bildlink": "./sidedata/cardimages/ZCG/EventUndPromos/Eventsets/2025/The_last_Dance_Der_letzte_Tanz/card68tld.avif",
+    "game":"ZCG",
+    "rarityname": "CommonCA"
+  },
+    {
+    "nummer": "26(CA)",
+    "name": "Blitz der Wahrheit",
+    "anzahl": "0",
+    "setcode": "ev1",
+    "bildlink": "./sidedata/cardimages/ZCG/EventUndPromos/Eventsets/2025/The_last_Dance_Der_letzte_Tanz/card69tld.avif",
+    "game":"ZCG",
+    "rarityname": "CommonCA"
+  },
+    {
+    "nummer": "26(FA-CA)",
+    "name": "Blitz der Wahrheit",
+    "anzahl": "0",
+    "setcode": "ev1",
+    "bildlink": "./sidedata/cardimages/ZCG/EventUndPromos/Eventsets/2025/The_last_Dance_Der_letzte_Tanz/card69tld.avif",
+    "game":"ZCG",
+    "rarityname": "CommonCA"
+  },
+    {
+    "nummer": "26(OA)",
+    "name": "Blitz der Wahrheit",
+    "anzahl": "0",
+    "setcode": "ev1",
+    "bildlink": "./sidedata/cardimages/ZCG/EventUndPromos/Eventsets/2025/The_last_Dance_Der_letzte_Tanz/card70tld.avif",
+    "game":"ZCG",
+    "rarityname": "CommonCA"
+  },
+  {
+    "nummer": "27(FA-CA)",
+    "name": "Blitz der Wahrheit",
+    "anzahl": "0",
+    "setcode": "ev1",
+    "bildlink": "./sidedata/cardimages/ZCG/EventUndPromos/Eventsets/2025/The_last_Dance_Der_letzte_Tanz/card71tld.avif",
+    "game":"ZCG",
+    "rarityname": "CommonCA"
+  },
+    {
+    "nummer": "27",
+    "name": "Magici, Mond des Meeres",
+    "anzahl": "0",
+    "setcode": "ev1",
+    "bildlink": "./sidedata/cardimages/ZCG/EventUndPromos/Eventsets/2025/The_last_Dance_Der_letzte_Tanz/card72tld.avif",
+    "game":"ZCG",
+    "rarityname": "CommonCA"
+  },
+    {
+    "nummer": "27(CA)",
+    "name": "Magici, Mond des Meeres",
+    "anzahl": "0",
+    "setcode": "ev1",
+    "bildlink": "./sidedata/cardimages/ZCG/EventUndPromos/Eventsets/2025/The_last_Dance_Der_letzte_Tanz/card73tld.avif",
+    "game":"ZCG",
+    "rarityname": "CommonCA"
+  },
+    {
+    "nummer": "27(CFA)",
+    "name": "Magici, Mond des Meeres",
+    "anzahl": "0",
+    "setcode": "ev1",
+    "bildlink": "./sidedata/cardimages/ZCG/EventUndPromos/Eventsets/2025/The_last_Dance_Der_letzte_Tanz/card74tld.avif",
+    "game":"ZCG",
+    "rarityname": "CommonCA"
+  },
+    {
+    "nummer": "27(CLI-CA)",
+    "name": "Magici, Mond des Meeres",
+    "anzahl": "0",
+    "setcode": "ev1",
+    "bildlink": "./sidedata/cardimages/ZCG/EventUndPromos/Eventsets/2025/The_last_Dance_Der_letzte_Tanz/card75tld.avif",
+    "game":"ZCG",
+    "rarityname": "CommonCA"
+  },
+    {
+    "nummer": "28",
+    "name": "Mico, Stern des Meeres",
+    "anzahl": "0",
+    "setcode": "ev1",
+    "bildlink": "./sidedata/cardimages/ZCG/EventUndPromos/Eventsets/2025/The_last_Dance_Der_letzte_Tanz/card76tld.avif",
+    "game":"ZCG",
+    "rarityname": "CommonCA"
+  },
+    {
+    "nummer": "28(CA)",
+    "name": "Mico, Stern des Meeres",
+    "anzahl": "0",
+    "setcode": "ev1",
+    "bildlink": "./sidedata/cardimages/ZCG/EventUndPromos/Eventsets/2025/The_last_Dance_Der_letzte_Tanz/card77tld.avif",
+    "game":"ZCG",
+    "rarityname": "CommonCA"
+  },
+    {
+    "nummer": "28(CFA)",
+    "name": "Mico, Stern des Meeres",
+    "anzahl": "0",
+    "setcode": "ev1",
+    "bildlink": "./sidedata/cardimages/ZCG/EventUndPromos/Eventsets/2025/The_last_Dance_Der_letzte_Tanz/card78tld.avif",
+    "game":"ZCG",
+    "rarityname": "CommonCA"
+  },
+    {
+    "nummer": "28(CLI-CA)",
+    "name": "Mico, Stern des Meeres",
+    "anzahl": "0",
+    "setcode": "ev1",
+    "bildlink": "./sidedata/cardimages/ZCG/EventUndPromos/Eventsets/2025/The_last_Dance_Der_letzte_Tanz/card79tld.avif",
+    "game":"ZCG",
+    "rarityname": "CommonCA"
+    },
+    {
+    "nummer": "29",
+    "name": "Zima, Stern Magierin",
+    "anzahl": "0",
+    "setcode": "ev1",
+    "bildlink": "./sidedata/cardimages/ZCG/EventUndPromos/Eventsets/2025/The_last_Dance_Der_letzte_Tanz/card17tld.avif",
+    "game":"ZCG",
+    "rarityname": "CommonCA"
+  },
+    {
+    "nummer": "29(CA)",
+    "name": "Zima, Stern Magierin",
+    "anzahl": "0",
+    "setcode": "ev1",
+    "bildlink": "./sidedata/cardimages/ZCG/EventUndPromos/Eventsets/2025/The_last_Dance_Der_letzte_Tanz/card18tld.avif",
+    "game":"ZCG",
+    "rarityname": "CommonCA"
+  },
+    {
+    "nummer": "29(CFA)",
+    "name": "Zima, Stern Magierin",
+    "anzahl": "0",
+    "setcode": "ev1",
+    "bildlink": "./sidedata/cardimages/ZCG/EventUndPromos/Eventsets/2025/The_last_Dance_Der_letzte_Tanz/card19tld.avif",
+    "game":"ZCG",
+    "rarityname": "CommonCA"
+  },
+    {
+    "nummer": "29(CFA-CA)",
+    "name": "Zima, Stern Magierin",
+    "anzahl": "0",
+    "setcode": "ev1",
+    "bildlink": "./sidedata/cardimages/ZCG/EventUndPromos/Eventsets/2025/The_last_Dance_Der_letzte_Tanz/card21tld.avif",
+    "game":"ZCG",
+    "rarityname": "CommonCA"
+  },
+    {
+    "nummer": "6(CFA)",
+    "name": "So hell wie die Sterne",
+    "anzahl": "0",
+    "setcode": "ev1",
+    "bildlink": "./sidedata/cardimages/ZCG/EventUndPromos/Eventsets/2025/The_last_Dance_Der_letzte_Tanz/card20tld.avif",
+    "game":"ZCG",
+    "rarityname": "CommonCA"
+  },
+    {
+    "nummer": "6(CFA-CA)",
+    "name": "So hell wie die Sterne",
+    "anzahl": "0",
+    "setcode": "ev1",
+    "bildlink": "./sidedata/cardimages/ZCG/EventUndPromos/Eventsets/2025/The_last_Dance_Der_letzte_Tanz/card22tld.avif",
+    "game":"ZCG",
+    "rarityname": "CommonCA"
+  },
+    {
+    "nummer": "38(OA)",
+    "name": "Sternenwunsch",
+    "anzahl": "0",
+    "setcode": "ev1",
+    "bildlink": "./sidedata/cardimages/ZCG/EventUndPromos/Eventsets/2025/The_last_Dance_Der_letzte_Tanz/card80tld.avif",
+    "game":"ZCG",
+    "rarityname": "CommonCA"
   }
 ]

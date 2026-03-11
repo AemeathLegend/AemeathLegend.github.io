@@ -546,7 +546,7 @@ function startlogin()
 
 
 /*
-12 pixel abstand scene cards
+12 pixel abstand scene cards plus 8 pixel breite strichlinie
 35% quality on avif-export for MTG
 50% quality on avif-export for ZCG
  */
