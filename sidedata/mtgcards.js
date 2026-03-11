@@ -8,7 +8,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     const packImages = {
         "m20pack.json": "./sidedata/cardimages/assetssim/packs/m20pack.png",
-        "./sidedata/Final_Fantasy.json": "./sidedata/cardimages/assetssim/packs/finalfantasy.png",
+        "./sidedata/Final_Fantasy.json": "./sidedata/cardimages/assetssim/packs/Final_Fantasy.png",
         "./sidedata/derletztetanzzcg.json": "./sidedata/cardimages/assetssim/packs/derletztetanz.png"
     };
 
@@ -19,7 +19,7 @@ document.addEventListener('DOMContentLoaded', () => {
         packImage.src = packImages[selectedValue] || "./sidedata/cardimages/assetssim/packs/m20pack.png";
     }
 
-    packSelect.addEventListener('change', loadImgForPack);
+    packSelect.addEventListener('change', packimagechange);
 
     backButton.addEventListener('click', () => {
         console.log("Back button clicked");
@@ -436,9 +436,6 @@ function backtomainmenu()
     window.location.href = '../index.html';
 }
 
-/**
- * method for opening the pack or loading the next card in pack according to packcontent
- */
 async function loadCards()
 {
     const setforpack = document.getElementById("packselection").value;
@@ -458,7 +455,9 @@ async function loadCards()
     });
 }
 
-
+/**
+ * method for opening the pack or loading the next card in pack according to packcontent
+ */
 async function openpack()
 {
     if(packcontent.length == 0)
@@ -483,6 +482,10 @@ async function openpack()
     }
 }
 
+/**
+ * method for filling the packcontent list of the pack with values.
+ * uses the selfmadefunctions setchancelist and calculatechance for this, as well as checkset for cheking combined packlists
+ */
 async function openpackfill()
 {
     packimagechange();
@@ -564,6 +567,9 @@ async function openpackfill()
     return endrewards;
 }
 
+/**
+ * method for returning the details of the currently selected set as an array with both values
+ */
 async function checkSet()
 {
     let setCol = [];
@@ -579,7 +585,9 @@ async function checkSet()
     return setCol;
 }
 
-
+/**
+ * 
+ */
 function setchancelist(rewardchancearray,idofreward)
 {
     let chanceamount = rewardchancearray.length;
