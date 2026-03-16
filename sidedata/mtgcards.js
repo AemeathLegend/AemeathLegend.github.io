@@ -126,7 +126,20 @@ const rarityIdMap =
     36:"Mythic Rare",
     37:"Serialized",
     38:"TwoColorLand",
-    39:"BasicLand"
+    39:"BasicLand",
+    40:"BasicLandFullArt",
+    41:"CommonE",
+    42:"UncommonE",
+    43:"RareE",
+    44:"Mythic RareE",
+    45:"CommonShowcase",
+    46:"UncommonShowcase",
+    47:"RareShowcase",
+    48:"Mythic RareShowcase",
+    49:"CommonScene",
+    50:"UncommonScene",
+    51:"RareScene",
+    52:"Mythic RareScene"
 };
 
 /**

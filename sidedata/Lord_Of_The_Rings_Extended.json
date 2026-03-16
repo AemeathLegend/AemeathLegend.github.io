@@ -1,389 +1,515 @@
-[  
+[
   {
-    "nummer": "0751",
-    "name": "Barad-Dur",
+    "nummer": "0346",
+    "name": "The Battle of Bywater",
     "anzahl": "0",
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/Extended/card1ltrE.avif",
     "game":"MTG",
-    "rarityname": "Rare"
+    "rarityname": "RareE"
   },
   {
-    "nummer": "0752",
-    "name": "Minas-Tirith",
+    "nummer": "0347",
+    "name": "Dawn of a new Age",
     "anzahl": "0",
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/Extended/card2ltrE.avif",
     "game":"MTG",
-    "rarityname": "Rare"
+    "rarityname": "Mythic RareE"
   },
   {
-    "nummer": "0753",
-    "name": "Mines of Moria",
+    "nummer": "0348",
+    "name": "Flowering of the White Tree",
     "anzahl": "0",
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/Extended/card3ltrE.avif",
     "game":"MTG",
-    "rarityname": "Rare"
+    "rarityname": "RareE"
   },
   {
-    "nummer": "0754",
-    "name": "Mount Doom",
+    "nummer": "0349",
+    "name": "Forge Anew",
     "anzahl": "0",
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/Extended/card4ltrE.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "RareE"
   },
   {
-    "nummer": "0755",
-    "name": "Rivendell",
+    "nummer": "0350",
+    "name": "Borne Upon the Wind",
     "anzahl": "0",
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/Extended/card5ltrE.avif",
     "game":"MTG",
-    "rarityname": "Rare"
+    "rarityname": "RareE"
   },
   {
-    "nummer": "0756",
-    "name": "The Shire",
+    "nummer": "0351",
+    "name": "Goldberry, River-daughter",
     "anzahl": "0",
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/Extended/card6ltrE.avif",
     "game":"MTG",
-    "rarityname": "Rare"
+    "rarityname": "RareE"
   },
   {
-    "nummer": "0757",
-    "name": "The Battle of Bywater",
+    "nummer": "0352",
+    "name": "Press the Enemy",
     "anzahl": "0",
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/Extended/card7ltrE.avif",
     "game":"MTG",
-    "rarityname": "Rare"
+    "rarityname": "RareE"
   },
   {
-    "nummer": "0758",
-    "name": "Dawn of a new Age",
+    "nummer": "0353",
+    "name": "Rangers of Ithilien",
     "anzahl": "0",
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/Extended/card8ltrE.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "RareE"
   },
   {
-    "nummer": "0759",
-    "name": "Flowering of the White Tree",
+    "nummer": "0354",
+    "name": "The Watcher in the Water",
     "anzahl": "0",
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/Extended/card9ltrE.avif",
     "game":"MTG",
-    "rarityname": "Rare"
+    "rarityname": "Mythic RareE"
   },
   {
-    "nummer": "0760",
-    "name": "Forge Anew",
+    "nummer": "0355",
+    "name": "Call of the Ring",
     "anzahl": "0",
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/Extended/card10ltrE.avif",
     "game":"MTG",
-    "rarityname": "Rare"
+    "rarityname": "RareE"
   },
   {
-    "nummer": "0761",
-    "name": "Borne Upon the Wind",
+    "nummer": "0356",
+    "name": "Isildur's Fateful Strike",
     "anzahl": "0",
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/Extended/card11ltrE.avif",
     "game":"MTG",
-    "rarityname": "Rare"
+    "rarityname": "RareE"
   },
   {
-    "nummer": "0762",
-    "name": "Goldberry, River-daughter",
+    "nummer": "0357",
+    "name": "Lobelia Sackville-Baggins",
     "anzahl": "0",
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/Extended/card12ltrE.avif",
     "game":"MTG",
-    "rarityname": "Rare"
+    "rarityname": "RareE"
   },
   {
-    "nummer": "0763",
-    "name": "Press the Enemy",
+    "nummer": "0358",
+    "name": "Display of Power",
     "anzahl": "0",
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/Extended/card13ltrE.avif",
     "game":"MTG",
-    "rarityname": "Rare"
+    "rarityname": "RareE"
   },
   {
-    "nummer": "0764",
-    "name": "Rangers of Ithilien",
+    "nummer": "0359",
+    "name": "Fall of Cair Andros",
     "anzahl": "0",
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/Extended/card14ltrE.avif",
     "game":"MTG",
-    "rarityname": "Rare"
+    "rarityname": "RareE"
   },
   {
-    "nummer": "0765",
-    "name": "The Watcher in the Water",
+    "nummer": "0360",
+    "name": "Gloin, Dwarf Emissary",
     "anzahl": "0",
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/Extended/card15ltrE.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "RareE"
   },
   {
-    "nummer": "0766",
-    "name": "Call of the Ring",
+    "nummer": "0361",
+    "name": "Hew the Entwood",
     "anzahl": "0",
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/Extended/card16ltrE.avif",
     "game":"MTG",
-    "rarityname": "Rare"
+    "rarityname": "Mythic RareE"
   },
   {
-    "nummer": "0767",
-    "name": "Isildur's Fateful Strike",
+    "nummer": "0362",
+    "name": "Moria Marauder",
     "anzahl": "0",
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/Extended/card17ltrE.avif",
     "game":"MTG",
-    "rarityname": "Rare"
+    "rarityname": "RareE"
   },
   {
-    "nummer": "0768",
-    "name": "Lobelia Sackville-Baggins",
+    "nummer": "0363",
+    "name": "Delighted Halfling",
     "anzahl": "0",
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/Extended/card18ltrE.avif",
     "game":"MTG",
-    "rarityname": "Rare"
+    "rarityname": "RareE"
   },
   {
-    "nummer": "0769",
-    "name": "Display of Power",
+    "nummer": "0364",
+    "name": "Elven Chorus",
     "anzahl": "0",
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/Extended/card19ltrE.avif",
     "game":"MTG",
-    "rarityname": "Rare"
+    "rarityname": "RareE"
   },
   {
-    "nummer": "0770",
-    "name": "Fall of Cair Andros",
+    "nummer": "0365",
+    "name": "Radagast the Brown",
     "anzahl": "0",
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/Extended/card20ltrE.avif",
     "game":"MTG",
-    "rarityname": "Rare"
+    "rarityname": "Mythic RareE"
   },
   {
-    "nummer": "0771",
-    "name": "Gloin, Dwarf Emissary",
+    "nummer": "0366",
+    "name": "The Ring goes South",
     "anzahl": "0",
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/Extended/card21ltrE.avif",
     "game":"MTG",
-    "rarityname": "Rare"
+    "rarityname": "RareE"
   },
   {
-    "nummer": "0772",
-    "name": "Hew the Entwood",
+    "nummer": "0367",
+    "name": "Arwen, Mortal Queen",
     "anzahl": "0",
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/Extended/card22ltrE.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Mythic RareE"
   },
   {
-    "nummer": "0773",
-    "name": "Moria Marauder",
+    "nummer": "0368",
+    "name": "Doors of Durin",
     "anzahl": "0",
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/Extended/card23ltrE.avif",
     "game":"MTG",
-    "rarityname": "Rare"
+    "rarityname": "RareE"
   },
   {
-    "nummer": "0774",
-    "name": "Delighted Halfling",
+    "nummer": "0369",
+    "name": "King of the Oathbreakers",
     "anzahl": "0",
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/Extended/card24ltrE.avif",
     "game":"MTG",
-    "rarityname": "Rare"
+    "rarityname": "RareE"
   },
   {
-    "nummer": "0775",
-    "name": "Elven Chorus",
+    "nummer": "0370",
+    "name": "Lotho, Corrupt Sherriff",
     "anzahl": "0",
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/Extended/card25ltrE.avif",
     "game":"MTG",
-    "rarityname": "Rare"
+    "rarityname": "RareE"
   },
   {
-    "nummer": "0776",
-    "name": "Radagast the Brown",
+    "nummer": "0371",
+    "name": "Saurons Ransom",
     "anzahl": "0",
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/Extended/card26ltrE.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "RareE"
   },
   {
-    "nummer": "0777",
-    "name": "The Ring goes South",
+    "nummer": "0372",
+    "name": "Shagrat, Loot Bearer",
     "anzahl": "0",
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/Extended/card27ltrE.avif",
     "game":"MTG",
-    "rarityname": "Rare"
+    "rarityname": "RareE"
   },
   {
-    "nummer": "0778",
-    "name": "Arwen, Mortal Queen",
+    "nummer": "0373",
+    "name": "Sharkey, Tyrant of the Shire",
     "anzahl": "0",
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/Extended/card28ltrE.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "RareE"
   },
   {
-    "nummer": "0779",
-    "name": "Doors of Durin",
+    "nummer": "0374",
+    "name": "Shelob, Child of Ungoliant",
     "anzahl": "0",
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/Extended/card29ltrE.avif",
     "game":"MTG",
-    "rarityname": "Rare"
+    "rarityname": "RareE"
   },
   {
-    "nummer": "0780",
-    "name": "King of the Oathbreakers",
+    "nummer": "0375",
+    "name": "Anduril, Flame of the West",
     "anzahl": "0",
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/Extended/card30ltrE.avif",
     "game":"MTG",
-    "rarityname": "Rare"
+    "rarityname": "Mythic RareE"
   },
   {
-    "nummer": "0781",
-    "name": "Lotho, Corrupt Sherriff",
+    "nummer": "0376",
+    "name": "Glamdring",
     "anzahl": "0",
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/Extended/card31ltrE.avif",
     "game":"MTG",
-    "rarityname": "Rare"
+    "rarityname": "Mythic RareE"
   },
   {
-    "nummer": "0782",
-    "name": "Saurons Ransom",
+    "nummer": "0377",
+    "name": "Horn of Gondor",
     "anzahl": "0",
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/Extended/card32ltrE.avif",
     "game":"MTG",
-    "rarityname": "Rare"
+    "rarityname": "RareE"
   },
   {
-    "nummer": "0783",
-    "name": "Shagrat, Loot Bearer",
+    "nummer": "0378",
+    "name": "Horn of the Mark",
     "anzahl": "0",
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/Extended/card33ltrE.avif",
     "game":"MTG",
-    "rarityname": "Rare"
+    "rarityname": "RareE"
   },
   {
-    "nummer": "0784",
-    "name": "Sharkey, Tyrant of the Shire",
+    "nummer": "0379",
+    "name": "Mithril Coat",
     "anzahl": "0",
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/Extended/card34ltrE.avif",
     "game":"MTG",
-    "rarityname": "Rare"
+    "rarityname": "RareE"
   },
   {
-    "nummer": "0785",
-    "name": "Shelob, Child of Ungoliant",
+    "nummer": "0380",
+    "name": "The One Ring",
     "anzahl": "0",
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/Extended/card35ltrE.avif",
     "game":"MTG",
-    "rarityname": "Rare"
+    "rarityname": "Mythic RareE"
   },
   {
-    "nummer": "0786",
-    "name": "Anduril, Flame of the West",
+    "nummer": "0381",
+    "name": "Palantir of Orthanc",
     "anzahl": "0",
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/Extended/card36ltrE.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Mythic RareE"
   },
   {
-    "nummer": "0787",
-    "name": "Glamdring",
+    "nummer": "0382",
+    "name": "Phial of Galadriel",
     "anzahl": "0",
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/Extended/card37ltrE.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "RareE"
   },
   {
-    "nummer": "0788",
-    "name": "Horn of Gondor",
+    "nummer": "0383",
+    "name": "Saradoc, Master of Buckland",
     "anzahl": "0",
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/Extended/card38ltrE.avif",
     "game":"MTG",
-    "rarityname": "Rare"
+    "rarityname": "RareE"
   },
   {
-    "nummer": "0789",
-    "name": "Horn of the Mark",
+    "nummer": "0384",
+    "name": "Elvish Mariner",
     "anzahl": "0",
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/Extended/card39ltrE.avif",
     "game":"MTG",
-    "rarityname": "Rare"
+    "rarityname": "RareE"
   },
   {
-    "nummer": "0790",
-    "name": "Mithril Coat",
+    "nummer": "0385",
+    "name": "Ringwraiths",
     "anzahl": "0",
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/Extended/card40ltrE.avif",
     "game":"MTG",
-    "rarityname": "Rare"
+    "rarityname": "RareE"
   },
   {
-    "nummer": "0791",
-    "name": "The One Ring",
+    "nummer": "0386",
+    "name": "Assault of Osgiliath",
     "anzahl": "0",
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/Extended/card41ltrE.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "RareE"
   },
   {
-    "nummer": "0792",
-    "name": "Palantir of Orthanc",
+    "nummer": "0387",
+    "name": "Elanor Gardner",
     "anzahl": "0",
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/Extended/card42ltrE.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "RareE"
   },
   {
-    "nummer": "0793",
-    "name": "Phial of Galadriel",
+    "nummer": "0388",
+    "name": "Frodo, Determined Hero",
     "anzahl": "0",
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/Extended/card43ltrE.avif",
     "game":"MTG",
-    "rarityname": "Rare"
+    "rarityname": "RareE"
+  },
+  {
+    "nummer": "0389",
+    "name": "Gandalf, White Rider",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/Extended/card44ltrE.avif",
+    "game":"MTG",
+    "rarityname": "RareE"
+  },
+  {
+    "nummer": "0390",
+    "name": "Gollum, Scheming Guide",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/Extended/card45ltrE.avif",
+    "game":"MTG",
+    "rarityname": "RareE"
+  },
+  {
+    "nummer": "0391",
+    "name": "Witch-king, Bringer of Ruin",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/Extended/card46ltrE.avif",
+    "game":"MTG",
+    "rarityname": "RareE"
+  },
+  {
+    "nummer": "0392",
+    "name": "Fires of Mount Doom",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/Extended/card47ltrE.avif",
+    "game":"MTG",
+    "rarityname": "RareE"
+  },
+  {
+    "nummer": "0393",
+    "name": "Galadariel, Gift-Giver",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/Extended/card48ltrE.avif",
+    "game":"MTG",
+    "rarityname": "RareE"
+  },
+  {
+    "nummer": "0394",
+    "name": "Aragaorn and Arwen, Wed",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/Extended/card49ltrE.avif",
+    "game":"MTG",
+    "rarityname": "Mythic RareE"
+  },
+  {
+    "nummer": "0395",
+    "name": "The Balrog, Flame of Udun",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/Extended/card50ltrE.avif",
+    "game":"MTG",
+    "rarityname": "RareE"
+  },
+  {
+    "nummer": "0396",
+    "name": "Sauron, the Lidless Eye",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/Extended/card51ltrE.avif",
+    "game":"MTG",
+    "rarityname": "Mythic RareE"
+  },
+  {
+    "nummer": "0397",
+    "name": "Bilbo's Ring",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/Extended/card52ltrE.avif",
+    "game":"MTG",
+    "rarityname": "RareE"
+  },
+  {
+    "nummer": "0398",
+    "name": "Eagle of Deliverance",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/Extended/card53ltrE.avif",
+    "game":"MTG",
+    "rarityname": "RareE"
+  },
+  {
+    "nummer": "0399",
+    "name": "Minas Tirith Garrison",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/Extended/card54ltrE.avif",
+    "game":"MTG",
+    "rarityname": "RareE"
+  },
+  {
+    "nummer": "0400",
+    "name": "Warg Rider",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/Extended/card55ltrE.avif",
+    "game":"MTG",
+    "rarityname": "RareE"
+  },
+  {
+    "nummer": "0401",
+    "name": "Riders of the Mark",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/Extended/card56ltrE.avif",
+    "game":"MTG",
+    "rarityname": "RareE"
+  },
+  {
+    "nummer": "0402",
+    "name": "Mirkwood Channeler",
+    "anzahl": "0",
+    "setcode": "LTR",
+    "bildlink":"./sidedata/cardimages/MTG/ltrmtg/Extended/card57ltrE.avif",
+    "game":"MTG",
+    "rarityname": "RareE"
   }
 ]

@@ -906,7 +906,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card101ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Uncommon"
   },
   {
     "nummer": "0102",
@@ -915,7 +915,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card102ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Rare"
   },
   {
     "nummer": "0103",
@@ -924,7 +924,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card103ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Rare"
   },
   {
     "nummer": "0104",
@@ -933,7 +933,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card104ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Common"
   },
   {
     "nummer": "0105",
@@ -942,7 +942,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card105ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Common"
   },
   {
     "nummer": "0106",
@@ -951,7 +951,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card106ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Rare"
   },
   {
     "nummer": "0107",
@@ -969,7 +969,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card108ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Common"
   },
   {
     "nummer": "0109",
@@ -978,7 +978,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card109ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Common"
   },
   {
     "nummer": "0110",
@@ -987,7 +987,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card110ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Common"
   },
   {
     "nummer": "0111",
@@ -996,7 +996,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card111ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Common"
   },
   {
     "nummer": "0112",
@@ -1005,7 +1005,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card112ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Common"
   },
   {
     "nummer": "0113",
@@ -1014,7 +1014,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card113ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Uncommon"
   },
   {
     "nummer": "0114",
@@ -1032,7 +1032,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card115ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Common"
   },
   {
     "nummer": "0116",
@@ -1041,7 +1041,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card116ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Uncommon"
   },
   {
     "nummer": "0117",
@@ -1050,7 +1050,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card117ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Common"
   },
   {
     "nummer": "0118",
@@ -1059,7 +1059,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card118ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Common"
   },
   {
     "nummer": "0119",
@@ -1068,7 +1068,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card119ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Rare"
   },
   {
     "nummer": "0120",
@@ -1077,7 +1077,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card120ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Rare"
   },
   {
     "nummer": "0121",
@@ -1086,7 +1086,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card121ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Uncommon"
   },
   {
     "nummer": "0122",
@@ -1095,7 +1095,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card122ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Common"
   },
   {
     "nummer": "0123",
@@ -1104,7 +1104,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card123ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Uncommon"
   },
   {
     "nummer": "0124",
@@ -1113,7 +1113,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card124ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Rare"
   },
   {
     "nummer": "0125",
@@ -1122,7 +1122,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card125ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Uncommon"
   },
   {
     "nummer": "0126",
@@ -1131,7 +1131,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card126ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Uncommon"
   },
   {
     "nummer": "0127",
@@ -1140,7 +1140,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card127ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Common"
   },
   {
     "nummer": "0128",
@@ -1149,7 +1149,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card128ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Uncommon"
   },
   {
     "nummer": "0129",
@@ -1158,7 +1158,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card129ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Uncommon"
   },
   {
     "nummer": "0130",
@@ -1167,7 +1167,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card130ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Common"
   },
   {
     "nummer": "0131",
@@ -1176,7 +1176,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card131ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Common"
   },
   {
     "nummer": "0132",
@@ -1185,7 +1185,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card132ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Rare"
   },
   {
     "nummer": "0133",
@@ -1194,7 +1194,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card133ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Uncommon"
   },
   {
     "nummer": "0134",
@@ -1203,7 +1203,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card134ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Uncommon"
   },
   {
     "nummer": "0135",
@@ -1212,7 +1212,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card135ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Common"
   },
   {
     "nummer": "0136",
@@ -1230,7 +1230,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card137ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Common"
   },
   {
     "nummer": "0138",
@@ -1239,7 +1239,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card138ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Rare"
   },
   {
     "nummer": "0139",
@@ -1248,7 +1248,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card139ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Common"
   },
   {
     "nummer": "0140",
@@ -1257,7 +1257,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card140ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Common"
   },
   {
     "nummer": "0141",
@@ -1266,7 +1266,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card141ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Common"
   },
   {
     "nummer": "0142",
@@ -1275,7 +1275,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card142ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Common"
   },
   {
     "nummer": "0143",
@@ -1284,7 +1284,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card143ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Uncommon"
   },
   {
     "nummer": "0144",
@@ -1293,7 +1293,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card144ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Common"
   },
   {
     "nummer": "0145",
@@ -1302,7 +1302,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card145ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Uncommon"
   },
   {
     "nummer": "0146",
@@ -1311,7 +1311,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card146ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Common"
   },
   {
     "nummer": "0147",
@@ -1320,7 +1320,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card147ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Common"
   },
   {
     "nummer": "0148",
@@ -1329,7 +1329,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card148ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Common"
   },
   {
     "nummer": "0149",
@@ -1347,7 +1347,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card150ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Common"
   },
   {
     "nummer": "0151",
@@ -1356,7 +1356,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card151ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Rare"
   },
   {
     "nummer": "0152",
@@ -1365,7 +1365,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card152ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Common"
   },
   {
     "nummer": "0153",
@@ -1374,7 +1374,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card153ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Common"
   },
   {
     "nummer": "0154",
@@ -1383,7 +1383,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card154ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Common"
   },
   {
     "nummer": "0155",
@@ -1392,7 +1392,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card155ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Common"
   },
   {
     "nummer": "0156",
@@ -1401,7 +1401,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card156ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Uncommon"
   },
   {
     "nummer": "0157",
@@ -1410,7 +1410,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card157ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Common"
   },
   {
     "nummer": "0158",
@@ -1419,7 +1419,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card158ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Rare"
   },
   {
     "nummer": "0159",
@@ -1428,7 +1428,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card159ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Uncommon"
   },
   {
     "nummer": "0160",
@@ -1437,7 +1437,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card160ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Rare"
   },
   {
     "nummer": "0161",
@@ -1446,7 +1446,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card161ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Common"
   },
   {
     "nummer": "0162",
@@ -1455,7 +1455,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card162ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Common"
   },
   {
     "nummer": "0163",
@@ -1464,7 +1464,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card163ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Uncommon"
   },
   {
     "nummer": "0164",
@@ -1473,7 +1473,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card164ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Common"
   },
   {
     "nummer": "0165",
@@ -1482,7 +1482,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card165ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Rare"
   },
   {
     "nummer": "0166",
@@ -1491,7 +1491,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card166ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Rare"
   },
   {
     "nummer": "0167",
@@ -1500,7 +1500,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card167ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Common"
   },
   {
     "nummer": "0168",
@@ -1509,7 +1509,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card168ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Common"
   },
   {
     "nummer": "0169",
@@ -1518,7 +1518,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card169ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Common"
   },
   {
     "nummer": "0170",
@@ -1527,7 +1527,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card170ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Uncommon"
   },
   {
     "nummer": "0171",
@@ -1536,7 +1536,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card171ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Uncommon"
   },
   {
     "nummer": "0172",
@@ -1554,7 +1554,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card173ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Rare"
   },
   {
     "nummer": "0174",
@@ -1563,7 +1563,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card174ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Uncommon"
   },
   {
     "nummer": "0175",
@@ -1572,7 +1572,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card175ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Common"
   },
   {
     "nummer": "0176",
@@ -1581,7 +1581,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card176ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Common"
   },
   {
     "nummer": "0177",
@@ -1590,7 +1590,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card177ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Uncommon"
   },
   {
     "nummer": "0178",
@@ -1599,7 +1599,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card178ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Common"
   },
   {
     "nummer": "0179",
@@ -1608,7 +1608,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card179ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Common"
   },
   {
     "nummer": "0180",
@@ -1617,7 +1617,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card180ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Common"
   },
   {
     "nummer": "0181",
@@ -1626,7 +1626,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card181ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Uncommon"
   },
   {
     "nummer": "0182",
@@ -1635,7 +1635,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card182ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Common"
   },
   {
     "nummer": "0183",
@@ -1644,7 +1644,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card183ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Uncommon"
   },
   {
     "nummer": "0184",
@@ -1662,7 +1662,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card185ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Common"
   },
   {
     "nummer": "0186",
@@ -1671,7 +1671,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card186ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Rare"
   },
   {
     "nummer": "0187",
@@ -1680,7 +1680,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card187ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Uncommon"
   },
   {
     "nummer": "0188",
@@ -1689,7 +1689,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card188ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Common"
   },
   {
     "nummer": "0189",
@@ -1698,7 +1698,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card189ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Uncommon"
   },
   {
     "nummer": "0190",
@@ -1707,7 +1707,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card190ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Common"
   },
   {
     "nummer": "0191",
@@ -1716,7 +1716,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card191ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Rare"
   },
   {
     "nummer": "0192",
@@ -1743,7 +1743,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card194ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Uncommon"
   },
   {
     "nummer": "0195",
@@ -1752,7 +1752,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card195ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Rare"
   },
   {
     "nummer": "0196",
@@ -1761,7 +1761,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card196ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Uncommon"
   },
   {
     "nummer": "0197",
@@ -1770,7 +1770,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card197ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Uncommon"
   },
   {
     "nummer": "0198",
@@ -1779,7 +1779,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card198ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Uncommon"
   },
   {
     "nummer": "0199",
@@ -1788,7 +1788,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card199ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Rare"
   },
   {
     "nummer": "0200",
@@ -1797,7 +1797,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card200ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Rare"
   },
   {
     "nummer": "0201",
@@ -1806,7 +1806,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card201ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Rare"
   },
   {
     "nummer": "0202",
@@ -1815,7 +1815,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card202ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Rare"
   },
   {
     "nummer": "0203",
@@ -1824,7 +1824,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card203ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Rare"
   },
   {
     "nummer": "0204",
@@ -1833,7 +1833,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card204ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Uncommon"
   },
   {
     "nummer": "0205",
@@ -1842,7 +1842,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card205ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Uncommon"
   },
   {
     "nummer": "0206",
@@ -1851,7 +1851,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card206ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Rare"
   },
   {
     "nummer": "0207",
@@ -1860,7 +1860,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card207ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Rare"
   },
   {
     "nummer": "0208",
@@ -1869,7 +1869,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card208ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Uncommon"
   },
   {
     "nummer": "0209",
@@ -1878,7 +1878,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card209ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Rare"
   },
   {
     "nummer": "0210",
@@ -1887,7 +1887,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card210ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Uncommon"
   },
   {
     "nummer": "0211",
@@ -1896,7 +1896,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card211ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Rare"
   },
   {
     "nummer": "0212",
@@ -1905,7 +1905,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card212ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Uncommon"
   },
   {
     "nummer": "0213",
@@ -1914,7 +1914,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card213ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Rare"
   },
   {
     "nummer": "0214",
@@ -1923,7 +1923,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card214ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Uncommon"
   },
   {
     "nummer": "0215",
@@ -1932,7 +1932,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card215ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Rare"
   },
   {
     "nummer": "0216",
@@ -1941,7 +1941,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card216ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Uncommon"
   },
   {
     "nummer": "0217",
@@ -1950,7 +1950,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card217ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Uncommon"
   },
   {
     "nummer": "0218",
@@ -1959,7 +1959,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card218ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Rare"
   },
   {
     "nummer": "0219",
@@ -1968,7 +1968,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card219ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Uncommon"
   },
   {
     "nummer": "0220",
@@ -1977,7 +1977,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card220ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Uncommon"
   },
   {
     "nummer": "0221",
@@ -1986,7 +1986,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card221ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Uncommon"
   },
   {
     "nummer": "0222",
@@ -1995,7 +1995,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card222ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Rare"
   },
   {
     "nummer": "0223",
@@ -2022,7 +2022,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card225ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Rare"
   },
   {
     "nummer": "0226",
@@ -2031,7 +2031,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card226ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Uncommon"
   },
   {
     "nummer": "0227",
@@ -2040,7 +2040,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card227ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Uncommon"
   },
   {
     "nummer": "0228",
@@ -2049,7 +2049,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card228ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Rare"
   },
   {
     "nummer": "0229",
@@ -2058,7 +2058,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card229ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Rare"
   },
   {
     "nummer": "0230",
@@ -2067,7 +2067,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card230ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Rare"
   },
   {
     "nummer": "0231",
@@ -2076,7 +2076,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card231ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Rare"
   },
   {
     "nummer": "0232",
@@ -2085,7 +2085,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card232ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Uncommon"
   },
   {
     "nummer": "0233",
@@ -2094,7 +2094,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card233ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Uncommon"
   },
   {
     "nummer": "0234",
@@ -2112,7 +2112,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card235ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Uncommon"
   },
   {
     "nummer": "0236",
@@ -2130,7 +2130,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card237ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Uncommon"
   },
   {
     "nummer": "0238",
@@ -2139,7 +2139,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card238ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Uncommon"
   },
   {
     "nummer": "0239",
@@ -2157,7 +2157,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card240ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Rare"
   },
   {
     "nummer": "0241",
@@ -2166,7 +2166,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card241ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Rare"
   },
   {
     "nummer": "0242",
@@ -2175,7 +2175,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card242ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Common"
   },
   {
     "nummer": "0243",
@@ -2184,7 +2184,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card243ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Common"
   },
   {
     "nummer": "0244",
@@ -2193,7 +2193,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card244ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Uncommon"
   },
   {
     "nummer": "0245",
@@ -2202,7 +2202,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card245ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Rare"
   },
   {
     "nummer": "0246",
@@ -2229,7 +2229,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card248ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Rare"
   },
   {
     "nummer": "0249",
@@ -2238,7 +2238,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card249ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Common"
   },
   {
     "nummer": "0250",
@@ -2247,7 +2247,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card250ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Rare"
   },
   {
     "nummer": "0251",
@@ -2256,7 +2256,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card251ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Uncommon"
   },
   {
     "nummer": "0252",
@@ -2265,7 +2265,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card252ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Common"
   },
   {
     "nummer": "0253",
@@ -2274,7 +2274,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card253ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Rare"
   },
   {
     "nummer": "0254",
@@ -2283,7 +2283,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card254ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Common"
   },
   {
     "nummer": "0255",
@@ -2292,7 +2292,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card255ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Uncommon"
   },
   {
     "nummer": "0256",
@@ -2301,7 +2301,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card256ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Rare"
   },
   {
     "nummer": "0257",
@@ -2310,7 +2310,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card257ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Rare"
   },
   {
     "nummer": "0258",
@@ -2328,7 +2328,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card259ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Rare"
   },
   {
     "nummer": "0260",
@@ -2337,7 +2337,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card260ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Rare"
   },
   {
     "nummer": "0261",
@@ -2346,7 +2346,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card261ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Common"
   },
   {
     "nummer": "0262",
@@ -2355,7 +2355,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card262ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "BasicLand"
   },
   {
     "nummer": "0263",
@@ -2364,7 +2364,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card263ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "BasicLand"
   },
   {
     "nummer": "0264",
@@ -2373,7 +2373,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card264ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "BasicLand"
   },
   {
     "nummer": "0265",
@@ -2382,7 +2382,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card265ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "BasicLand"
   },
   {
     "nummer": "0266",
@@ -2391,7 +2391,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card266ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "BasicLand"
   },
   {
     "nummer": "0267",
@@ -2400,7 +2400,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card267ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "BasicLand"
   },
   {
     "nummer": "0268",
@@ -2409,7 +2409,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card268ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "BasicLand"
   },
   {
     "nummer": "0269",
@@ -2418,7 +2418,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card269ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "BasicLand"
   },
   {
     "nummer": "0270",
@@ -2427,7 +2427,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card270ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "BasicLand"
   },
   {
     "nummer": "0271",
@@ -2436,7 +2436,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card271ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "BasicLand"
   },
   {
     "nummer": "0272",
@@ -2445,7 +2445,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card272ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "BasicLandFullArt"
   },
   {
     "nummer": "0273",
@@ -2454,7 +2454,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card273ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "BasicLandFullArt"
   },
   {
     "nummer": "0274",
@@ -2463,7 +2463,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card274ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "BasicLandFullArt"
   },
   {
     "nummer": "0275",
@@ -2472,7 +2472,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card275ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "BasicLandFullArt"
   },
   {
     "nummer": "0276",
@@ -2481,7 +2481,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card276ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "BasicLandFullArt"
   },
   {
     "nummer": "0277",
@@ -2490,7 +2490,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card277ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "BasicLandFullArt"
   },
   {
     "nummer": "0278",
@@ -2499,7 +2499,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card278ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "BasicLandFullArt"
   },
   {
     "nummer": "0279",
@@ -2508,7 +2508,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card279ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "BasicLandFullArt"
   },
   {
     "nummer": "0280",
@@ -2517,7 +2517,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card280ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "BasicLandFullArt"
   },
   {
     "nummer": "0281",
@@ -2526,6 +2526,6 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/card281ltr.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "BasicLandFullArt"
   }
 ]
