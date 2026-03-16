@@ -301,7 +301,7 @@ async function getasfile()
             }
             catch
             {
-            console.log("no file selected");
+                console.log("no file selected");
             }
         }
         reader.readAsText(fileglobal);
