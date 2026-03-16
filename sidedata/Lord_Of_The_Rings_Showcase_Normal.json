@@ -6,7 +6,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/Showcase_Ring/card1ltrShowN.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "RareShowcase"
   },
   {
     "nummer": "0303",
@@ -15,7 +15,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/Showcase_Ring/card2ltrShowN.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "UncommonShowcase"
   },
   {
     "nummer": "0304",
@@ -24,16 +24,16 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/Showcase_Ring/card3ltrShowN.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "RareShowcase"
   },
   {
     "nummer": "0305",
-    "name": "Dandalf the White",
+    "name": "Gandalf the White",
     "anzahl": "0",
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/Showcase_Ring/card4ltrShowN.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Mythic RareShowcase"
   },
   {
     "nummer": "0306",
@@ -42,7 +42,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/Showcase_Ring/card5ltrShowN.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "UncommonShowcase"
   },
   {
     "nummer": "0307",
@@ -51,7 +51,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/Showcase_Ring/card6ltrShowN.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "UncommonShowcase"
   },
   {
     "nummer": "0308",
@@ -60,7 +60,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/Showcase_Ring/card7ltrShowN.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "UncommonShowcase"
   },
   {
     "nummer": "0309",
@@ -69,7 +69,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/Showcase_Ring/card8ltrShowN.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "UncommonShowcase"
   },
   {
     "nummer": "0310",
@@ -78,7 +78,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/Showcase_Ring/card9ltrShowN.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "RareShowcase"
   },
   {
     "nummer": "0311",
@@ -87,7 +87,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/Showcase_Ring/card10ltrShowN.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Mythic RareShowcase"
   },
   {
     "nummer": "0312",
@@ -96,7 +96,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/Showcase_Ring/card11ltrShowN.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "UncommonShowcase"
   },
   {
     "nummer": "0313",
@@ -105,7 +105,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/Showcase_Ring/card12ltrShowN.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "RareShowcase"
   },
   {
     "nummer": "0314",
@@ -114,7 +114,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/Showcase_Ring/card13ltrShowN.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "UncommonShowcase"
   },
   {
     "nummer": "0315",
@@ -123,7 +123,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/Showcase_Ring/card14ltrShowN.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "UncommonShowcase"
   },
   {
     "nummer": "0316",
@@ -132,7 +132,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/Showcase_Ring/card15ltrShowN.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "RareShowcase"
   },
   {
     "nummer": "0317",
@@ -141,7 +141,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/Showcase_Ring/card16ltrShowN.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Mythic RareShowcase"
   },
   {
     "nummer": "0318",
@@ -150,7 +150,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/Showcase_Ring/card17ltrShowN.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "RareShowcase"
   },
   {
     "nummer": "0319",
@@ -159,7 +159,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/Showcase_Ring/card18ltrShowN.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "RareShowcase"
   },
   {
     "nummer": "0320",
@@ -168,7 +168,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/Showcase_Ring/card19ltrShowN.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "UncommonShowcase"
   },
   {
     "nummer": "0321",
@@ -177,7 +177,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/Showcase_Ring/card20ltrShowN.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "RareShowcase"
   },
   {
     "nummer": "0322",
@@ -186,7 +186,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/Showcase_Ring/card21ltrShowN.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "RareShowcase"
   },
   {
     "nummer": "0323",
@@ -195,7 +195,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/Showcase_Ring/card22ltrShowN.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "RareShowcase"
   },
   {
     "nummer": "0324",
@@ -204,7 +204,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/Showcase_Ring/card23ltrShowN.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "UncommonShowcase"
   },
   {
     "nummer": "0325",
@@ -213,7 +213,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/Showcase_Ring/card24ltrShowN.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "RareShowcase"
   },
   {
     "nummer": "0326",
@@ -222,7 +222,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/Showcase_Ring/card25ltrShowN.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "RareShowcase"
   },
   {
     "nummer": "0327",
@@ -231,7 +231,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/Showcase_Ring/card26ltrShowN.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "RareShowcase"
   },
   {
     "nummer": "0328",
@@ -240,7 +240,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/Showcase_Ring/card27ltrShowN.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Mythic RareShowcase"
   },
   {
     "nummer": "0329",
@@ -249,7 +249,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/Showcase_Ring/card28ltrShowN.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Mythic RareShowcase"
   },
   {
     "nummer": "0330",
@@ -258,7 +258,7 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/Showcase_Ring/card29ltrShowN.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "RareShowcase"
   },
   {
     "nummer": "0331",
@@ -267,6 +267,6 @@
     "setcode": "LTR",
     "bildlink":"./sidedata/cardimages/MTG/ltrmtg/Showcase_Ring/card30ltrShowN.avif",
     "game":"MTG",
-    "rarityname": "Mythic Rare"
+    "rarityname": "Mythic RareShowcase"
   }
 ]

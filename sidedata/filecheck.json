@@ -14,6 +14,13 @@
         "packgroup":"LTR"
     },
     {
+        "filename":"Lord_Of_The_Rings_Extented.json",
+        "setcode":"LTR",
+        "game":"MTG",
+        "packtype":"MTG1",
+        "packgroup":"LTR"
+    },
+    {
         "filename":"Lord_Of_The_Rings_Scene.json",
         "setcode":"LTR",
         "game":"MTG",
