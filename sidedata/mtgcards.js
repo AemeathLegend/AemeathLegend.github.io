@@ -408,8 +408,10 @@ async function backgroundchangepacksim()
 
 const packImages = {
     "m20pack.json": "./sidedata/cardimages/assetssim/packs/m20pack.png",
-    "./sidedata/Final_Fantasy.json": "./sidedata/cardimages/assetssim/packs/Final_Fantasy.png",
-    "./sidedata/derletztetanzzcg.json": "./sidedata/cardimages/assetssim/packs/derletztetanz.png"
+    "ltrDraftBooster":"./sidedata/cardimages/assetssim/packs/m20pack.png",
+    "finDraftBooster": "./sidedata/cardimages/assetssim/packs/Final_Fantasy.png",
+    "ltrDraftBooster": "./sidedata/cardimages/assetssim/packs/Lord_Of_The_Rings.png",
+    "theLastDanceZCG": "./sidedata/cardimages/assetssim/packs/derletztetanz.png"
 };
 
 /**
@@ -428,21 +430,21 @@ async function packimagechange()
 
 async function loadCards()
 {
-    const response = await fetch("./sidedata/filecheck.json")
+    const response = await fetch("./sidedata/filecheck.json");
     const data = await response.json();
-    data.forEach(element => {
-        if(element.filename==document.getElementById("packselection").value.substring(11,document.getElementById("packselection").value.length))
-        {
-            setDetails = [element.packtype,element.packgroup];
-        }
-    });
     rarityDict = {};
-    data.forEach(async filterElement=>{
-        if(filterElement.packtype==setDetails[0]&&filterElement.packgroup==setDetails[1])
+    for (const element of data) 
+    {
+        console.log(document.getElementById('packselection').value);
+        for (const packAppearenceListElement of element.packtype) 
         {
-            await getSetWithPath("./sidedata/"+filterElement.filename);
+            console.log(packAppearenceListElement);
+            if (packAppearenceListElement == document.getElementById('packselection').value) 
+            {
+                await getSetWithPath(element.filepath);
+            }
         }
-    })
+    }
 }
 
 async function getSetWithPath(filePath)
@@ -451,6 +453,7 @@ async function getSetWithPath(filePath)
     const daten = await response2.json();
     daten.forEach(card =>
     {
+        console.log("reached");
         if(!rarityDict[card.rarityname])
         {
             rarityDict[card.rarityname] = [];
@@ -496,7 +499,7 @@ async function openpackfill()
     let chancelist = [];
     let endrewards = [];
     const dataCheck = await checkSet();
-    if(dataCheck[0]=="MTG2"&&dataCheck[1]=="FIN")
+    if(dataCheck[0]=="finDraftBooster"&&dataCheck[1]=="MTG")
     {
         chancelist=setchancelist([10000,3675,700],[11,36,1/*last 33 placeholder for rest1*/]);
         endrewards.push(1,1,1,1,1,1);
@@ -534,7 +537,7 @@ async function openpackfill()
             endrewards.push(result);
         }
     }
-    if(dataCheck[0]=="ZCG1"&&dataCheck[1]=="ev1")
+    if(dataCheck[0]=="theLastDanceZCG"&&dataCheck[1]=="ZCG")
     {
         chancelist=setchancelist([10000,3000,1200,400,100],[1,2,3,4,5]);
         for(const result of calculateChance(6, chancelist, 4))
@@ -567,7 +570,7 @@ async function openpackfill()
             endrewards.push(result);
         }
     }
-    if(dataCheck[0]=="MTG1"&&dataCheck[1]=="LTR")
+    if(dataCheck[0]=="ltrDraftBooster"&&dataCheck[1]=="MTG")
     {
         endrewards.push(1,1,1,1,1,1,1,1,1,1);
         endrewards.push(6,6,6);
@@ -592,15 +595,19 @@ async function openpackfill()
 async function checkSet()
 {
     let setCol = [];
-    let setname = document.getElementById("packselection").value.substring(11,document.getElementById("packselection").value.length)
+    let packSimpleName = document.getElementById("packselection").value
     const response = await fetch("./sidedata/filecheck.json");
     const daten = await response.json();
-    daten.forEach(setData => {
-        if(setData.filename==setname)
+    for(const setData of daten)
+    {
+        for(const packTypeListElement of setData.packtype)
         {
-            setCol = [setData.packtype, setData.packgroup];
+            if(packTypeListElement==packSimpleName)
+            {
+                setCol = [packTypeListElement,setData.game]
+            }
         }
-    });
+    }
     return setCol;
 }
 
