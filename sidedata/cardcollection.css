@@ -245,3 +245,11 @@ select {
     letter-spacing: 1px;
     opacity: 0.9;
 }
+
+#backgroundselection{
+    visibility: visible;
+}
+
+#backgroundselectionCr{
+    visibility: hidden;
+}

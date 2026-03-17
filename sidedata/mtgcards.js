@@ -1,11 +1,15 @@
-
+CreatorKeyCodePress = [["1","8","5","3"]];
+CreatorKeyNumberArray = [];
+CreatorKeyPressCount = [-2,0];
+CreatorMode = [false,false];
 
 document.addEventListener('DOMContentLoaded', () => {
     const packSelect = document.getElementById('packselection');
     const backButton = document.getElementById('ZCGPackSimulatorback');
     const openPackButton = document.getElementById('openpackbutton');
     const backgroundselector = document.getElementById('backgroundselection');
-
+    const backgroundselectorCr = document.getElementById('backgroundselectionCr');
+    backgroundselectorCr.addEventListener('change', backgroundchangepacksim);
     backgroundselector.addEventListener('change', backgroundchangepacksim);
     packSelect.addEventListener('change', packimagechange);
 
@@ -16,8 +20,76 @@ document.addEventListener('DOMContentLoaded', () => {
     openPackButton.addEventListener('click', () => {
         console.log("Open pack button clicked");
     });
+
+    updateview();
 });
 
+function updateview()
+{
+    const backgroundselector = document.getElementById('backgroundselection');
+    const backgroundselectorCr = document.getElementById('backgroundselectionCr');
+    if(CreatorMode[1]===false)
+    {
+        backgroundselector.style.visibility = "visible";
+        backgroundselectorCr.style.visibility = "hidden";
+    }
+    else
+    {
+        backgroundselector.style.visibility = "hidden";
+        backgroundselectorCr.style.visibility = "visible";
+    }
+}
+
+document.addEventListener("keydown", function(event){
+    if(CreatorKeyPressCount[0]===-2)
+    {
+        if(event.key==="c")
+        {
+            CreatorKeyPressCount[0]=-1;
+            CreatorMode = [false,false];
+            CreatorKeyNumberArray = [];
+        }
+    }
+    else if(CreatorKeyPressCount[0]==-1)
+    {
+        if(event.key!=="1"&&event.key!=="2"&&event.key!=="3"&&event.key!=="4"&&event.key!=="5"&&event.key!=="6"&&event.key!=="7"&&event.key!=="8"&&event.key!=="9"&&event.key!=="0"&&event.key!=="+")
+        {
+            CreatorKeyPressCount[0]=-2;
+            CreatorMode = [false,false];
+        }
+        else if(event.key=="+")
+        {
+            if(CreatorKeyNumberArray[0]=="0"&&CreatorKeyNumberArray.length==1)
+            {
+                CreatorKeyPressCount = [0,0];
+                updateview();
+            }
+        }
+        else if(event.key==="enter")
+        {
+            CreatorKeyPressCount[0]=-2;
+            CreatorMode = [false,false];
+        }
+        else
+        {
+            CreatorKeyNumberArray.push(event.key);
+        }
+    }
+    else
+    {
+        if(CreatorKeyCodePress[CreatorKeyPressCount[0]][CreatorKeyPressCount[1]]==event.key)
+        {
+            CreatorKeyPressCount[1]+=1;
+            if(CreatorKeyPressCount[1]>=CreatorKeyCodePress[CreatorKeyPressCount].length)
+            {
+                if(CreatorKeyPressCount[0]==0)
+                {
+                    CreatorMode[1] = true;
+                }
+            }
+        }
+    }
+})
 
 i18next
   .use(i18nextBrowserLanguageDetector)
@@ -395,12 +467,21 @@ function backtomainmenu()
 
 const backgroundimg = {
     "galaxy": "./sidedata/cardimages/assetssim/backgrounds/Galaxy.avif",
-    "ayaka": "./sidedata/cardimages/assetssim/backgrounds/QueenAyaka.avif"
+    "ayaka": "./sidedata/cardimages/assetssim/backgrounds/QueenAyaka.avif",
+    "nyx":"./sidedata/cardimages/assetssim/backgrounds/NyxWallpaper.avif"
 };
 
 async function backgroundchangepacksim()
 {
-    const packbackselect = document.getElementById('backgroundselection');
+    let packbackselect = document.getElementById('backgroundselection');
+    if(CreatorMode[1]==true)
+    {
+        packbackselect = document.getElementById('backgroundselectionCr');
+    }
+    else
+    {
+        packbackselect = document.getElementById('backgroundselection');
+    }
     const background = document.getElementById('background');
     const selectedValue = packbackselect.value;
     background.style.backgroundImage = `url('${backgroundimg[selectedValue] || "./sidedata/cardimages/assetssim/backgrounds/Galaxy.avif"}')`;
