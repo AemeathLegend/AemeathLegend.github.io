@@ -1,86 +1,74 @@
 [
     {
-        "filename":"Final_Fantasy.json",
+        "filepath":"./sidedata/Final_Fantasy.json",
         "setcode":"FIN",
         "game":"MTG",
-        "packtype":"MTG2",
-        "packgroup":"FIN"
+        "packtype":["finDraftBooster","finCollectorBooster"]
     },
     {
-        "filename":"Lord_Of_The_Rings.json",
+        "filepath":"./sidedata/Lord_Of_The_Rings.json",
         "setcode":"LTR",
         "game":"MTG",
-        "packtype":"MTG1",
-        "packgroup":"LTR"
+        "packtype":["ltrDraftBooster","ltrSetBooster","ltrCollectorBooster"]
     },
     {
-        "filename":"Lord_Of_The_Rings_Extended.json",
+        "filepath":"./sidedata/Lord_Of_The_Rings_Extended.json",
         "setcode":"LTR",
         "game":"MTG",
-        "packtype":"MTG1",
-        "packgroup":"LTR"
+        "packtype":["ltrSetBooster","ltrCollectorBooster"]
     },
     {
-        "filename":"Lord_Of_The_Rings_Scene.json",
+        "filepath":"./sidedata/Lord_Of_The_Rings_Scene.json",
         "setcode":"LTR",
         "game":"MTG",
-        "packtype":"MTG1",
-        "packgroup":"LTR"
+        "packtype":["ltrDraftBooster","ltrSetBooster","ltrCollectorBooster"]
     },
     {
-        "filename":"Lord_Of_The_Rings_Showcase_Normal.json",
+        "filepath":"./sidedata/Lord_Of_The_Rings_Showcase_Normal.json",
         "setcode":"LTR",
         "game":"MTG",
-        "packtype":"MTG1",
-        "packgroup":"LTR"
+        "packtype":["ltrDraftBooster","ltrSetBooster","ltrCollectorBooster"]
     },
     {
-        "filename":"Limited_Edition_Alpha.json",
+        "filepath":"./sidedata/Limited_Edition_Alpha.json",
         "setcode":"LEA",
         "game":"MTG",
-        "packtype":"MTG3",
-        "packgroup":"LEA"
+        "packtype":["leaDraftBooster"]
     },
     {
-        "filename":"derletztetanzzcg.json",
+        "filepath":"./sidedata/derletztetanzzcg.json",
         "setcode":"ev1",
         "game":"ZCG",
-        "packtype":"ZCG1",
-        "packgroup":"ev1"
+        "packtype":["theLastDanceZCG"]
     },
     {
-        "filename":"derbeginzcg.json",
+        "filepath":"./sidedata/derbeginzcg.json",
         "setcode":"XXX",
         "game":"ZCG",
-        "packtype":"ZCG1",
-        "packgroup":"S1"
+        "packtype":["theBeginningZCG"]
     },
     {
-        "filename":"promoset2023zcg.json",
+        "filepath":"./sidedata/promoset2023zcg.json",
         "setcode":"pr23",
         "game":"ZCG",
-        "packtype":"ZCG1",
-        "packgroup":"pr23"
+        "packtype":["promo23ZCG"]
     },
     {
-        "filename":"promoset2024zcg.json",
+        "filepath":"./sidedata/promoset2024zcg.json",
         "setcode":"XXX",
         "game":"ZCG",
-        "packtype":"ZCG1",
-        "packgroup":"pr24"
+        "packtype":["promo24ZCG"]
     },
     {
-        "filename":"promoset2025zcg.json",
+        "filepath":"./sidedata/promoset2025zcg.json",
         "setcode":"XXX",
         "game":"ZCG",
-        "packtype":"ZCG1",
-        "packgroup":"pr25"
+        "packtype":["promo25ZCG"]
     },
     {
-        "filename":"promoset2026zcg.json",
+        "filepath":"./sidedata/promoset2026zcg.json",
         "setcode":"XXX",
         "game":"ZCG",
-        "packtype":"ZCG1",
-        "packgroup":"pr26"
+        "packtype":["promo26ZCG"]
     }
 ]
