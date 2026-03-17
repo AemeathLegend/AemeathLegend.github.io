@@ -120,9 +120,9 @@ const rarityIdMap =
     30:"ZalanFACA",
     31:"Promo",
     32:"LimitedCard",
-    33:"Common",
-    34:"Uncommon",
-    35:"Rare",
+    33:"PromoFA",
+    34:"LimitedPromo",
+    35:"CustomCard",
     36:"Mythic Rare",
     37:"Serialized",
     38:"TwoColorLand",
@@ -428,19 +428,33 @@ async function packimagechange()
 
 async function loadCards()
 {
-    const setforpack = document.getElementById("packselection").value;
-    const response = await fetch(setforpack);
-    const daten = await response.json();
-
+    const response = await fetch("./sidedata/filecheck.json")
+    const data = await response.json();
+    data.forEach(element => {
+        if(element.filename==document.getElementById("packselection").value.substring(11,document.getElementById("packselection").value.length))
+        {
+            setDetails = [element.packtype,element.packgroup];
+        }
+    });
     rarityDict = {};
+    data.forEach(async filterElement=>{
+        if(filterElement.packtype==setDetails[0]&&filterElement.packgroup==setDetails[1])
+        {
+            await getSetWithPath("./sidedata/"+filterElement.filename);
+        }
+    })
+}
 
+async function getSetWithPath(filePath)
+{
+    const response2 = await fetch(filePath);
+    const daten = await response2.json();
     daten.forEach(card =>
     {
         if(!rarityDict[card.rarityname])
         {
             rarityDict[card.rarityname] = [];
         }
-
         rarityDict[card.rarityname].push(card);
     });
 }
@@ -484,11 +498,11 @@ async function openpackfill()
     const dataCheck = await checkSet();
     if(dataCheck[0]=="MTG2"&&dataCheck[1]=="FIN")
     {
-        chancelist=setchancelist([10000,3675,700],[35,36,33/*last 33 placeholder for rest1*/]);
-        endrewards.push(33,33,33,33,33,33);
+        chancelist=setchancelist([10000,3675,700],[11,36,1/*last 33 placeholder for rest1*/]);
+        endrewards.push(1,1,1,1,1,1);
         if(Math.floor(Math.random()*100000)<=33333)
         {
-            chancelist=setchancelist([10000,3675,700],[34,35,36]);
+            chancelist=setchancelist([10000,3675,700],[6,11,36]);
             for(const result of calculateChance(1,chancelist,4))
             {
                 endrewards.push(result);
@@ -496,20 +510,20 @@ async function openpackfill()
         }
         else
         {
-            endrewards.push(34);
+            endrewards.push(6);
         }
-        endrewards.push(34,34,34);
-        chancelist=setchancelist([1000,833,250,224,167,55],[33,34,33,34,35,36]);
+        endrewards.push(6,6,6);
+        chancelist=setchancelist([1000,833,250,224,167,55],[1,6,1,6,11,36]);
         for(const result of calculateChance(1,chancelist,3))
         {
             endrewards.push(result);
         }
-        chancelist=setchancelist([1000,200,100,20,10,5],[35,36,35,36,35,36]);
+        chancelist=setchancelist([1000,200,100,20,10,5],[11,36,11,36,11,36]);
         for(const result of calculateChance(1,chancelist,3))
         {
             endrewards.push(result);
         }
-        chancelist=setchancelist([10000,4425,835,285,210,200,150,50,25],[33,34,35,36,33,34,35,36,33/*last 33 = placeholder for rest2*/]);
+        chancelist=setchancelist([10000,4425,835,285,210,200,150,50,25],[1,6,11,36,1,6,11,36,1/*last 33 = placeholder for rest2*/]);
         for(const result of calculateChance(1,chancelist,4))
         {
             endrewards.push(result);
@@ -549,6 +563,21 @@ async function openpackfill()
         }
         chancelist=setchancelist([1000000, 257259, 114330, 42864, 14277,20400, 5256, 2337, 875, 292,146],[16,17,16/*original epicFA*/,19,20,26,27,28,27/*original ZalanOA chance*/,28/*original ZalanFACA*/,32]);
         for(const result of calculateChance(1, chancelist, 6))
+        {
+            endrewards.push(result);
+        }
+    }
+    if(dataCheck[0]=="MTG1"&&dataCheck[1]=="LTR")
+    {
+        endrewards.push(1,1,1,1,1,1,1,1,1,1);
+        endrewards.push(6,6,6);
+        chancelist=setchancelist([100,5],[11,36]);
+        for(const result of calculateChance(1, chancelist, 2))
+        {
+            endrewards.push(result);
+        }
+        chancelist=setchancelist([10000,3414,1371,686],[46,46,47,48]);
+        for(const result of calculateChance(1, chancelist, 4))
         {
             endrewards.push(result);
         }
