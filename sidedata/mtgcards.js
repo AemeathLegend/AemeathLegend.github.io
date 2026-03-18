@@ -3,6 +3,7 @@ CreatorKeyNumberArray = [];
 CreatorKeyPressCount = [-2,0];
 let CreatorMode = JSON.parse(sessionStorage.getItem("CreatorMode")) || [false, false];
 let imageBack = JSON.parse(sessionStorage.getItem("imageBack")) || "galaxy";
+let languagesave = JSON.parse(sessionStorage.getItem("selectedLang")) || "en";
 const backgroundimg = {
     "galaxy": "./sidedata/cardimages/assetssim/backgrounds/Galaxy.avif",
     "ayaka": "./sidedata/cardimages/assetssim/backgrounds/QueenAyaka.avif",
@@ -17,7 +18,6 @@ document.addEventListener('DOMContentLoaded', () => {
     const backgroundselector = document.getElementById('backgroundselection');
     backgroundselector.addEventListener('change', backgroundchangepacksim);
     packSelect.addEventListener('change', packimagechange);
-
     backButton.addEventListener('click', () => {
         console.log("Back button clicked");
     });
@@ -25,7 +25,7 @@ document.addEventListener('DOMContentLoaded', () => {
     openPackButton.addEventListener('click', () => {
         console.log("Open pack button clicked");
     });
-
+    changeLanguage();
     updateview();
 });
 
@@ -124,7 +124,11 @@ i18next
           amount: "Amount",
           set: "Set",
           negative_cards: "You can't have negative amounts of owned cards",
-          failed_load: "Failed to load card lists from the website"
+          failed_load: "Failed to load card lists from the website",
+          thelastdancepack:"The last Dance",
+          magicportalpackback:"Magic Portal",
+          goddessnyxpackback:"Goddess Nyx",
+          packblessingpacksim:"May you have the best of Luck! To an explosive pack..."
         }
       },
       de: {
@@ -139,7 +143,11 @@ i18next
           amount: "Anzahl",
           set: "Set",
           negative_cards: "Du kannst keine negative Anzahl an Karten besitzen",
-          failed_load: "Kartendaten konnten nicht geladen werden"
+          failed_load: "Kartendaten konnten nicht geladen werden",
+          thelastdancepack:"Der letzte Tanz",
+          magicportalpackback:"Magisches Portal",
+          goddessnyxpackback:"Göttin Nyx",
+          packblessingpacksim:"Ich wünsche dir viel Glück, für einen krassen Booster..."
         }
       }
     }
@@ -156,11 +164,23 @@ function updateContent() {
   });
 }
 
-function changeLanguage(lang) {
-  i18next.changeLanguage(lang, () => {
+function changeLanguageInit(lang)
+{
+    languagesave = lang;
+    sessionStorage.setItem("selectedLang", JSON.stringify(lang));
+    changeLanguage();
+}
+
+
+
+function changeLanguage() {
+  i18next.changeLanguage(languagesave, () => {
     updateContent();
     updateHtmlLang();
-    getcollectionprogress();
+    if(window.location.href=="../index.html")
+    {
+        getcollectionprogress();
+    }
   });
 }
 
