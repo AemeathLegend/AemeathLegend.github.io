@@ -1,7 +1,7 @@
 CreatorKeyCodePress = [["1","8","5","3"]];
 CreatorKeyNumberArray = [];
 CreatorKeyPressCount = [-2,0];
-CreatorMode = [false,false];
+let CreatorMode = JSON.parse(sessionStorage.getItem("CreatorMode")) || [false, false];
 
 document.addEventListener('DOMContentLoaded', () => {
     const packSelect = document.getElementById('packselection');
@@ -40,56 +40,58 @@ function updateview()
     }
 }
 
-document.addEventListener("keydown", function(event){
-    if(CreatorKeyPressCount[0]===-2)
+document.addEventListener("keydown", function(event) {
+
+    if (CreatorKeyPressCount[0] === -2) 
     {
-        if(event.key==="c")
+        if (event.key === "c") 
         {
-            CreatorKeyPressCount[0]=-1;
-            CreatorMode = [false,false];
+            CreatorKeyPressCount[0] = -1;
+            CreatorMode = [false, false];
             CreatorKeyNumberArray = [];
         }
     }
-    else if(CreatorKeyPressCount[0]==-1)
+    else if (CreatorKeyPressCount[0] === -1) 
     {
-        if(event.key!=="1"&&event.key!=="2"&&event.key!=="3"&&event.key!=="4"&&event.key!=="5"&&event.key!=="6"&&event.key!=="7"&&event.key!=="8"&&event.key!=="9"&&event.key!=="0"&&event.key!=="+")
+        if (!"0123456789+".includes(event.key)) 
         {
-            CreatorKeyPressCount[0]=-2;
-            CreatorMode = [false,false];
+            CreatorKeyPressCount[0] = -2;
+            CreatorMode = [false, false];
         }
-        else if(event.key=="+")
+        else if (event.key === "+") 
         {
-            if(CreatorKeyNumberArray[0]=="0"&&CreatorKeyNumberArray.length==1)
+            if (CreatorKeyNumberArray[0] === "0" && CreatorKeyNumberArray.length === 1) 
             {
-                CreatorKeyPressCount = [0,0];
-                updateview();
+                CreatorKeyPressCount = [0, 0];
             }
         }
-        else if(event.key==="enter")
+        else if (event.key === "Enter") 
         {
-            CreatorKeyPressCount[0]=-2;
-            CreatorMode = [false,false];
+            CreatorKeyPressCount[0] = -2;
+            CreatorMode = [false, false];
         }
-        else
+        else 
         {
             CreatorKeyNumberArray.push(event.key);
         }
     }
-    else
+    else 
     {
-        if(CreatorKeyCodePress[CreatorKeyPressCount[0]][CreatorKeyPressCount[1]]==event.key)
-        {
-            CreatorKeyPressCount[1]+=1;
-            if(CreatorKeyPressCount[1]>=CreatorKeyCodePress[CreatorKeyPressCount].length)
+        if (CreatorKeyCodePress[CreatorKeyPressCount[0]] && CreatorKeyCodePress[CreatorKeyPressCount[0]][CreatorKeyPressCount[1]] === event.key)
             {
-                if(CreatorKeyPressCount[0]==0)
+            CreatorKeyPressCount[1] += 1;
+            if (CreatorKeyPressCount[1] >= CreatorKeyCodePress[CreatorKeyPressCount[0]].length) 
+            {
+                if (CreatorKeyPressCount[0] === 0) 
                 {
                     CreatorMode[1] = true;
+                    updateview();
                 }
+                CreatorKeyPressCount[1] = 0;
             }
         }
     }
-})
+});
 
 i18next
   .use(i18nextBrowserLanguageDetector)
@@ -457,17 +459,20 @@ async function getasfile()
 
 function openpacksimulator()
 {
+    sessionStorage.setItem("CreatorMode", JSON.stringify(CreatorMode));
     window.location.href = '../packsimulator.html';
 }
 
 function backtomainmenu()
 {
+    sessionStorage.setItem("CreatorMode", JSON.stringify(CreatorMode));
     window.location.href = '../index.html';
 }
 
 const backgroundimg = {
     "galaxy": "./sidedata/cardimages/assetssim/backgrounds/Galaxy.avif",
     "ayaka": "./sidedata/cardimages/assetssim/backgrounds/QueenAyaka.avif",
+    "magic_portal": "./sidedata/cardimages/assetssim/backgrounds/MagicPortal.avif",
     "nyx":"./sidedata/cardimages/assetssim/backgrounds/NyxWallpaper.avif"
 };
 
