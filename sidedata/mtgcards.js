@@ -2,14 +2,19 @@ CreatorKeyCodePress = [["1","8","5","3"]];
 CreatorKeyNumberArray = [];
 CreatorKeyPressCount = [-2,0];
 let CreatorMode = JSON.parse(sessionStorage.getItem("CreatorMode")) || [false, false];
+let imageBack = JSON.parse(sessionStorage.getItem("imageBack")) || "galaxy";
+const backgroundimg = {
+    "galaxy": "./sidedata/cardimages/assetssim/backgrounds/Galaxy.avif",
+    "ayaka": "./sidedata/cardimages/assetssim/backgrounds/QueenAyaka.avif",
+    "magic_portal": "./sidedata/cardimages/assetssim/backgrounds/MagicPortal.avif",
+    "nyx":"./sidedata/cardimages/assetssim/backgrounds/NyxWallpaper.avif"
+};
 
 document.addEventListener('DOMContentLoaded', () => {
     const packSelect = document.getElementById('packselection');
     const backButton = document.getElementById('ZCGPackSimulatorback');
     const openPackButton = document.getElementById('openpackbutton');
     const backgroundselector = document.getElementById('backgroundselection');
-    const backgroundselectorCr = document.getElementById('backgroundselectionCr');
-    backgroundselectorCr.addEventListener('change', backgroundchangepacksim);
     backgroundselector.addEventListener('change', backgroundchangepacksim);
     packSelect.addEventListener('change', packimagechange);
 
@@ -24,20 +29,25 @@ document.addEventListener('DOMContentLoaded', () => {
     updateview();
 });
 
+
 function updateview()
 {
-    const backgroundselector = document.getElementById('backgroundselection');
-    const backgroundselectorCr = document.getElementById('backgroundselectionCr');
-    if(CreatorMode[1]===false)
+    const creatorOptions = ["ayaka", "nyx"];
+    const select = document.getElementById("backgroundselection");
+    const creatorGroup = document.getElementById("creatorGroup");
+    for (let option of select.options) 
     {
-        backgroundselector.style.visibility = "visible";
-        backgroundselectorCr.style.visibility = "hidden";
+        if (creatorOptions.includes(option.value)) 
+        {
+            option.hidden = !CreatorMode[1];
+            if (option.hidden && option.selected) 
+            {
+                select.value = "galaxy";
+            }
+        }
     }
-    else
-    {
-        backgroundselector.style.visibility = "hidden";
-        backgroundselectorCr.style.visibility = "visible";
-    }
+    creatorGroup.style.display = CreatorMode[1] ? "block" : "none";
+    background.style.backgroundImage = `url('${backgroundimg[imageBack] || "./sidedata/cardimages/assetssim/backgrounds/Galaxy.avif"}')`;
 }
 
 document.addEventListener("keydown", function(event) {
@@ -469,26 +479,12 @@ function backtomainmenu()
     window.location.href = '../index.html';
 }
 
-const backgroundimg = {
-    "galaxy": "./sidedata/cardimages/assetssim/backgrounds/Galaxy.avif",
-    "ayaka": "./sidedata/cardimages/assetssim/backgrounds/QueenAyaka.avif",
-    "magic_portal": "./sidedata/cardimages/assetssim/backgrounds/MagicPortal.avif",
-    "nyx":"./sidedata/cardimages/assetssim/backgrounds/NyxWallpaper.avif"
-};
-
 async function backgroundchangepacksim()
 {
     let packbackselect = document.getElementById('backgroundselection');
-    if(CreatorMode[1]==true)
-    {
-        packbackselect = document.getElementById('backgroundselectionCr');
-    }
-    else
-    {
-        packbackselect = document.getElementById('backgroundselection');
-    }
-    const background = document.getElementById('background');
     const selectedValue = packbackselect.value;
+    sessionStorage.setItem("imageBack", JSON.stringify(selectedValue));
+    const background = document.getElementById('background');
     background.style.backgroundImage = `url('${backgroundimg[selectedValue] || "./sidedata/cardimages/assetssim/backgrounds/Galaxy.avif"}')`;
 }
 
