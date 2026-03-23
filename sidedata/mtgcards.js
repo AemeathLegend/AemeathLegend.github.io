@@ -93,14 +93,14 @@ function updateview()
     {
         if (creatorOptions.includes(option.value)) 
         {
-            option.hidden = CreatorMode;
+            option.hidden = !CreatorMode;
             if (option.hidden && option.selected) 
             {
                 select.value = "galaxy";
             }
         }
     }
-    creatorGroup.style.display = !CreatorMode ? "block" : "none";
+    creatorGroup.style.display = CreatorMode ? "block" : "none";
     background.style.backgroundImage = `url('${backgroundimg[imageBack] || "./sidedata/cardimages/assetssim/backgrounds/Galaxy.avif"}')`;
 }
 document.addEventListener("keydown", async function(event)
