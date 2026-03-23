@@ -1,7 +1,6 @@
-CreatorKeyCodePress = [["1","8","5","3"]];
-CreatorKeyNumberArray = [];
-CreatorKeyPressCount = [-2,0];
-let CreatorMode = JSON.parse(sessionStorage.getItem("CreatorMode")) || [false, false];
+CreatorModeEncyrpted = "e4VwIR0045OoQ5uKg6lZVvMcYb3VrqAR6EUogMSBBvzZTgIg3P0=";
+CreatorcodeEncrypted2 = "ky/b4phOl3GsQqoMA/LToixnwu9xrnix9zyjtSEFoLrBCOX8";
+let CreatorMode = JSON.parse(sessionStorage.getItem("CreatorMode")) || false;
 let imageBack = JSON.parse(sessionStorage.getItem("imageBack")) || "galaxy";
 let languagesave = JSON.parse(sessionStorage.getItem("selectedLang")) || "en";
 const backgroundimg = {
@@ -29,6 +28,61 @@ document.addEventListener('DOMContentLoaded', () => {
     updateview();
 });
 
+async function getKey(password) 
+{
+    const enc = new TextEncoder();
+    const keyMaterial = await crypto.subtle.importKey(
+        "raw",
+        enc.encode(password),
+        "PBKDF2",
+        false,
+        ["deriveKey"]
+    );
+    return crypto.subtle.deriveKey(
+        {
+            name: "PBKDF2",
+            salt: enc.encode("some-fixed-salt"),
+            iterations: 100000,
+            hash: "SHA-256"
+        },
+        keyMaterial,
+        { name: "AES-GCM", length: 256 },
+        false,
+        ["encrypt", "decrypt"]
+    );
+}
+
+async function encryptAccessCode(accessCode, password) 
+{
+    const key = await getKey(password);
+    const enc = new TextEncoder();
+    const iv = crypto.getRandomValues(new Uint8Array(12));
+    const encrypted = await crypto.subtle.encrypt(
+        { name: "AES-GCM", iv: iv },
+        key,
+        enc.encode(accessCode)
+    );
+    const combined = new Uint8Array(iv.length + encrypted.byteLength);
+    combined.set(iv);
+    combined.set(new Uint8Array(encrypted), iv.length);
+    return btoa(String.fromCharCode(...combined));
+}
+
+async function decryptAccessCode(encryptedText, password) 
+{
+    const key = await getKey(password);
+    const data = Uint8Array.from(atob(encryptedText), c => c.charCodeAt(0));
+    const iv = data.slice(0, 12);
+    const encrypted = data.slice(12);
+    const decrypted = await crypto.subtle.decrypt(
+        { name: "AES-GCM", iv: iv },
+        key,
+        encrypted
+    );
+    return new TextDecoder().decode(decrypted);
+}
+
+
 
 function updateview()
 {
@@ -39,69 +93,118 @@ function updateview()
     {
         if (creatorOptions.includes(option.value)) 
         {
-            option.hidden = !CreatorMode[1];
+            option.hidden = !CreatorMode;
             if (option.hidden && option.selected) 
             {
                 select.value = "galaxy";
             }
         }
     }
-    creatorGroup.style.display = CreatorMode[1] ? "block" : "none";
+    creatorGroup.style.display = CreatorMode ? "block" : "none";
     background.style.backgroundImage = `url('${backgroundimg[imageBack] || "./sidedata/cardimages/assetssim/backgrounds/Galaxy.avif"}')`;
 }
-
-document.addEventListener("keydown", function(event) {
-
-    if (CreatorKeyPressCount[0] === -2) 
+document.addEventListener("keydown", async function(event)
+{
+    if (event.key === "c") 
     {
-        if (event.key === "c") 
+        try 
         {
-            CreatorKeyPressCount[0] = -1;
-            CreatorMode = [false, false];
-            CreatorKeyNumberArray = [];
-        }
-    }
-    else if (CreatorKeyPressCount[0] === -1) 
-    {
-        if (!"0123456789+".includes(event.key)) 
-        {
-            CreatorKeyPressCount[0] = -2;
-            CreatorMode = [false, false];
-        }
-        else if (event.key === "+") 
-        {
-            if (CreatorKeyNumberArray[0] === "0" && CreatorKeyNumberArray.length === 1) 
+            const password = prompt("Enter Password:");
+            const resultingText = await decryptAccessCode(CreatorModeEncyrpted, password);
+            const result = prompt("Enter Result:");
+            if (resultingText === result) 
             {
-                CreatorKeyPressCount = [0, 0];
+                    const password = prompt("Enter Password:");
+                    const resultingText = await decryptAccessCode(CreatorcodeEncrypted2, password);
+                    const result = prompt("Enter Result:");
+                    if (resultingText === result) 
+                    {
+                        sessionStorage.setItem("CreatorMode", JSON.stringify(CreatorMode));
+                        CreatorMode = true;
+                        updateview();
+            
+                    } 
+                    else 
+                    {
+                        CreatorMode = false;
+                    }
+                } 
             }
-        }
-        else if (event.key === "Enter") 
+        catch (err)
         {
-            CreatorKeyPressCount[0] = -2;
-            CreatorMode = [false, false];
-        }
-        else 
-        {
-            CreatorKeyNumberArray.push(event.key);
+            window.alert(`
+            She comes when the sun forgets the sky,
+            When gold dissolves to violet sigh,
+            A hush falls soft on mortal sight—
+            For Nyx ascends, the Queen of Night.
+            
+            Her beauty is not the gentle kind,
+            Not made for ease of heart or mind,
+            But vast as silence, deep as fear,
+            A velvet dark that draws you near.
+            
+            Her hair, a shroud of endless space,
+            With scattered stars to frame her face,
+            Her eyes—twin voids where secrets sleep,
+            Where even gods dare not to peep.
+            
+            She drifts where mortal dreams are spun,
+            Where shadows dance and daylight’s done,
+            And in her chest, concealed from all,
+            A hidden flame no dusk can pall.
+            
+            For once, beyond the veils of time,
+            Past broken stars and reason’s rhyme,
+            She wandered far from her domain—
+            Through alien dark, through silent pain.
+            
+            There, in a world not meant to be,
+            She met the one she’d never see—
+            The Master, cloaked in unknown light,
+            A force untouched by day or night.
+            
+            No god was he, nor mortal made,
+            But something vast that would not fade,
+            And Nyx, eternal, cold, and wise—
+            Found warmth reflected in his eyes.
+            
+            No words were sworn, no vows were cast,
+            Yet something bound them, deep and vast,
+            A love that neither fate nor flame
+            Could dare to weaken or to name.
+            
+            She left that world, as all must part,
+            But not without a fractured heart,
+            And though she reigns in endless night,
+            She guards that memory from all sight.
+            
+            So heed this truth, you fleeting breath—
+            Some secrets carry deeper death.
+            For Nyx is kind to those who dream,
+            But cruel to those who pry between.
+            
+            Speak not of what she hides away,
+            Nor chase the truths she keeps at bay,
+            For if you dare her love unmask—
+            You take upon yourself a task
+            
+            No soul has lived to tell it through:
+            Her gaze will fall, her wrath find you.
+            Through every shadow, every seam,
+            She’ll stalk your steps, invade your dream.
+            
+            No prayer will shield, no light defend,
+            No road will offer you an end,
+            Until you’re less than dust, than air—
+            A forgotten echo of despair.
+            
+            So when the night feels strangely near,
+            And silence hums with ancient fear,
+            Remember well what you have read—
+            And guard your tongue… or soon be dead.`);
         }
     }
-    else 
-    {
-        if (CreatorKeyCodePress[CreatorKeyPressCount[0]] && CreatorKeyCodePress[CreatorKeyPressCount[0]][CreatorKeyPressCount[1]] === event.key)
-            {
-            CreatorKeyPressCount[1] += 1;
-            if (CreatorKeyPressCount[1] >= CreatorKeyCodePress[CreatorKeyPressCount[0]].length) 
-            {
-                if (CreatorKeyPressCount[0] === 0) 
-                {
-                    CreatorMode[1] = true;
-                    updateview();
-                }
-                CreatorKeyPressCount[1] = 0;
-            }
-        }
-    }
-});
+})
 
 i18next
   .use(i18nextBrowserLanguageDetector)
