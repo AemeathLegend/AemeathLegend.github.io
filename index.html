@@ -12,47 +12,121 @@
         <h1 data-i18n="title">Trading Card Game Collection Tracker</h1>
 
         <div class="controls">
-            <label for="setsselection" data-i18n="choose_set">Choose a Set</label>
-            <select name="setsselection" id="setsselection" onchange="getasfile()">
-                <option value="">--Please choose a Set--</option>
-                <optgroup label="MTG (Standard)">
-                    <option value="./sidedata/Final_Fantasy.json">Final Fantasy</option>
-                    <option value="./sidedata/Lord_Of_The_Rings.json">Lord of the Ring</option>
-                    <option value="./sidedata/Limited_Edition_Alpha.json">Limited Edition Alpha</option>
-                </optgroup>
-                <optgroup label="MTG (Showcase)">
-                    <option value="./sidedata/Lord_Of_The_Rings_Showcase_Normal.json">Lord of the Ring (Ring)</option>
-                </optgroup>
-                <optgroup label="MTG (Scene)">
-                    <option value="./sidedata/Lord_Of_The_Rings_Scene.json">Lord of the Ring</option>
-                </optgroup>
-                <optgroup label="MTG (Extended)">
-                    <option value="./sidedata/Lord_Of_The_Rings_Extended.json">Lord of the Ring</option>
-                </optgroup>
-                <optgroup label="ZCG (Origin-Sets)">
-                    <option value="./sidedata/derbeginzcg.json">The beginning(Set 1.1)</option>
-                </optgroup>
-                <optgroup label="ZCG (Event-Sets)">
-                    <option value="./sidedata/derletztetanzzcg.json">The Last Dance(2025)</option>
-                </optgroup>
-                <optgroup label="ZCG (Promo-Sets)">
-                    <option value="./sidedata/promoset2023zcg.json">Promo Set 2023</option>
-                    <option value="./sidedata/promoset2024zcg.json">Promo Set 2024</option>
-                    <option value="./sidedata/promoset2025zcg.json">Promo Set 2025</option>
-                    <option value="./sidedata/promoset2026zcg.json">Promo Set 2026</option>
-                </optgroup>
-            </select>
+            <div class="dropdown">
+                <button class="dropbtn" data-i18n="choose_set">
+                    Choose a Set
+                </button>
+                <div class="dropdown-content">
+                    <div class="submenu">
+                        <span>MTG</span>
+                        <div class="submenu-content">
+                            <div class="submenu">
+                                <span>Standard</span>
+                                <div class="submenu-content">
+                                    <a href="#"
+                                    onclick="loadSet('./sidedata/Final_Fantasy.json'); return false;">
+                                        Final Fantasy
+                                    </a>
+                                    <a href="#"
+                                    onclick="loadSet('./sidedata/Lord_Of_The_Rings.json'); return false;">
+                                        Lord of the Rings
+                                    </a>
+                                    <a href="#"
+                                    onclick="loadSet('./sidedata/Limited_Edition_Alpha.json'); return false;">
+                                        Limited Edition Alpha
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="submenu">
+                                <span>Showcase</span>
+                                <div class="submenu-content">
+                                    <a href="#"
+                                    onclick="loadSet('./sidedata/Lord_Of_The_Rings_Showcase_Normal.json'); return false;">
+                                        Lord of the Rings (Ring)
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="submenu">
+                                <span>Scene</span>
+                                <div class="submenu-content">
+                                    <a href="#"
+                                    onclick="loadSet('./sidedata/Lord_Of_The_Rings_Scene.json'); return false;">
+                                        Lord of the Rings
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="submenu">
+                                <span>Extended</span>
+                                <div class="submenu-content">
+                                    <a href="#"
+                                    onclick="loadSet('./sidedata/Lord_Of_The_Rings_Extended.json'); return false;">
+                                        Lord of the Rings
+                                    </a>
+                                </div>
+                            </div>
 
-            <button onclick="saveasfile()" data-i18n="save_json">Save JSON</button>
-            <input type="file" id="getbutton" oninput="getasfile()"/>
+                        </div>
+                    </div>
+                    <div class="submenu">
+                        <span>ZCG</span>
+                        <div class="submenu-content">
+                            <div class="submenu">
+                                <span>Origin Sets</span>
+                                <div class="submenu-content">
+                                    <a href="#"
+                                    onclick="loadSet('./sidedata/derbeginzcg.json'); return false;">
+                                        The Beginning (Set 1.1)
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="submenu">
+                                <span>Event Sets</span>
+                                <div class="submenu-content">
+                                    <a href="#"
+                                    onclick="loadSet('./sidedata/derletztetanzzcg.json'); return false;">
+                                        The Last Dance (2025)
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="submenu">
+                                <span>Promo Sets</span>
+                                <div class="submenu-content">
+                                    <a href="#"
+                                    onclick="loadSet('./sidedata/promoset2023zcg.json'); return false;">
+                                        Promo Set 2023
+                                    </a>
+                                    <a href="#"
+                                    onclick="loadSet('./sidedata/promoset2024zcg.json'); return false;">
+                                        Promo Set 2024
+                                    </a>
+                                    <a href="#"
+                                    onclick="loadSet('./sidedata/promoset2025zcg.json'); return false;">
+                                        Promo Set 2025
+                                    </a>
+                                    <a href="#"
+                                    onclick="loadSet('./sidedata/promoset2026zcg.json'); return false;">
+                                        Promo Set 2026
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <button onclick="saveasfile()" data-i18n="save_json">
+                Save JSON
+            </button>
+            <input
+                type="file"
+                id="getbutton"
+                onchange="getasfile()"
+            />
             <button id="ZCGPackSimulator" onclick="openpacksimulator()">🌸</button>
         </div>
-
         <div class="stats">
             <p id="ProgressCollection" data-i18n="progress">Progress: 0%</p>
             <p id="totalcardsinthisset" data-i18n="total_cards">0</p>
         </div>
-
         <table id="mtgcardlist">
             <thead>
                 <tr>
@@ -69,7 +143,6 @@
         <button onclick="changeLanguageInit('en')">EN</button>
         <button onclick="changeLanguageInit('de')">DE</button>
     </div>
-
     <script src="./sidedata/mtgcards.js"></script>
 </body>
 </html>
