@@ -10,7 +10,12 @@
 <body>
     <div class="app">
         <h1 data-i18n="title">Trading Card Game Collection Tracker</h1>
-
+        <div id="customAlert" class="modal-overlay">
+        <div class="modal-box">
+            <p id="alertMessage"></p>
+            <button id="alertButton" onclick="closeAlert()">OK</button>
+        </div>
+        </div>
         <div class="controls">
             <div class="dropdown">
                 <button class="dropbtn" data-i18n="choose_set">

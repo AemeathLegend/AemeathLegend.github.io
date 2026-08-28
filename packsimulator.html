@@ -10,7 +10,12 @@
 <body class="pack-bg" id="background">
     <div class="pack-app">
         <h1 class="pack-title">Pack Opener</h1>
-
+        <div id="customAlert" class="modal-overlay">
+        <div class="modal-box">
+            <p id="alertMessage"></p>
+            <button id="alertButton" onclick="closeAlert()">OK</button>
+        </div>
+        </div>
         <div class="pack-controls">
             <select name="packselection" id="packselection">
                 <option value="m20pack.json">--Please choose a Pack--</option>

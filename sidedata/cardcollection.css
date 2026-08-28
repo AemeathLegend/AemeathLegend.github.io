@@ -317,3 +317,40 @@ select {
 .submenu-content a:hover {
     background: #2f3605a4;
 }
+
+/* The semi-transparent background overlay */
+.modal-overlay {
+  display: none; 
+  position: fixed;
+  top: 0; left: 0; width: 100%; height: 100%;
+  background: rgba(0, 0, 0, 0.3);
+  z-index: 9999;
+  justify-content: center;
+  align-items: center;
+}
+
+/* The actual alert box */
+.modal-box {
+  background: rgba(0, 0, 0, 0.2);
+  padding: 20px;
+  border-radius: 8px;
+  max-width: 60%; /* You can change or remove this */
+  max-height: 80%; /* You can change or remove this */
+  overflow-y: scroll;     /* Adds a vertical scrollbar only when needed */
+  overflow-x: hidden;   /* Hides horizontal scrollbar */
+  width: 90%;
+  text-align: center;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+}
+
+.modal-box button {
+  margin-top: 15px;
+  padding: 8px 20px;
+  cursor: pointer;
+}
+
+#alertMessage {
+  color: #fff;
+  font-size: 16px;
+  line-height: 1.5;
+}
