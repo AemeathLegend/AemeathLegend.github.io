@@ -1,3 +1,4 @@
+//all available backgrounds
 export const backgroundimg = {
   galaxy:
     "../../sidedata/cardimages/assetssim/backgrounds/Galaxy.avif",

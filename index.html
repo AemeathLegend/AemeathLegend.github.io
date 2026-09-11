@@ -1,5 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
+<!-- HTML head content including the required packages for translation and the path of the css stylesheet -->
+
 <head>
     <meta charset="UTF-8">
     <title>CardGamesCollectedCards</title>
@@ -7,64 +9,72 @@
     <script src="https://unpkg.com/i18next@23/i18next.min.js"></script>
     <script src="https://unpkg.com/i18next-browser-languagedetector@7/i18nextBrowserLanguageDetector.min.js"></script>
 </head>
+<!-- HTML body containing the site for browsing cards -->
+
 <body>
     <div class="app">
         <h1 data-i18n="title">Trading Card Game Collection Tracker</h1>
+        <!-- alert area for custom alerts with no text and content limitation -->
         <div id="customAlert" class="modal-overlay">
-        <div class="modal-box">
-            <p id="alertMessage"></p>
-            <button id="alertButton" onclick="closeAlert()">OK</button>
+            <div class="modal-box">
+                <p id="alertMessage"></p>
+                <button id="alertButton" onclick="closeAlert()">OK</button>
+            </div>
         </div>
-        </div>
+        <!-- top bar(navigation) -->
         <div class="controls">
+            <!-- cardGame+set Filter/ navigation -->
             <div class="dropdown">
                 <button class="dropbtn" data-i18n="choose_set">
                     Choose a Set
                 </button>
                 <div class="dropdown-content">
+                    <!-- Magic the Gathering(MTG) -->
                     <div class="submenu">
                         <span>MTG</span>
                         <div class="submenu-content">
+                            <!-- Base card collections -->
                             <div class="submenu">
                                 <span>Standard</span>
                                 <div class="submenu-content">
-                                    <a href="#"
-                                    onclick="loadSet('./sidedata/Final_Fantasy.json'); return false;">
+                                    <a href="#" onclick="loadSet('./sidedata/Final_Fantasy.json'); return false;">
                                         Final Fantasy
                                     </a>
-                                    <a href="#"
-                                    onclick="loadSet('./sidedata/Lord_Of_The_Rings.json'); return false;">
+                                    <a href="#" onclick="loadSet('./sidedata/Lord_Of_The_Rings.json'); return false;">
                                         Lord of the Rings
                                     </a>
                                     <a href="#"
-                                    onclick="loadSet('./sidedata/Limited_Edition_Alpha.json'); return false;">
+                                        onclick="loadSet('./sidedata/Limited_Edition_Alpha.json'); return false;">
                                         Limited Edition Alpha
                                     </a>
                                 </div>
                             </div>
+                            <!-- showcase/ special treatment card collections -->
                             <div class="submenu">
                                 <span>Showcase</span>
                                 <div class="submenu-content">
                                     <a href="#"
-                                    onclick="loadSet('./sidedata/Lord_Of_The_Rings_Showcase_Normal.json'); return false;">
+                                        onclick="loadSet('./sidedata/Lord_Of_The_Rings_Showcase_Normal.json'); return false;">
                                         Lord of the Rings (Ring)
                                     </a>
                                 </div>
                             </div>
+                            <!-- scene card collections -->
                             <div class="submenu">
                                 <span>Scene</span>
                                 <div class="submenu-content">
                                     <a href="#"
-                                    onclick="loadSet('./sidedata/Lord_Of_The_Rings_Scene.json'); return false;">
+                                        onclick="loadSet('./sidedata/Lord_Of_The_Rings_Scene.json'); return false;">
                                         Lord of the Rings
                                     </a>
                                 </div>
                             </div>
+                            <!-- extendedArt card collections -->
                             <div class="submenu">
                                 <span>Extended</span>
                                 <div class="submenu-content">
                                     <a href="#"
-                                    onclick="loadSet('./sidedata/Lord_Of_The_Rings_Extended.json'); return false;">
+                                        onclick="loadSet('./sidedata/Lord_Of_The_Rings_Extended.json'); return false;">
                                         Lord of the Rings
                                     </a>
                                 </div>
@@ -72,44 +82,42 @@
 
                         </div>
                     </div>
+                    <!-- Zala-Card-Game(ZCG) -->
                     <div class="submenu">
                         <span>ZCG</span>
                         <div class="submenu-content">
+                            <!-- base card Collections -->
                             <div class="submenu">
                                 <span>Origin Sets</span>
                                 <div class="submenu-content">
-                                    <a href="#"
-                                    onclick="loadSet('./sidedata/derbeginzcg.json'); return false;">
+                                    <a href="#" onclick="loadSet('./sidedata/derbeginzcg.json'); return false;">
                                         The Beginning (Set 1.1)
                                     </a>
                                 </div>
                             </div>
+                            <!-- event card Collections -->
                             <div class="submenu">
                                 <span>Event Sets</span>
                                 <div class="submenu-content">
-                                    <a href="#"
-                                    onclick="loadSet('./sidedata/derletztetanzzcg.json'); return false;">
+                                    <a href="#" onclick="loadSet('./sidedata/derletztetanzzcg.json'); return false;">
                                         The Last Dance (2025)
                                     </a>
                                 </div>
                             </div>
+                            <!-- promo card collections -->
                             <div class="submenu">
                                 <span>Promo Sets</span>
                                 <div class="submenu-content">
-                                    <a href="#"
-                                    onclick="loadSet('./sidedata/promoset2023zcg.json'); return false;">
+                                    <a href="#" onclick="loadSet('./sidedata/promoset2023zcg.json'); return false;">
                                         Promo Set 2023
                                     </a>
-                                    <a href="#"
-                                    onclick="loadSet('./sidedata/promoset2024zcg.json'); return false;">
+                                    <a href="#" onclick="loadSet('./sidedata/promoset2024zcg.json'); return false;">
                                         Promo Set 2024
                                     </a>
-                                    <a href="#"
-                                    onclick="loadSet('./sidedata/promoset2025zcg.json'); return false;">
+                                    <a href="#" onclick="loadSet('./sidedata/promoset2025zcg.json'); return false;">
                                         Promo Set 2025
                                     </a>
-                                    <a href="#"
-                                    onclick="loadSet('./sidedata/promoset2026zcg.json'); return false;">
+                                    <a href="#" onclick="loadSet('./sidedata/promoset2026zcg.json'); return false;">
                                         Promo Set 2026
                                     </a>
                                 </div>
@@ -118,20 +126,20 @@
                     </div>
                 </div>
             </div>
+            <!-- file management with save and load(for card management) -->
             <button onclick="saveasfile()" data-i18n="save_json">
                 Save JSON
             </button>
-            <input
-                type="file"
-                id="getbutton"
-                onchange="getasfile()"
-            />
+            <input type="file" id="getbutton" onchange="getasfile()" />
+            <!-- navigation buttons to subPages -->
             <button id="ZCGPackSimulator" onclick="openpacksimulator()">🌸</button>
         </div>
+        <!-- Collection state information -->
         <div class="stats">
             <p id="ProgressCollection" data-i18n="progress">Progress: 0%</p>
             <p id="totalcardsinthisset" data-i18n="total_cards">0</p>
         </div>
+        <!-- card table for loaded cards of selected game+set -->
         <table id="mtgcardlist">
             <thead>
                 <tr>
@@ -145,10 +153,12 @@
             </thead>
             <tbody></tbody>
         </table>
+        <!-- language management -->
         <button onclick="changeLanguageInit('en')">EN</button>
         <button onclick="changeLanguageInit('de')">DE</button>
     </div>
+    <!-- required script path -->
     <script type="module" src="./sidedata/js/main.js"></script>
 </body>
-</html>
 
+</html>

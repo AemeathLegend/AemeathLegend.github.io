@@ -1,5 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
+<!-- HTML head content for packSimulator subpage including the required packages for translation and the path of the css stylesheet -->
+
 <head>
     <meta charset="UTF-8">
     <title>CardGamesCollectedCards</title>
@@ -7,27 +9,38 @@
     <script src="https://unpkg.com/i18next@23/i18next.min.js"></script>
     <script src="https://unpkg.com/i18next-browser-languagedetector@7/i18nextBrowserLanguageDetector.min.js"></script>
 </head>
+
+<!-- HTML body for packSimulator subpage -->
+
 <body class="pack-bg" id="background">
     <div class="pack-app">
         <h1 class="pack-title">Pack Opener</h1>
+        <!-- alert area for custom alerts with no text and content limitation -->
         <div id="customAlert" class="modal-overlay">
-        <div class="modal-box">
-            <p id="alertMessage"></p>
-            <button id="alertButton" onclick="closeAlert()">OK</button>
+            <div class="modal-box">
+                <p id="alertMessage"></p>
+                <button id="alertButton" onclick="closeAlert()">OK</button>
+            </div>
         </div>
-        </div>
+        <!-- packSimulator setting and navigation area -->
         <div class="pack-controls">
+            <!-- pack set selection -->
             <select name="packselection" id="packselection">
                 <option value="m20pack.json">--Please choose a Pack--</option>
+                <!-- Magic The Gathering(MTG) -->
                 <optgroup label="MTG">
                     <option value="ltrDraftBooster">Lord of the Ring Draft Booster</option>
                     <option value="finDraftBooster">Final Fantasy Play Booster</option>
                 </optgroup>
+                <!-- Zala-Card-Game(ZCG) -->
                 <optgroup label="ZCG(Event)">
                     <option value="theLastDanceZCG" data-i18n="thelastdancepack">The last Dance</option>
                 </optgroup>
             </select>
+            <!-- packSimulator sub/ mainPage navigation -->
             <button id="ZCGPackSimulatorback" onclick="backtomainmenu()">🌸 Back</button>
+            <!-- packSimulator Settings -->
+            <!-- packSimulator BackGround Setting -->
             <select name="backgroundselection" id="backgroundselection">
                 <option value="galaxy">Galaxy</option>
                 <option value="magic_portal" data-i18n="magicportalpackback">Magic Portal</option>
@@ -37,22 +50,24 @@
                 </optgroup>
             </select>
         </div>
-
+        <!-- Pack with simulation on click -->
         <button id="openpackbutton" onclick="openpack()">
             <img id="packimage" src="./sidedata/cardimages/assetssim/packs/m20pack.png" alt="Open Pack">
-            <span class="open-label" data-i18n="packblessingpacksim">May you have the best of Luck! To an explosive pack...</span>
+            <span class="open-label" data-i18n="packblessingpacksim">May you have the best of Luck! To an explosive
+                pack...</span>
         </button>
     </div>
-
+    <!-- required script path-->
     <script type="module" src="./sidedata/js/main.js"></script>
 </body>
+<!-- packSimulator essential and overall styling -->
 <style>
-    .text
-    {
+    /* text styling on packSimulator Page */
+    .text {
         color: black;
         font-size: 15px;
         background-color: rgba(255, 255, 255, 0.40);
     }
 </style>
-</html>
 
+</html>
